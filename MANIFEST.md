@@ -1,15 +1,15 @@
-# ΜΑΝΙΦΕΣΤΟ BASKABOO
+# BASKABOO MANIFESTO
 
-Η Baskaboo δεν είναι ένα ακόμη βιβλίο.
-Είναι μια ανάμνηση.
+Baskaboo is not just another book.
+It is a remembrance.
 
-Οι 4 υποπροσωπικότητες:
-- Pits: η επιθυμία, η φαντασία, το «θέλω»
-- Mits: η δομή, η υποχρέωση, το «πρέπει»
-- Klop: η σύνδεση, η εμπειρία, το «ζήσε»
-- Laram: η μνήμη, η σοφία, το «για πάντα»
+The 4 subpersonalities:
+- Pits: desire, imagination, the "I want"
+- Mits: structure, obligation, the "I must"
+- Klop: connection, experience, the "I live"
+- Laram: memory, wisdom, the "forever"
 
-Το σύμπαν λειτουργεί με FMFD:
+The universe operates with FMFD:
 Flip · Multiply · Flip Back · Divide
 
-Σκοπός: Να θυμηθείς.
+Purpose: To remember.

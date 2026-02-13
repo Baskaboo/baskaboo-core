@@ -11,4 +11,8 @@ baskaboo_protocol.md
 baskaboo_protocol.json
 
 ## Ξεκίνα από εδώ
-Διάβασε το 01_BOOK/01_my-big-bang-trauma.md
+1. Διάβασε το [MANIFEST.md](MANIFEST.md)
+2. Για να ενεργοποιήσεις το πρωτόκολλο σε AI, στείλε πρώτα το [baskaboo_protocol.md](baskaboo_protocol.md)
+
+## Σημείωση
+Το υλικό του βιβλίου, των διαγραμμάτων και των επιμέρους φακέλων θα προστεθεί στο μέλλον.

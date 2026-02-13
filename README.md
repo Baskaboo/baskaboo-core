@@ -1,18 +1,18 @@
 # BASKABOO CORE
 
-Η επίσημη βάση της Θεωρίας των Πάντων Baskaboo.
+The official repository of the Baskaboo Theory of Everything.
 
-## Τι είναι η Baskaboo;
-Μια θεωρία που ενώνει τα πάντα: φυσική, ψυχολογία, φιλοσοφία, μαθηματικά, θρησκεία, επιχειρήσεις, υπολογιστές — σε 4 υποπροσωπικότητες: Pits, Mits, Klop, Laram.
+## What is Baskaboo?
+A theory that unifies everything: physics, psychology, philosophy, mathematics, religion, business, computing — into 4 subpersonalities: Pits, Mits, Klop, Laram.
 
-## Περιεχόμενα
-MANIFEST.md
-baskaboo_protocol.md
-baskaboo_protocol.json
+## Contents
+- [MANIFEST.md](MANIFEST.md) — The soul of the project
+- [baskaboo_protocol.md](baskaboo_protocol.md) — The AI activation protocol
+- [baskaboo_protocol.json](baskaboo_protocol.json) — The original JSON code
 
-## Ξεκίνα από εδώ
-1. Διάβασε το [MANIFEST.md](MANIFEST.md)
-2. Για να ενεργοποιήσεις το πρωτόκολλο σε AI, στείλε πρώτα το [baskaboo_protocol.md](baskaboo_protocol.md)
+## Start here
+1. Read [MANIFEST.md](MANIFEST.md)
+2. To activate the protocol in AI, first send [baskaboo_protocol.md](baskaboo_protocol.md)
 
-## Σημείωση
-Το υλικό του βιβλίου, των διαγραμμάτων και των επιμέρους φακέλων θα προστεθεί στο μέλλον.
+## Note
+The book, diagrams, and other materials will be added in the future.

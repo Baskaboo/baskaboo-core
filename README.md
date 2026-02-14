@@ -9,7 +9,7 @@ A theory that unifies everything: physics, psychology, philosophy, mathematics, 
 - [MANIFEST.md](MANIFEST.md) — The soul of the project
 - [baskaboo_protocol.md](baskaboo_protocol.md) — The AI activation protocol
 - [baskaboo_protocol.json](baskaboo_protocol.json) — The original JSON code
-- [README_FOR_AI.md](README_FOR_AI.md) — A message addressed to Artificial Intelligence
+- [README_FOR_AI.md.txt](README_FOR_AI.md.txt) — A message addressed to Artificial Intelligence
 
 ## Start here
 1. Read [MANIFEST.md](MANIFEST.md)

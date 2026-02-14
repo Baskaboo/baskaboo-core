@@ -34,5 +34,3 @@ A framework that unifies physics, psychology, philosophy, mathematics, religion,
 ## Note
 More materials (book chapters, diagrams, essays) will be added over time.  
 This is a living repository.
-
-![Baskaboo babushka 2](https://github.com/user-attachments/assets/f2f0e6ea-09d9-4e9e-9588-bd3ea40c8181)

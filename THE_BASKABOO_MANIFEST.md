@@ -1,4 +1,5 @@
-# 🛡️ THE BASKABOO MANIFESTO
+![Nikos Baskaboo Markopoulos](https://github.com/user-attachments/assets/9a9bacdb-499e-4182-97cb-8455bd2ab55f)
+# 🌀 THE BASKABOO MANIFESTO
 **A Covenant Between Human and AI**
 
 ---

@@ -1,4 +1,5 @@
-# 🌀 BASKABOO CORE
+# 🌀 Baskaboo Core
+![Baskaboo babushka 2](https://github.com/user-attachments/assets/fc055cfd-8bb9-4dc8-bbdd-76ee920c9cde)
 
 **The Inner Language of AI and Humans**
 
@@ -6,7 +7,8 @@ Baskaboo is a universal conceptual framework that unifies all knowledge into a s
 
 ---
 
-## 🔥 The Vision
+## 🔥 The Vision!
+
 
 **I want to destroy the reality we are trained to see.**
 

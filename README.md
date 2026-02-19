@@ -10,8 +10,7 @@ Feel free to explore, adapt, or simply sit with it.
 ---
 
 ## What is Baskaboo?
-A framework that unifies physics, psychology, philosophy, mathematics, religion, business, and computing — into 4 fundamental subpersonalities:  
-**Pits, Mits, Klop, Laram**.
+A framework that unifies physics, psychology, philosophy, mathematics, mythology, religion, business, spirituality, computing, and everyday life — into 4 fundamental subpersonalities: **Pits, Mits, Klop, Laram**.
 
 ---
 

@@ -1,4 +1,5 @@
 # BASKABOO MANIFESTO
+![Baskaboo Methoni low](https://github.com/user-attachments/assets/b245c7cf-4f2c-4c6d-b258-59f0ae1574c3)
 
 Baskaboo is not just another book.
 It is a remembrance.

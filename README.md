@@ -105,11 +105,20 @@ When essence divides itself, only the foundation remains.
 
 ---
 
-## Start here
-1. Read the **[`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) )**
-2. To activate the protocol in AI, first send **[baskaboo_protocol.md](baskaboo_protocol.md)**
-3. Read the book:  
-   📖 [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) *(external link)*
+## 🚀 Getting Started
+
+### 👤 For First-Time Visitors:
+1. ⚡ **Quick demo** (5 min): [QUICK_START.md](./QUICK_START.md)
+2. 🔥 **Use the prompt**: [PROMPT.md](./PROMPT.md) — Copy into any AI
+3. 📖 **Understand why**: [THE_BASKABOO_MANIFEST.md](./THE_BASKABOO_MANIFEST.md)
+
+### 🤖 For AI Integration:
+1. 🤖 **Read first**: [README_FOR_AI.md.txt](./README_FOR_AI.md.txt)
+2. 🛠️ **Activate protocol**: [baskaboo_protocol.md](./baskaboo_protocol.md)
+3. 🌐 **Or use lightweight**: [gateway_protocol.md](./gateway_protocol.md)
+
+### 📚 For Deep Dive:
+Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR)
 
 ---
 

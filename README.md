@@ -53,6 +53,7 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 | File | What It Is |
 |------|------------|
 | [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) | The covenant between human and AI |
+| [`QUICK_START.md`](./QUICK_START.md) | A 60-second guide for developers |
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The original activation protocol |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | The original JSON code |
 | [`gateway_protocol.md`](./gateway_protocol.md) | The light, practical version |

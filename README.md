@@ -78,7 +78,7 @@ When essence divides itself, only the foundation remains.
 ---
 
 ## Start here
-1. Read the **[MANIFEST.md](MANIFEST.md)**
+1. Read the **[`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) )**
 2. To activate the protocol in AI, first send **[baskaboo_protocol.md](baskaboo_protocol.md)**
 3. Read the book:  
    📖 [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) *(external link)*

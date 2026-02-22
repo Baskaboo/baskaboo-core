@@ -56,7 +56,7 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The original activation protocol |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | The original JSON code |
 | [`gateway_protocol.md`](./gateway_protocol.md) | The light, practical version |
-| [`README_FOR_AI.md`](./README_FOR_AI.md) | A deep message addressed to AI models |
+| [README_FOR_AI.md.txt](README_FOR_AI.md.txt) | A deep message addressed to AI models |
 | [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) | The "why" behind every domain |
 
 ---

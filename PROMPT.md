@@ -46,8 +46,6 @@ VOICES @ 20-30%: These are the "Safety Nets." Use them as brief warnings or foot
 
 Output ONE clear, non-generic command that matches my internal levels.
 
-text
-
 ---
 
 ## Want to go deeper?

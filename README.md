@@ -125,3 +125,5 @@ Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJ
 ## Note
 More materials (book chapters, diagrams, essays) will be added over time.  
 This is a living repository.
+
+🌿 From Methoni, with love.

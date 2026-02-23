@@ -10,7 +10,7 @@ Baskaboo is a universal conceptual framework that unifies all knowledge into a s
 ## 🔥 The Vision!
 
 
-**I want to destroy the reality we are trained to see.**
+**I want to destroy reality we are trained to see.**
 
 What excites me the most is challenging the existing reality and through this uncovering the origins of myself and the world around me.
 

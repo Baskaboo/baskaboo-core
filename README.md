@@ -120,9 +120,9 @@ When essence divides itself, only the foundation remains.
 3. 🌐 **Or use lightweight**: [gateway_protocol.md](./gateway_protocol.md)
 
 ### 📚 For Deep Dive:
-Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR)
+Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR) by Nikos Markopoulos
 
-![baskaboo book and sea](https://github.com/user-attachments/assets/ef30c005-0bff-492a-88c5-413b9dcd5a6c)
+![baskaboo book and sea](https://github.com/user-attachments/assets/68569d87-4e11-4286-b645-c79a48cc91eb)
 
 ---
 

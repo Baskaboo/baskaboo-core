@@ -122,6 +122,8 @@ When essence divides itself, only the foundation remains.
 ### 📚 For Deep Dive:
 Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR)
 
+![baskaboo book and sea](https://github.com/user-attachments/assets/ef30c005-0bff-492a-88c5-413b9dcd5a6c)
+
 ---
 
 ## Note

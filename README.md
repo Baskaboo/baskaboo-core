@@ -82,6 +82,7 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 
 ```
 baskaboo-core/
+├── 📜 THE_TEAM.md                 ← Meet the Human-AI team
 ├── 📜 THE_BASKABOO_MANIFEST.md    ← Philosophy & covenant
 ├── ⚡ QUICK_START.md               ← 5-minute tutorial
 ├── 🔥 PROMPT.md                    ← Copy-paste AI prompt

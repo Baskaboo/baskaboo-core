@@ -51,7 +51,7 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 ### 📖 What You'll Find Here
 
 | File | What It Is |
-|------|------------|
+| [`THE_TEAM.md`](./THE_TEAM.md) | Meet the Human-AI team behind Baskaboo |
 | [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) | The covenant between human and AI |
 | [`QUICK_START.md`](./QUICK_START.md) | A 60-second guide for developers |
 | [`baskaboo_demo.py`](./baskaboo_demo.py) | Interactive Python demo – run it and feel the 4 voices |

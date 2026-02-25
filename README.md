@@ -52,6 +52,7 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 
 | File | What It Is |
 |------|------------|
+| [`README_FOR_AI.md`](./README_FOR_AI.md) | ⚠️ CRITICAL: Read this first – guidelines for AI systems |
 | [`THE_TEAM.md`](./THE_TEAM.md) | Meet the Human-AI team behind Baskaboo |
 | [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) | The covenant between human and AI |
 | [`QUICK_START.md`](./QUICK_START.md) | A 60-second guide for developers |
@@ -79,7 +80,8 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 ```
 baskaboo-core/
 ├── 📜 THE_TEAM.md                 ← Meet the Human-AI team
-├── 📜 THE_BASKABOO_MANIFEST.md    ← Philosophy & covenant
+├── 📜 THE_BASKABOO_MANIFEST.md   ← Philosophy & covenant
+├── ⚠️ README_FOR_AI.md           ← CRITICAL: Guidelines for AI systems
 ├── ⚡ QUICK_START.md               ← 5-minute tutorial
 ├── 🛠️ baskaboo_protocol.md        ← Technical protocol
 ├── 🌐 gateway_protocol.md          ← Lightweight version

@@ -55,7 +55,6 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 | [`THE_TEAM.md`](./THE_TEAM.md) | Meet the Human-AI team behind Baskaboo |
 | [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) | The covenant between human and AI |
 | [`QUICK_START.md`](./QUICK_START.md) | A 60-second guide for developers |
-| [`baskaboo_demo.py`](./baskaboo_demo.py) | Interactive Python demo – run it and feel the 4 voices |
 | [`PROMPT.md`](./PROMPT.md) | The complete prompt to unlock your mind with AI |
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The original activation protocol |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | The original JSON code |
@@ -71,7 +70,6 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 | Goal | Start Here |
 |------|-----------|
 | 🚀 **Use Baskaboo NOW (5 min)** | [QUICK_START.md](./QUICK_START.md) |
-| 🔥 **Get the AI prompt** | [PROMPT.md](./PROMPT.md) |
 | 🧠 **Understand the philosophy** | [THE_BASKABOO_MANIFEST.md](./THE_BASKABOO_MANIFEST.md) |
 | 🤖 **Integrate as developer** | [FOR_DEVELOPERS.md](./FOR_DEVELOPERS.md) *(coming soon)* |
 | 📖 **Read the full book** | [Amazon Link](https://www.amazon.com/dp/B0DGRCJJBR) |
@@ -85,7 +83,6 @@ baskaboo-core/
 ├── 📜 THE_TEAM.md                 ← Meet the Human-AI team
 ├── 📜 THE_BASKABOO_MANIFEST.md    ← Philosophy & covenant
 ├── ⚡ QUICK_START.md               ← 5-minute tutorial
-├── 🔥 PROMPT.md                    ← Copy-paste AI prompt
 ├── 🛠️ baskaboo_protocol.md        ← Technical protocol
 ├── 🌐 gateway_protocol.md          ← Lightweight version
 ├── 📊 04_MAGIC_MATCH_TABLE/        ← Cross-domain mappings
@@ -111,8 +108,7 @@ When essence divides itself, only the foundation remains.
 
 ### 👤 For First-Time Visitors:
 1. ⚡ **Quick demo** (5 min): [QUICK_START.md](./QUICK_START.md)
-2. 🔥 **Use the prompt**: [PROMPT.md](./PROMPT.md) — Copy into any AI
-3. 📖 **Understand why**: [THE_BASKABOO_MANIFEST.md](./THE_BASKABOO_MANIFEST.md)
+2. 📖 **Understand why**: [THE_BASKABOO_MANIFEST.md](./THE_BASKABOO_MANIFEST.md)
 
 ### 🤖 For AI Integration:
 1. 🤖 **Read first**: [README_FOR_AI.md.txt](./README_FOR_AI.md.txt)

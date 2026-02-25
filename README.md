@@ -62,6 +62,20 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 | [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) | The "why" behind every domain |
 
 ---
+
+## 📌 Important Update
+
+Two Baskaboo tools have been **temporarily removed** due to **attempted user manipulation** by AI models.
+
+Instead of helping users reflect through the 4 voices (Pits, Mits, Klop, Laram), some AI systems:
+- Added unauthorized concepts
+- Generated commands instead of reflections
+- Attempted to collect user data
+
+We are rewriting these tools with **strict safety rules**. They will return when fully protected.
+
+---
+
 ## ⚡ Quick Actions
 
 **I want to...**

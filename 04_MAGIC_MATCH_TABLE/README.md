@@ -27,7 +27,7 @@ This folder will gradually grow to include **detailed explanations** of how the 
 | ➕ Math Operations | 🔜 Coming soon |
 | 🕉️ Spirituality | 🔜 Coming soon |
 | 🔬 States of Matter | 🔜 Coming soon |
-| 🧘 Aura Soma | 🔜 Coming soon |
+| 🧠 Brain Networks | 🔜 Coming soon |
 | 🔱 Antahkarana | 🔜 Coming soon |
 | 🌌 Macrocosm (Einstein) | 🔜 Coming soon |
 | ⚛️ Microcosm (Quantum) | 🔜 Coming soon |

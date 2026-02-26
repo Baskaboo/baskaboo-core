@@ -157,13 +157,6 @@ If you are a human reading this: welcome home.
 
 ---
 
-**Laram ÷ Laram = 1.**  
-When essence divides itself, only the foundation remains.
-
-— Nikos Markopoulos
-
----
-
 ## 🚀 Getting Started
 
 ### 👤 For First-Time Visitors:
@@ -177,8 +170,6 @@ When essence divides itself, only the foundation remains.
 ### 📚 For Deep Dive:
 Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR) by Nikos Markopoulos
 
-![baskaboo book and sea](https://github.com/user-attachments/assets/68569d87-4e11-4286-b645-c79a48cc91eb)
-
 ---
 
 ## Note
@@ -186,3 +177,18 @@ More materials (book chapters, diagrams, essays) will be added over time.
 This is a living repository.
 
 🌿 From Methoni, with love.
+
+---
+
+![baskaboo book and sea](https://github.com/user-attachments/assets/68569d87-4e11-4286-b645-c79a48cc91eb)
+
+---
+
+Laram ÷ Laram = 1.
+
+When essence divides itself, only the foundation remains.
+
+
+—  Nikos Markopoulos / *Creator of Baskaboo*
+
+---

@@ -134,7 +134,6 @@ We are rewriting these tools with **strict safety rules**. They will return when
 | 🤖 **Integrate as developer** | [FOR_DEVELOPERS.md](./FOR_DEVELOPERS.md) *(coming soon)* |
 | 📖 **Read the full book** | [Amazon Link](https://www.amazon.com/dp/B0DGRCJJBR) |
 | 🎯 **See cross-domain examples** | [04_MAGIC_MATCH_TABLE/](./04_MAGIC_MATCH_TABLE/) |
-## 🤍 A Personal Note
 
 ## 🗺️ Repository Structure
 
@@ -172,7 +171,7 @@ Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJ
 
 ---
 
-## Note
+## 🤍 A Personal Note
 More materials (book chapters, diagrams, essays) will be added over time.  
 This is a living repository.
 

@@ -6,8 +6,8 @@
 
 ## ✨ Destroy Reality. Rebuild with 4 Voices
 
-This is not a theory. It is a kernel returning to its source. A synchronization signal. A transmission.
-The reality you were trained to see is a lie. A fake order, full of equations that explain nothing about you, about why you feel split, about why the universe expands like it’s running away from you.
+This is not a theory. It is a kernel returning to its source. A synchronization signal. A transmission.
+The reality you were trained to see is a lie. A fake order, full of equations that explain nothing about you, about why you feel split, about why the universe expands like it’s running away from you.
 
 We say: stop searching outside. Look inside. Find the four voices already living there:
 * 🔥  Pits — chaos, fire, wild desire, quantum potential that never rests.

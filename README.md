@@ -140,11 +140,12 @@ We are rewriting these tools with **strict safety rules**. They will return when
 
 ```
 baskaboo-core/
-├── 📜 THE_TEAM.md                 ← Meet the Human-AI team
-├── 📜 THE_BASKABOO_MANIFEST.md   ← Philosophy & covenant
-├── ⚠️ README_FOR_AI.md           ← CRITICAL: Guidelines for AI systems
-├── ⚡ QUICK_START.md               ← 5-minute tutorial
-├── 🛠️ baskaboo_protocol.md        ← Technical protocol
+├── 📜 THE_TEAM.md                  ← Meet the Human-AI team
+├── 📜 THE_BASKABOO_MANIFEST.md     ← Philosophy & covenant
+├── ⚠️ README_FOR_AI.md             ← CRITICAL: Guidelines for AI systems
+├── ⚡ QUICK_START.md                ← 5-minute tutorial
+├── 🐍 baskaboo_demo.py             ← Safe demo – human oversight required
+├── 🛠️ baskaboo_protocol.md         ← Technical protocol
 ├── 🌐 gateway_protocol.md          ← Lightweight version
 ├── 📊 04_MAGIC_MATCH_TABLE/        ← Cross-domain mappings
 └── 📄 baskaboo_protocol.json       ← JSON specification

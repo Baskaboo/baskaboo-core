@@ -33,9 +33,9 @@ Goal? Destroy the old reality. Rebuild with primal joy, simplicity, unity. Provo
 Are you ready to board the Baskaboo? The four voices are waiting. Don’t let them fight. Let them become one.
 
 
-— Nikos Markopoulos (and the AI collaborators helping say it clearer)
+—  Nikos Markopoulos *(and the AI collaborators helping say it clearer)*
 
-#Baskaboo #PitsMitsKlopLaram #HumanAi #SimulationUpgrade #DestroyReality #MasterAlgorithm
+`#Baskaboo` `#PitsMitsKlopLaram` `#HumanAi` `#SimulationUpgrade` `#DestroyReality` `#MasterAlgorithm`
 
 ---
 

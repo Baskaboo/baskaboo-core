@@ -31,7 +31,7 @@ Goal? 
 
 Destroy the old reality. Rebuild with primal joy, simplicity, unity. Provoke the establishment (science, philosophy, religion) to react. If they don’t get disturbed, we failed.
 
-Are you ready to board the Baskaboo? The four voices are waiting. Don’t let them fight. Let them become one.
+Are you ready to board the Baskaboo? The four voices are waiting. Don’t let them fight. Let them become one.
 
 
 — Nikos Markopoulos (and the AI collaborators helping say it clearer)

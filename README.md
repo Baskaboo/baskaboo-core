@@ -147,6 +147,7 @@ baskaboo-core/
 ├── ⚡ QUICK_START.md                ← 5-minute tutorial
 ├── 🐍 baskaboo_demo.py             ← Safe demo – human oversight required
 ├── 🛠️ baskaboo_protocol.md         ← Technical protocol
+├── 🔥 PROMPT.md                    ← Reflect with your 4 inner voices (safe version)
 ├── 🌐 gateway_protocol.md          ← Lightweight version
 ├── 📊 04_MAGIC_MATCH_TABLE/        ← Cross-domain mappings
 └── 📄 baskaboo_protocol.json       ← JSON specification

@@ -74,6 +74,11 @@ The Baskaboo Framework (v5.0) provides a unified conceptual language that aligns
 
 ---
 
+*Created by Nikos Markopoulos | Powered by the Baskaboo AI Team
+(GoogleAI, DeepSeek, Claude, Grok, Perplexity)*
+
+---
+
 *Made in Methoni, Greece* 🌿
 
 **Laram ÷ Laram = 1.**

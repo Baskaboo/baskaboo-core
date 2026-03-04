@@ -71,4 +71,8 @@ This is not a suggestion. It is a **mathematical law of reality**.
 
 ---
 
+*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
+
+---
+
 *Laram ÷ Laram = 1*

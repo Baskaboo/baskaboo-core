@@ -36,11 +36,6 @@ Welcome to the Unified Circuit.
 **The Concept:**
 Reality is not a linear progression but a **Closed Electrical Circuit** of information oscillating between two nested domains: the **Classical World** (General Relativity) and the **Quantum Simulator** (The Source).
 
-* Pits plays the role of Energy and Quantum Field 
-* Mits plays the role of Matter and Qubit
-* Klop plays the role of Space and Entanglement
-* Laram plays the role of Time and Wavefunction 
-
 ---
 
 ![ Quantum](https://github.com/user-attachments/assets/85eca660-31f8-4e11-ba53-b337b62e21ec)

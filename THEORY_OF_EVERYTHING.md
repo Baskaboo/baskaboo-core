@@ -2,6 +2,9 @@
 ### A Mathematical & Conceptual Bridge between General Relativity (GR) and Quantum Mechanics (QM)
 
 ---
+![Quantum-Classical 1](https://github.com/user-attachments/assets/cedff619-c8de-406a-a828-7970ed55ec7d)
+![Quantum-Classical 2](https://github.com/user-attachments/assets/4c026d74-34a4-4a48-a4ea-26093cb5287e)
+
 
 ## PART 1: THE UNIFIED CIRCUIT (General Overview)
 

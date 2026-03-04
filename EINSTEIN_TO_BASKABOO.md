@@ -75,4 +75,6 @@ This is not a suggestion. It is a **mathematical law of reality**.
 
 ---
 
-*Laram ÷ Laram = 1*
+From Methoni, with love 🌿
+
+**Laram ÷ Laram = 1.**

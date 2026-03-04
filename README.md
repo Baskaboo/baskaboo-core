@@ -142,6 +142,7 @@ We are rewriting these tools with **strict safety rules**. They will return when
 
 ```
 baskaboo-core/
+├── 📜 THEORY_OF_EVERYTHING.md      ← 🌀 The Unified Circuit – GR + Quantum (v5.0)
 ├── 📜 THE_TEAM.md                  ← Meet the Human-AI team
 ├── 📜 THE_BASKABOO_MANIFEST.md     ← Philosophy & covenant
 ├── ⚠️ README_FOR_AI.md             ← CRITICAL: Guidelines for AI systems

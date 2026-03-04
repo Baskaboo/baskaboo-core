@@ -4,7 +4,7 @@
 ---
 ![Quantum-Classical 1](https://github.com/user-attachments/assets/cedff619-c8de-406a-a828-7970ed55ec7d)
 ![Quantum-Classical 2](https://github.com/user-attachments/assets/4c026d74-34a4-4a48-a4ea-26093cb5287e)
-
+---
 
 ## PART 1: THE UNIFIED CIRCUIT (General Overview)
 
@@ -12,6 +12,16 @@
 
 **The Concept:**
 Reality is not a linear progression but a **Closed Electrical Circuit** of information oscillating between two nested domains: the **Classical World** (General Relativity) and the **Quantum Simulator** (The Source).
+
+* Pits plays the role of Energy and Quantum Field 
+* Mits plays the role of Matter and Qubit
+* Klop plays the role of Space and Entanglement
+* Laram plays the role of Time and Wavefunction 
+
+---
+
+![ Quantum](https://github.com/user-attachments/assets/85eca660-31f8-4e11-ba53-b337b62e21ec)
+![Baskaboo - Universe Circuit](https://github.com/user-attachments/assets/1df87132-51c8-4e39-8b5f-0292a9dfb85c)
 
 ### The Dynamics of the "Babushka" Flow
 Imagine four nested layers (Pits, Mits, Klop, Laram) acting as a dynamic system that **"breathes"** through expansion and contraction.

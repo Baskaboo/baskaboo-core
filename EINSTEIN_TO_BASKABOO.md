@@ -1,3 +1,5 @@
+<img width="591" height="871" alt="From Einstein to Baskaboo" src="https://github.com/user-attachments/assets/d66767dc-1914-4c33-a763-b128699d373c" />
+
 # 🌉 The Bridge: From Einstein to Baskaboo
 
 Modern science began decoding the universe with **Albert Einstein’s** iconic equation:

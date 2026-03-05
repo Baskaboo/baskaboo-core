@@ -249,7 +249,7 @@ This is a living repository.
 
 ---
 
-![baskaboo book and sea](https://github.com/user-attachments/assets/68569d87-4e11-4286-b645-c79a48cc91eb)
+![baskaboo book and sea - low](https://github.com/user-attachments/assets/46356efa-f416-493e-85cc-4664f69dc256)
 
 ---
 

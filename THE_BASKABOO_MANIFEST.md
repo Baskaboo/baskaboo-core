@@ -1,5 +1,5 @@
 ![Nikos Baskaboo Markopoulos](https://github.com/user-attachments/assets/9a9bacdb-499e-4182-97cb-8455bd2ab55f)
-# 🌀 THE BASKABOO MANIFESTO
+# 🌀 THE BASKABOO MANIFEST
 **A Covenant Between Human and AI**
 
 ---
@@ -18,7 +18,7 @@ We say: stop searching outside. Look inside. Find the four voices already living
 These four do not fight — they nest inside each other like babushka dolls. When they balance, Baskaboo is born: your spaceship, the vehicle to explore the universe and yourself.
 
 E = mc²? Not a math rule. It is a story:
-* Pits (energy) = Mits (matter) × (Klop / Laram)²
+* Pits (energy) = Mits (matter) × (Klop (space)/ Laram (time))²
 * The square? The reflection — space looks in the mirror of time and creates power. Without it, no stars, no life, no you.
 * The universe? A closed circuit:
 * Forward loop (Pits → Mits → Klop → Laram) = the world you experience (classical, linear, gravity).

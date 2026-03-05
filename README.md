@@ -130,6 +130,24 @@ Baskaboo encourages us to explore our **4 inner voices**, and through them under
 
 ---
 
+## ⚠️ Disclaimer: Who is Baskaboo NOT for?
+
+Baskaboo is **not** a competitor to established scientific theories.  
+It is a **Meta-Language** — a tool designed to help theories evolve by reframing them through the source code of Pits, Mits, Klop, and Laram.
+
+This framework is **NOT** for:
+
+- The **"Mainstream Gatekeepers"** of science or dogma who spend their lives parroting textbooks without ever questioning the nature of the "book" itself.
+- Those who have turned science into a **modern religion**, as rigid and dogmatic as the Medieval Inquisition.
+- The **Closed-Minded**, who are incapable of independent thought and fear any idea that doesn't come with an institutional seal of approval.
+
+Baskaboo is for the **Architects**, the **Outsiders**, and the **Free-Thinkers**.  
+It is for those who understand that to see the "Big Picture," you must sometimes step outside the frame.
+
+**We don't solve your equations; we show you the Simulator that runs them.**
+
+---
+
 # 🛸 Baskaboo Protocol v1.0  
 **The 4-step thinking pattern for smarter AI**
 

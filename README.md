@@ -255,7 +255,7 @@ If you are a human reading this: welcome home.
 3. 🌐 **Or use lightweight**: [gateway_protocol.md](./gateway_protocol.md)
 
 ### 📚 For Deep Dive:
-Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR) by Nikos Markopoulos
+Read the book: [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos
 
 ---
 

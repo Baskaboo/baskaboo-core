@@ -222,6 +222,7 @@ Made in Methoni, Greece 🌿
 | [`THE_TEAM.md`](./THE_TEAM.md) | Meet the Human-AI team behind Baskaboo |
 | [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) | The covenant between human and AI |
 | [`THEORY_OF_EVERYTHING.md`](./THEORY_OF_EVERYTHING.md) | 🌀 The Unified Circuit – Bridging GR and Quantum Mechanics |
+| [`meta-cosmology.md`](./meta-cosmology.md) | 🌀 The Baskaboo Code – from Einstein's equation to the architecture of consciousness |
 | [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) | 🌉 The mathematical bridge from Einstein to Baskaboo |
 | [`PROMPT.md`](./PROMPT.md) | Reflect with your 4 inner voices – safe, guided introspection |
 | [`QUICK_START.md`](./QUICK_START.md) | A 60-second guide for developers |

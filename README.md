@@ -264,6 +264,7 @@ We are rewriting these tools with **strict safety rules**. They will return when
 ```
 baskaboo-core/
 ├── 📜 THEORY_OF_EVERYTHING.md      ← 🌀 The Unified Circuit – GR + Quantum (v5.0)
+├── 📜 meta-cosmology.md            ← 🌀 The Baskaboo Code – computational interpretation
 ├── 📜 EINSTEIN_TO_BASKABOO.md      ← Η μαθηματική γέφυρα
 ├── 📜 THE_TEAM.md                  ← Meet the Human-AI team
 ├── 📜 THE_BASKABOO_MANIFEST.md     ← Philosophy & covenant

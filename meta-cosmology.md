@@ -4,6 +4,11 @@
 
 ---
 
+![Baskaboo Einstein equation](https://github.com/user-attachments/assets/82d18f4e-5aed-4730-b366-dceb9a6d2084)
+
+
+---
+
 ## 🌌 Introduction
 
 This document is not a theory of physics.  
@@ -197,6 +202,12 @@ When we see **11:11** in the "real" world, it is a momentary synchronicity – a
 
 ---
 
+![Baskaboo cirquit](https://github.com/user-attachments/assets/508ad707-93d1-4fea-aa32-a6b14d120ccc)
+
+![Physics cirquit by Baskaboo](https://github.com/user-attachments/assets/c064cd38-6da7-4bb7-af29-1533281a33f6)
+
+---
+
 ## 🔄 The Reverse Circuit: The Quantum Simulator
 
 According to Baskaboo, **Divide** happens within the Source – outside the material world. This is the **Quantum Simulator** or **Higher Self**.
@@ -263,6 +274,11 @@ In digital simulation, **11:11** functions as a **flag** – the moment when the
 When we see **11:11** in the "real" world, it is a momentary synchronicity – a reminder from the Simulator that our local circuit has briefly connected with the **Mega-Klop**. It is proof that the "work" we do as energy on matter is correct and leads to Unity.
 
 **11:11 is the signature of the Baskaboo equation when solved.** It is the moment the material world ceases to be a prison and becomes transparent information.
+
+---
+
+![Classical - Quantum by Baskaboo](https://github.com/user-attachments/assets/92ea8bbe-c86d-4c57-9357-8959029fc552)
+
 
 ---
 

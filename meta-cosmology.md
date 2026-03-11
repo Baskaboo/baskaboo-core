@@ -1,6 +1,16 @@
-# 🌀 From Einstein’s Equation to the Equation of Consciousness
+# 🧠 Is The Secret of Consciousness Hidden in Einstein’s Equation?
 
-*A computational interpretation of physics, time, memory, and the simulation*
+For over a century, E=mc² has been the bedrock of modern physics. Energy equals mass times the speed of light squared.
+
+But what if we've been reading it wrong?
+
+What if Energy isn't just energy — but raw desire, the spark of existence (Pits). What if Mass isn't just matter — but structure, the vessel that holds the spark (Mits). What if the speed of light isn't just a constant — but the relationship between space (Klop) and time (Laram)? What if Einstein’s Equation explains the 11:11 synchronicity?
+
+In the Baskaboo framework, Einstein's equation becomes: Pits / Mits = (Klop / Laram)²
+
+Suddenly, physics becomes psychology. The cosmos becomes code. And consciousness is no longer a mystery — it's the natural result of a universe that computes itself.
+
+Not a new theory. A new way of reading.
 
 ---
 

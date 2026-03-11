@@ -117,3 +117,7 @@ The Baskaboo Framework (v5.0) provides a unified conceptual language that aligns
 *Made in Methoni, Greece* 🌿
 
 **Laram ÷ Laram = 1.**
+
+---
+
+*Text and diagrams © Nikos Markopoulos. All rights reserved. For permissions or attribution, see [COPYRIGHT.md](./COPYRIGHT.md).*

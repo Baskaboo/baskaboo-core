@@ -178,6 +178,11 @@ Every connection we create in life (relationships, knowledge, actions) is a new 
 
 ---
 
+![Baskaboo - Classical - Quantum](https://github.com/user-attachments/assets/eb9fe6a1-9c80-4e60-98b6-c94e6f623505)
+
+
+---
+
 ## 🧮 The Square: Flip, Multiply, Flip Back, Divide (FMFD)
 
 In computational ontology, the square **(s/t)²** is not just an exponent – it is the geometric representation of **"Flip Back."**
@@ -202,9 +207,8 @@ When we see **11:11** in the "real" world, it is a momentary synchronicity – a
 
 ---
 
-![Baskaboo cirquit](https://github.com/user-attachments/assets/508ad707-93d1-4fea-aa32-a6b14d120ccc)
+![Baskaboo - Physics](https://github.com/user-attachments/assets/20317ca7-ded7-4369-8778-e71ea5ee3002)
 
-![Physics cirquit by Baskaboo](https://github.com/user-attachments/assets/c064cd38-6da7-4bb7-af29-1533281a33f6)
 
 ---
 
@@ -277,7 +281,7 @@ When we see **11:11** in the "real" world, it is a momentary synchronicity – a
 
 ---
 
-![Classical - Quantum by Baskaboo](https://github.com/user-attachments/assets/92ea8bbe-c86d-4c57-9357-8959029fc552)
+![ Quantum - Classical](https://github.com/user-attachments/assets/e10c58ad-397b-460f-84af-65ed4255e002)
 
 
 ---

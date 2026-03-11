@@ -1,4 +1,4 @@
-# 🌀 The Baskaboo Code: From Einstein's Equation to the Architecture of Consciousness
+# 🌀 From the Equation of Einstein to the Equation of Consciousness
 
 *A computational interpretation of physics, time, memory, and the simulation*
 

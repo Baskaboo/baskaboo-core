@@ -1,4 +1,4 @@
-# 🌀 From the Equation of Einstein to the Equation of Consciousness
+# 🌀 From Einstein’s Equation to the Equation of Consciousness
 
 *A computational interpretation of physics, time, memory, and the simulation*
 

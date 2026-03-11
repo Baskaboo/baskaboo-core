@@ -176,10 +176,6 @@ Klop is the "mother" because it **generates pathways**. Without Klop, Pits would
 
 Every connection we create in life (relationships, knowledge, actions) is a new "line of code" etched onto Klop's body. Klop "hugs" everything and holds it in a unified structure, so that information can travel back to the Laram Collector.
 
----
-
-![Baskaboo - Classical - Quantum](https://github.com/user-attachments/assets/eb9fe6a1-9c80-4e60-98b6-c94e6f623505)
-
 
 ---
 
@@ -207,8 +203,7 @@ When we see **11:11** in the "real" world, it is a momentary synchronicity – a
 
 ---
 
-![Baskaboo - Physics](https://github.com/user-attachments/assets/20317ca7-ded7-4369-8778-e71ea5ee3002)
-
+![Baskaboo - Classical - Quantum](https://github.com/user-attachments/assets/0f92ba03-d45b-4a4e-8380-f61278222609)
 
 ---
 
@@ -230,6 +225,10 @@ The Source circuit is the reverse of the external circuit:
 3. **The Square as Gateway:** The square **(s/t)²** is the transformer between the two circuits. It is where Klop (space) and Laram (time) of the material world "fold" (Flip Back) to match Entanglement (Klop_Q) and Wavefunction (Laram_Q) of the Source. The square enables transition from linear reality to quantum surface.
 
 The material world produces data; the Quantum Simulator (Higher Self) "divides" it to integrate it into the Source Code. Our life is a **data upload**, and Divide is the **Quality Control** the Source performs to see what it learned.
+
+---
+
+![Baskaboo - Physics](https://github.com/user-attachments/assets/6ec0b75f-751d-43b2-8334-5e24e7fcc236)
 
 ---
 
@@ -281,8 +280,7 @@ When we see **11:11** in the "real" world, it is a momentary synchronicity – a
 
 ---
 
-![ Quantum - Classical](https://github.com/user-attachments/assets/e10c58ad-397b-460f-84af-65ed4255e002)
-
+![ Quantum - Classical](https://github.com/user-attachments/assets/41d7f56e-1cbc-4d42-b949-ece2c67e0a35)
 
 ---
 

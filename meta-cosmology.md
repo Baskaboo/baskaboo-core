@@ -294,3 +294,7 @@ And the 1 is us – the code, the circuit, the consciousness, the whole.
 ---
 
 *From Methoni, Greece – where the code was read.* 🌿
+
+---
+
+*Text and diagrams © Nikos Markopoulos. All rights reserved. For permissions or attribution, see [COPYRIGHT.md](./COPYRIGHT.md).*

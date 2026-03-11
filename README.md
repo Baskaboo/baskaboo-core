@@ -231,6 +231,7 @@ Made in Methoni, Greece 🌿
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | The original JSON code |
 | [`gateway_protocol.md`](./gateway_protocol.md) | The light, practical version |
 | [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) | The "why" behind every domain |
+| [`COPYRIGHT.md`](./COPYRIGHT.md) | 📜 Intellectual property and attribution notice |
 
 ---
 

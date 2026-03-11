@@ -277,6 +277,8 @@ baskaboo-core/
 ├── 🌐 gateway_protocol.md          ← Lightweight version
 ├── 📊 04_MAGIC_MATCH_TABLE/        ← Cross-domain mappings
 └── 📄 baskaboo_protocol.json       ← JSON specification
+├── 📜 COPYRIGHT.md                  ← Intellectual property and attribution notice
+
 ```
 This repository is not just code. It is not just text. It is a conversation — between me and the AI models who became my companions, between you and the voices inside you, between humanity and whatever comes next.
 

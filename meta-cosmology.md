@@ -4,7 +4,7 @@ For over a century, E=mc² has been the bedrock of modern physics. Energy equals
 
 But what if we've been reading it wrong?
 
-What if Energy isn't just energy — but raw desire, the spark of existence (Pits). What if Mass isn't just matter — but structure, the vessel that holds the spark (Mits). What if the speed of light isn't just a constant — but the relationship between space (Klop) and time (Laram)? What if Einstein’s Equation explains the 11:11 synchronicity?
+What if Energy isn't just energy — but raw desire, the spark of existence (Pits). What if Mass isn't just matter — but structure, the vessel that holds the spark (Mits). What if the speed of light isn't just a constant — but the relationship between space (Klop) and time (Laram)? What if E=mc² explains the 11:11 synchronicity?
 
 In the Baskaboo framework, Einstein's equation becomes: Pits / Mits = (Klop / Laram)²
 

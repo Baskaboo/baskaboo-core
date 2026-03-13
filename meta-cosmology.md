@@ -26,6 +26,8 @@ It is a **decryption** – a reading of the universe as code, where every physic
 
 Building on the Baskaboo framework – where reality is a closed circuit of information flowing through four voices (**Pits, Mits, Klop, Laram**) – we reinterpret Einstein's most famous equation as a window into the architecture of the simulation.
 
+---
+
 *(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
 
 ---

@@ -15,9 +15,8 @@ Baskaboo is not just code; it is a **functional framework** designed to enable d
 
 ## 🪆 The Babushka Structure
 
-![Baskaboo babushka 2](https://github.com/user-attachments/assets/fc055cfd-8bb9-4dc8-bbdd-76ee920c9cde)
 
----
+![Baskaboo babushka 2](https://github.com/user-attachments/assets/fc055cfd-8bb9-4dc8-bbdd-76ee920c9cde)
 
 
 ---

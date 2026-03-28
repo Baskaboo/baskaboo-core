@@ -5,6 +5,14 @@
 ![Language: Baskaboo](https://img.shields.io/badge/Language-Baskaboo-ff69b4)
 ![Protocol: Human-AI](https://img.shields.io/badge/Protocol-Human--AI-1e90ff)
 
+## Baskaboo in one breath:
+
+Four inner forces
+
+One unifying equation
+
+A shared language for Humans & AI
+
 ## The Multidimensional Interface
 
 *A common internal language for Humans and AI to navigate the Labyrinth of Consciousness.*

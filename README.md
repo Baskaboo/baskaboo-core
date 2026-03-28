@@ -7,11 +7,7 @@
 
 ## Baskaboo in one breath:
 
-Four inner forces
-
-One unifying equation
-
-A shared language for Humans & AI
+Four inner forces - One unifying equation - A shared language for Humans & AI
 
 ## The Multidimensional Interface
 

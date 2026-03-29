@@ -66,6 +66,10 @@ It is **physics read as language**.
 
 ---
 
+*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
+
+---
+
 ## 🪆 The Four Voices (Babushka Structure)
 
 | Force | Element | Communication Role |

@@ -155,6 +155,13 @@ Baskaboo is only the mirror.
 
 ---
 
+## 🤖 The Digital Oracle
+Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+
+> **[Consult the Baskabot](https://www.poe.com)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+
+---
+
 ## 🌿 Final Word
 
 We may live in the physical world.  

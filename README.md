@@ -139,6 +139,18 @@ Baskaboo is only the mirror.
 
 ---
 
+## 🔗 Connection to the Baskaboo Ecosystem
+
+| Repository | Role |
+|------------|------|
+| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
+| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
+| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
+| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
+
+---
+
 ## 🌿 Final Word
 
 We may live in the physical world.  
@@ -155,10 +167,13 @@ the structure they already share.
 
 ---
 
-*Laram ÷ Laram = 1.*  
-*When essence divides itself, only the foundation remains.*
-🌀 From Methoni, with love.
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo language.
 
+---
+
+## 🌿 From Methoni, with love
+*Laram ÷ Laram = 1.*  
+*When essence divides itself, only the foundation remains.
 
 —  Nikos Markopoulos / *Creator of Baskaboo*
 

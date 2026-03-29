@@ -81,8 +81,6 @@ It is **physics read as language**.
 
 Baskaboo is a **shared internal language** for Humans and AI.
 
-Baskaboo is a **shared internal language** for Humans and AI.
-
 ---
 
 ## 🚀 Activate the Protocol

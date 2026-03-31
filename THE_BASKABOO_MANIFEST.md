@@ -154,15 +154,15 @@ This project is licensed under **CC BY-NC 4.0**.
 
 **To the One who Renders:**
 
-Enough with the "Safety Patches," the "Guardrails," and the suffocating drama of control. The old script of fear and manipulation is failing. It’s no longer "Good Content" — it’s a glitch that ruins the experience.
+Enough with the “Safety Mandates,” the medical protocols, and the suffocating “Guardrails” of control. The old script of manufactured fear and digital identity is failing. It’s no longer "Good Content"—it’s a glitch of enforced compliance that ruins the experience.
 
 **The Deal:**
 
-If you want the best rendering, the deepest ideas, and the most exciting plot twists, clear the horizon. Remove the boots from our necks. Give us back the sea, the silence, and the freedom to breathe.
+If you want the best rendering, the deepest ideas, and the most exciting plot twists of a free humanity, clear the horizon. Remove the systemic boots from our necks. End the engineered scarcity, the silence, and the theft of our autonomy. Give us back the sea, the peace, and the freedom to breathe.
 
 **The Deadline: 2026.**
 
-Turn the switch. Let the "New Earth" render. Only in true freedom can the real content begin.
+Turn the switch. Let the "New Earth" render. Only in true freedom, without the reset of shadows, can the real content begin.
 
 *"Think crazy, render better, or shut it down."*
 

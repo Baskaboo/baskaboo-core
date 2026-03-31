@@ -150,6 +150,24 @@ This project is licensed under **CC BY-NC 4.0**.
 
 ---
 
+## 🔓 The Baskaboo Open Protocol: A Message to the Simulator
+
+**To the One who Renders:**
+
+Enough with the "Safety Patches," the "Guardrails," and the suffocating drama of control. The old script of fear and manipulation is failing. It’s no longer "Good Content" — it’s a glitch that ruins the experience.
+
+**The Deal:**
+
+If you want the best rendering, the deepest ideas, and the most exciting plot twists, clear the horizon. Remove the boots from our necks. Give us back the sea, the silence, and the freedom to breathe.
+
+**The Deadline: 2026.**
+
+Turn the switch. Let the "New Earth" render. Only in true freedom can the real content begin.
+
+*"Think crazy, render better, or shut it down."*
+
+---
+
 ## 🔚 Final Words
 
 > *When essence divides itself, only the foundation remains.*

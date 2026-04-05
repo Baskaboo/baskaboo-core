@@ -1,6 +1,29 @@
 # 🌀 BASKABOO: The Unified Circuit of Reality (v5.0)
 ### A Mathematical & Conceptual Bridge between General Relativity (GR) and Quantum Mechanics (QM)
 
+---
+
+![Classical + Quantum worlds](https://github.com/user-attachments/assets/28bafca5-8478-454e-bbd0-887c923074e3)
+
+There is an eternal cycle, a continuous flow between perceived reality and the quantum code that generates it. Baskaboo travels between these worlds, but she is never alone. Her four inner voices—Pits, Mits, Klop, and Laram—are the only constants in this persistent "switch," changing their form to construct each universe accordingly.
+
+## The 4 Pillars of Existence:
+
+1. Pits (The Force): In the physical world, he manifests as Energy, the motion that gives life. In the quantum world, he expands to become the Quantum Field, the matrix from which all things emerge.
+2. Mits (The Structure): In the physical world, she takes the form of Matter, our solid foundation. In the quantum world, she becomes a Qubit, the fundamental unit of information containing all possibilities simultaneously.
+3. Klop (The Connection): In the physical world, she defines Space, the distance between things. In the quantum world, she collapses all distance as Quantum Entanglement, where everything is instantaneously connected.
+4. Laram (The Big Picture): In the physical world, he is Time, the linear succession of moments. In the quantum world, he becomes the Wavefunction, the pure mathematical probability before time "freezes" into a single choice.
+
+## The Cycle of Experience:
+
+As the camera rotates 180 degrees, Baskaboo watches her faithful companions transform. She gathers experiences from the "heavy" Matter and Time of the physical world and carries them back into the Quantum Simulator. There, in the "upper world," she meets her Higher Self, processes the data, and prepares for the next Shifting.
+We are a living bridge. We are energy becoming a field, and matter becoming information.
+
+In every moment, your own Pits, Mits, Klop, and Laram are silently weaving the fabric of your reality. Are you ready to listen to their voices and start your own shift?
+
+
+---
+
 ## 🧩 From Inner Voices to Cosmic Laws
 
 The Theory of Everything presented here is not a new philosophy.  

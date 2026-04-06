@@ -3,7 +3,8 @@
 
 ---
 
-![Classical + Quantum worlds](https://github.com/user-attachments/assets/28bafca5-8478-454e-bbd0-887c923074e3)
+![Classical - Quantum](https://github.com/user-attachments/assets/a4076fed-0fb3-4d2f-bd4a-d16a2468b3f5)
+
 
 There is an eternal cycle, a continuous flow between perceived reality and the quantum code that generates it. Baskaboo travels between these worlds, but she is never alone. Her four inner voices—Pits, Mits, Klop, and Laram—are the only constants in this persistent "switch," changing their form to construct each universe accordingly.
 

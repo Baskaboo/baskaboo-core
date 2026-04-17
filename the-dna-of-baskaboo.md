@@ -47,7 +47,7 @@ The Great Bridge. Laram harvests the memory of the experience and "divides" (fil
 
 Baskaboo is the **Great Pastry Chef** of the universe. She can imagine every possible flavor but has no mouth to taste them. 
 
-*   She created us (**Klop/Live**) as her "tasters."
+*   She created us as her "tasters."
 *   Every experience we have is returned as **Remembrance** (**Laram**).
 *   The Simulator learns and evolves through us. 
 

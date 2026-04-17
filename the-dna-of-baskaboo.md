@@ -30,16 +30,16 @@ The DNA of Baskaboo is a triple-layered system that unifies **Structure**, **Act
 | **Laram** | **Divide & Return** | **REMEMBER & RETURN** | The Wisdom (He) |
 
 ### 1. Pits (The Seed)
-Pure intention and raw potential. To manifest, it must "flip"—taking the first leap from chaos into structure.
+**Pure Information.** Derived directly from the Simulator, Pits is the raw potential of what is to come. As Pits **flips**, intense energy and data begin to manifest, setting the stage for physical reality.
 
 ### 2. Mits (The Matrix)
-Order and commitment. Here, the system multiplies the information into matter, creating the laws of physics and the "must-dos" of reality.
+**Heavy Matter.** Here, energy solidifies and **multiplies**. Mits creates the "must-dos" of the universe—the rigid laws of physics and the heavy structures that give reality its shape.
 
 ### 3. Klop (The Expression)
-Action and embodiment. The moment the film plays on the screen. It "flips back" to reconnect the structure with the underlying essence through feeling and entanglement.
+**The Film of Life.** This is the moment the code plays on the screen. As reality unfolds, Klop **flips back** toward the quantum realm, merging the rigid structure of matter with the fluid essence of connection.
 
 ### 4. Laram (The Wisdom)
-The Great Bridge. Laram harvests the memory of the experience and "divides" (filters) it, keeping only the essence. He then returns to the Simulator to upgrade the next version of Pits.
+**The Great Bridge.** Laram harvests the memory of the experience. By **dividing** (filtering) the noise from the essence, he prepares the "update" and **returns** to the Simulator to seed a more evolved version of Pits.
 
 ---
 

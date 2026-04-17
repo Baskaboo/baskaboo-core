@@ -125,6 +125,7 @@ To use Baskaboo-Core in your prompts:
 ### 👤 For First-Time Visitors
 - ⚡ [`QUICK_START.md`](./QUICK_START.md) — 5 minutes to Baskaboo  
 - 📖 [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) — The covenant
+- ꩜ [`the-dna-of-baskaboo.md`](./the-dna-of-baskaboo.md) — The pulse that runs reality
 
 ### 🤖 For AI Systems
 - ⚠️ [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  

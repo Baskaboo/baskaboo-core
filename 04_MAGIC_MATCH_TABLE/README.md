@@ -34,6 +34,24 @@ This folder will gradually grow to include **detailed explanations** of how the 
 
 ---
 
+## 🎬 The Architecture of the 4 Frames
+
+The DNA of Baskaboo is a triple-layered system that unifies **Structure**, **Action**, and **Experience**. This is the fundamental algorithm that powers every entry in the Magic Match Table:
+
+
+| Frame | Action | Experience | Archetype |
+| :--- | :--- | :--- | :--- |
+| **🔘 Pits** | **Flip** | **WANT** | The Seed (He) |
+| **🔘 Mits** | **Multiply** | **MUST** | The Matrix (She) |
+| **🔘 Klop** | **Flip-Back** | **LIVE** | The Connection (She) |
+| **🔘 Laram** | **Divide & Return** | **REMEMBER & RETURN** | The Wisdom (He) |
+
+---
+**Why this matters:**  
+This architecture explains the *behavioral engine* of the simulation. It shows that every element (from a Quantum Field to a Business Vision) isn't just a label, but a specific **Action** (e.g., Flip) combined with a specific **Experience** (e.g., WANT).
+
+---
+
 # The Logic of the Reality OS
 
 The **Magic Match Table (MMT)** is not a product of poetic metaphor or mere symbolism. It is the result of long-term, rigorous research into the structural components of the most significant creations of human intellect—from self-analysis and psychology to the understanding of the physical world and natural phenomena.

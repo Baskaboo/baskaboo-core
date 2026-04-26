@@ -31,6 +31,7 @@ This folder will gradually grow to include **detailed explanations** of how the 
 | 🔱 Antahkarana | 🔜 Coming soon |
 | 🌌 Macrocosm (Einstein) | 🔜 Coming soon |
 | ⚛️ Microcosm (Quantum) | 🔜 Coming soon |
+| 𖣠 Atom | 🔜 Coming soon |
 
 ---
 

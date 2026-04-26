@@ -13,13 +13,12 @@ This is **synchronicity** – not coincidence, but the underlying pattern that c
 
 This repository is a living map of the Baskaboo Universe. Below is the status of our research across different domains. Click the links to explore the active modules:
 
-
 | Domain | Status | Resources & Documentation |
 |:-------|:-------|:--------------------------|
-| 🌿 **Elements of Nature** | ✅ Active | [The Manifesto](https://github.com) / [Central Equation](https://github.com) |
-| 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein to Baskaboo](https://github.com) / [TοΕ](https://github.com) / [Meta-Cosmology](https://github.com) / [Equation of Simulation](https://github.com) |
-| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com) / [Meta-Cosmology](https://github.com) / [Equation of Simulation](https://github.com) |
-| 🌀 **Atom** | ✅ Active | [The Manifesto of the Free Electron](https://github.com) |
+| 🌿 **Elements of Nature** | ✅ Active | [The Manifesto](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_MANIFESTO.md) / [Central Equation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/CENTRAL_EQUATION.md) |
+| 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein to Baskaboo](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md) / [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Equation of Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
+| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Equation of Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
+| 🌀 **Atom** | ✅ Active | [The Manifesto of the Free Electron](https://github.com/Baskaboo/baskaboo-lab/blob/main/The-Manifesto-of-the-Free-Electron.md) |
 | 🌸 Seasons of the Year | 🔜 Coming soon | *Internal Draft* |
 | 🔥 Four Temperaments | 🔜 Coming soon | *Internal Draft* |
 | 🧠 Freud – Personality Theory | 🔜 Coming soon | *Internal Draft* |

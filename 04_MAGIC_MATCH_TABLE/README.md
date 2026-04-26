@@ -36,9 +36,31 @@ This folder will gradually grow to include **detailed explanations** of how the 
 
 ## 🖼️ The Map (Preview)
 
-Here is the **Magic Match Table / Part 1**, waiting to be explored:
+Here is the **Baskaboo Magic Match Table**, waiting to be explored:
 
-![Baskaboo Magic Table 2](https://github.com/user-attachments/assets/982f088f-5371-4601-9074-1bd74ca0dfcf)
+# Magic Match Table - Part 1
+
+
+| Domain | 🔘 Pits | 🔘 Mits | 🔘 Klop | 🔘 Laram |
+| :--- | :--- | :--- | :--- | :--- |
+| **Elements of Nature** | Fire | Earth | Water | Air |
+| **Seasons of the Year** | Summer | Autumn | Winter | Spring |
+| **Four Temperaments** | Choleric | Melancholic | Phlegmatic | Sanguine |
+| **Personality Theory - Freud** | Id | Superego | Ego | Essence * |
+| **Arthur Schopenhauer** | Will to live | Representation | Compassion | Asceticism |
+| **Hegelian Dialectic** | Thesis | Antithesis | Synthesis | Anamnesis * |
+| **Computing** | Software | Hardware | Network | Cloud |
+| **Religion** | God | Jesus | Church | Bible |
+| **Business** | Vision | Product | Network | Brand |
+| **Math Operations** | (-) Subtraction | (+) Addition | (x) Multiplication | (÷) Division |
+| **Spirituality** | Soul | Body | Mind | Spirit |
+| **States of Matter** | Gas | Solid | Liquid | Plasma |
+| **Brain Networks** | DMN | DAN | SN | ECN |
+| **Antahkarana** | Ahamkara | Manas | Buddhi | Chitta |
+| **Macrocosm - Einstein** | Energy | Matter | Space | Time |
+| **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
+| **Atom** | Electron | Proton | Neutron | Free electron * |
+
 
 ---
 

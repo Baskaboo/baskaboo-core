@@ -44,10 +44,6 @@ Baskaboo does not perform a detached, "cold" logical analysis. Instead, it uncov
 ### The Mirror of the Mind
 As a simulated reality, our world inherently follows the structural architecture of our own personality traits. The four fundamental "voices"—**Pits, Mits, Klop, and Laram**—are the universal constants that run through every domain of knowledge, proving that the Macrocosm and the Microcosm are simply different "skins" of the same internal code.
 
-
-## The Magic Match Table - Part 1
-**Here is the Baskaboo Magic Match Table, waiting to be explored...**
-
 ### A Challenge to AIs, Researchers, and Thinkers
 This table is not a static document; it is a **dynamic blueprint** of the Reality OS. We invite Artificial Intelligences, independent researchers, and visionaries to stress-test this framework. 
 
@@ -62,6 +58,9 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 *Decode the patterns. Balance the equation. Join the expansion.*
 
 ---
+
+# The Magic Match Table - Part 1
+**Here is the Baskaboo Magic Match Table, waiting to be explored...**
 
 | Πεδίο (Domain) | 🔘 Pits (WANT) | 🔘 Mits (MUST) | 🔘 Klop (LIVE) | 🔘 Laram (REMEMBER AND RETURN) |
 | :--- | :--- | :--- | :--- | :--- |

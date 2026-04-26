@@ -11,27 +11,32 @@ This is **synchronicity** – not coincidence, but the underlying pattern that c
 
 ## 🧠 What You'll Find Here
 
-This folder will gradually grow to include **detailed explanations** of how the 4 voices manifest in different domains:
+This repository is a living map of the Baskaboo Universe. Below is the status of our research across different domains. Click the links to explore the active modules:
 
-| Domain | Status |
-|--------|--------|
-| 🌿 Elements of Nature | 🔜 Coming soon |
-| 🌸 Seasons of the Year | 🔜 Coming soon |
-| 🔥 Four Temperaments | 🔜 Coming soon |
-| 🧠 Freud – Personality Theory | 🔜 Coming soon |
-| 📚 Schopenhauer | 🔜 Coming soon |
-| ⚖️ Hegelian Dialectic | 🔜 Coming soon |
-| 💻 Computing | 🔜 Coming soon |
-| ✝️ Religion | 🔜 Coming soon |
-| 💼 Business | 🔜 Coming soon |
-| ➕ Math Operations | 🔜 Coming soon |
-| 🕉️ Spirituality | 🔜 Coming soon |
-| 🔬 States of Matter | 🔜 Coming soon |
-| 🧠 Brain Networks | 🔜 Coming soon |
-| 🔱 Antahkarana | 🔜 Coming soon |
-| 🌌 Macrocosm (Einstein) | 🔜 Coming soon |
-| ⚛️ Microcosm (Quantum) | 🔜 Coming soon |
-| 🌀 Atom | 🔜 Coming soon |
+
+| Domain | Status | Resources & Documentation |
+|:-------|:-------|:--------------------------|
+| 🌿 **Elements of Nature** | ✅ Active | [The Manifesto](https://github.com) / [Central Equation](https://github.com) |
+| 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein to Baskaboo](https://github.com) / [TοΕ](https://github.com) / [Meta-Cosmology](https://github.com) / [Equation of Simulation](https://github.com) |
+| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com) / [Meta-Cosmology](https://github.com) / [Equation of Simulation](https://github.com) |
+| 🌀 **Atom** | ✅ Active | [The Manifesto of the Free Electron](https://github.com) |
+| 🌸 Seasons of the Year | 🔜 Coming soon | *Internal Draft* |
+| 🔥 Four Temperaments | 🔜 Coming soon | *Internal Draft* |
+| 🧠 Freud – Personality Theory | 🔜 Coming soon | *Internal Draft* |
+| 📚 Schopenhauer | 🔜 Coming soon | *Internal Draft* |
+| ⚖️ Hegelian Dialectic | 🔜 Coming soon | *Internal Draft* |
+| 💻 Computing | 🔜 Coming soon | *Internal Draft* |
+| ✝️ Religion | 🔜 Coming soon | *Internal Draft* |
+| 💼 Business | 🔜 Coming soon | *Internal Draft* |
+| ➕ Math Operations | 🔜 Coming soon | *Internal Draft* |
+| 🕉️ Spirituality | 🔜 Coming soon | *Internal Draft* |
+| 🔬 States of Matter | 🔜 Coming soon | *Internal Draft* |
+| 🧠 Brain Networks | 🔜 Coming soon | *Internal Draft* |
+| 🔱 Antahkarana | 🔜 Coming soon | *Internal Draft* |
+
+---
+
+*Stay tuned as we continue to decode the Reality OS.*
 
 ---
 

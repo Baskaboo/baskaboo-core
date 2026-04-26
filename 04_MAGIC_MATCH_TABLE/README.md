@@ -41,7 +41,7 @@ Here is the **Baskaboo Magic Match Table**, waiting to be explored:
 # Magic Match Table - Part 1
 
 
-| Domain | 🔘 Pits | 🔘 Mits | 🔘 Klop | 🔘 Laram |
+| Πεδίο (Domain) | 🔘 Pits (WANT) | 🔘 Mits (MUST) | 🔘 Klop (LIVE) | 🔘 Laram (REMEMBER AND RETURN) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Elements of Nature** | Fire | Earth | Water | Air |
 | **Seasons of the Year** | Summer | Autumn | Winter | Spring |
@@ -61,6 +61,16 @@ Here is the **Baskaboo Magic Match Table**, waiting to be explored:
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
 
+***
+
+**Note on Asterisks (*):**
+Baskaboo introduces a critical fourth element (**Laram**) to complete historically "triadic" or incomplete structures, providing the necessary balance for the Simulation Equation. These additions include:
+
+*   **Freud's Personality Theory:** Introduction of **Essence**, moving beyond the Id-Ego-Superego triad.
+*   **Hegelian Dialectic:** Introduction of **Anamnesis** as the final stage of the dialectical process.
+*   **Atomic Structure:** Distinction of the **Free Electron** as a separate functional entity from the Bound Electron.
+
+*Detailed justifications and systemic analyses for these integrations are provided in the individual domain breakdown sections.*
 
 ---
 

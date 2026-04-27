@@ -16,8 +16,8 @@ This repository is a living map of the Baskaboo Universe. Below is the status of
 | Domain | Status | Resources & Documentation |
 |:-------|:-------|:--------------------------|
 | 🌿 **Elements of Nature** | ✅ Active | [The Manifesto](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_MANIFESTO.md) / [Central Equation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/CENTRAL_EQUATION.md) |
-| 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein to Baskaboo](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md) / [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Equation of Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
-| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Equation of Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
+| 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md) / [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
+| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
 | 🌀 **Atom** | ✅ Active | [The Manifesto of the Free Electron](https://github.com/Baskaboo/baskaboo-lab/blob/main/The-Manifesto-of-the-Free-Electron.md) |
 | 🌸 Seasons of the Year | 🔜 Coming soon | *Internal Draft* |
 | 🔥 Four Temperaments | 🔜 Coming soon | *Internal Draft* |

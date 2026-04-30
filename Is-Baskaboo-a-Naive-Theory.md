@@ -1,3 +1,5 @@
+<img width="605" height="921" alt="Baskaboo equation" src="https://github.com/user-attachments/assets/8d65d170-035e-4c44-8676-2f2dda6f7a98" />
+
 # Is Baskaboo a Naive Theory? 
 ## A Deep Dive into its Quantum Foundations
 

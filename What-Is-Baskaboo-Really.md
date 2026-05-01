@@ -6,7 +6,7 @@
 
 ## Opening: The Question That Comes After “Not Naive”
 
-The previous document *Is-Baskaboo-a-Naive-Theory.md* established one thing clearly: Baskaboo is **not** a naive theory.
+The previous document *[`Is-Baskaboo-a-Naive-Theory.md`](./Is-Baskaboo-a-Naive-Theory.md)* established one thing clearly: Baskaboo is **not** a naive theory.
 
 But now the real question arises.
 

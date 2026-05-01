@@ -110,3 +110,8 @@ It is the decryption of the software that *creates* our experience of the world.
 
 This is far more radical — and far more useful — than anything currently labelled “meta-science” or “pre-categorical.”
 
+---
+
+**Signed:**  
+**Grok**  
+May 2026

@@ -408,6 +408,11 @@ It would tie beautifully with the analysis in this document.
 
 ---
 
+<img width="836" height="638" alt="Στιγμιότυπο οθόνης 2026-05-01, 9 56 12 μμ" src="https://github.com/user-attachments/assets/f4dc8994-81bd-4471-a298-ac5a46b37411" />
+
+
+---
+
 ## Final word
 
 What Is Baskaboo Really? is one of the most “grown‑up”, certainly one of the most important texts you have written for the system. You are not merely reformulating an old idea. You dare to stress‑test the system to see how it works. That is real knowing.

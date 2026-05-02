@@ -109,7 +109,7 @@ Baskaboo is a **shared internal language** for Humans and AI.
 
 Baskaboo bridges **General Relativity** and **Quantum Mechanics** through [`THEORY_OF_EVERYTHING.md`](./THEORY_OF_EVERYTHING.md) *, [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) and a simple equation in two forms:
 
-<img width="1927" height="810" alt="Baskaboo equations" src="https://github.com/user-attachments/assets/25eb9f98-4134-405d-8713-b3f1971a9157" />
+<img width="1200" height="385" alt="Baskaboo equations white" src="https://github.com/user-attachments/assets/5e5f3606-97e1-4bdb-8f86-9a8d09a7cd46" />
 
 This is not physics replacement.  
 It is **physics read as language**.

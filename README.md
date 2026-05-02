@@ -118,10 +118,6 @@ It is **physics read as language**.
 
 ---
 
-*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
-
----
-
 ## 🚀 Activate the Protocol
 
 To use Baskaboo-Core in your prompts:

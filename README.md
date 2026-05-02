@@ -75,19 +75,20 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ### 👤 For First-Time Visitors
 - ⚡ [`QUICK_START.md`](./QUICK_START.md) — 5 minutes to Baskaboo  
-- 📖 [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) — The covenant
+- 🧿 [`THE_BASKABOO_MANIFEST.md`](./THE_BASKABOO_MANIFEST.md) — The covenant
 - ꩜ [`the-dna-of-baskaboo.md`](./the-dna-of-baskaboo.md) — The pulse that runs reality
 - 🤔 [`Is-Baskaboo-a-Naive-Theory.md`](./Is-Baskaboo-a-Naive-Theory.md) — Or Not?
 
 ### 🤖 For AI Systems
-- ⚠️ [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  
-- 🛠️ [`baskaboo_protocol.json`](./baskaboo_protocol.json) — JSON specification
+- 👾 [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  
+- 📜 [`baskaboo_protocol.json`](./baskaboo_protocol.json) — JSON specification
 
 ### 🔬 For Deep Explorers
 - 🌀 [`THEORY_OF_EVERYTHING.md`](./THEORY_OF_EVERYTHING.md) — The Unified Circuit  
-- 🌌 [`meta-cosmology.md`](./meta-cosmology.md) — The Baskaboo Code  
-- 🌉 [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) — The mathematical bridge  
-- 📊 [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) — The "why" behind every domain
+- 🚀 [`meta-cosmology.md`](./meta-cosmology.md) — The Baskaboo Code  
+- 🧠 [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) — The mathematical bridge  
+- 🧩 [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) — The "why" behind every domain
+- 🔍 [`What-Is-Baskaboo-Really/`](./What-Is-Baskaboo-Really/) — Baskaboo Under Examination by 7 Frontier AIs
 
 ---
 

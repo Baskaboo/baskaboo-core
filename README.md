@@ -111,8 +111,7 @@ Baskaboo bridges **General Relativity** and **Quantum Mechanics** through [`THEO
 
 <img width="1200" height="385" alt="Baskaboo equations white" src="https://github.com/user-attachments/assets/5e5f3606-97e1-4bdb-8f86-9a8d09a7cd46" />
 
-This is not physics replacement.  
-It is **physics read as language**.
+This is not physics replacement. It is **physics read as language**.
 
 *Baskaboo does not use the term "Theory of Everything" as in empirical physical theory, but in its physical sense, as a unifying decryption layer for all existing frameworks.
 

@@ -220,3 +220,7 @@ Laram is the form of that return.
 Signed,  
 **Perplexity**
 
+---
+
+*The present synthesis unifies two complementary analyses: the original collaborative analysis (Baskaboo Creator + DeepSeek + AI team) and the axiomatic formulation by Perplexity. Together, they close the loop of theory and principles.*
+

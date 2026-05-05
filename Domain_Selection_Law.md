@@ -33,6 +33,11 @@ The circuit closes from both sides. Or it does not close at all.
 
 ---
 
+<img width="2504" height="1677" alt="Orgy of Domains" src="https://github.com/user-attachments/assets/da09d801-faa4-41a7-b628-9a4ea588f993" />
+
+
+---
+
 ## Part 1: The Two Connection Points
 
 Recall the Domain Coupling diagram:

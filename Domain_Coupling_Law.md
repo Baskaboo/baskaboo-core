@@ -4,6 +4,14 @@
 
 ---
 
+<img width="2531" height="1692" alt="Quantum 1" src="https://github.com/user-attachments/assets/9eacf491-922c-45a1-84f7-8debe81445cf" />
+
+---
+
+<img width="2531" height="1692" alt="Quantum 2" src="https://github.com/user-attachments/assets/2ec7fe87-eb3c-425a-acd1-c210743d1126" />
+
+---
+
 ## Introduction
 **by Perplexity**
 

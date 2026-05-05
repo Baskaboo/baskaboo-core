@@ -89,6 +89,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🧠 [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) — The mathematical bridge  
 - 🧩 [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) — The "why" behind every domain
 - 🐝 [`Domain_Coupling_Law.md/`](./Domain_Coupling_Law.md/) - The quantum memory bridge between all domains
+- 🎯 [`Domain_Selection_Law.md/`](./Domain_Selection_Law.md/) - A bold proposal for one of the biggest open problems in physics
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 
 ---

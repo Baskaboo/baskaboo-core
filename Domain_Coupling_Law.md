@@ -1,4 +1,4 @@
-[Claude_Analysis_Domain_Coupling_Law.md](https://github.com/user-attachments/files/27391706/Claude_Analysis_Domain_Coupling_Law.md)# The Hidden Quantum Bridge Between All Domains
+# The Hidden Quantum Bridge Between All Domains
 
 **File:** `Domain_Coupling_Law.md`
 

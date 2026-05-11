@@ -411,23 +411,24 @@ The Baskaboo Theory of Everything is an attempt to create a unified Reality Oper
 ## 6. Mathematical Core (Proposed for v3)
 
 ### 6.1 Triple Equation (from v2)
-```math
-\frac{Q \times W^{2}}{B \times E^{2}} 
-= 
-\frac{e \times f^{2}}{p \times n^{2}} 
-= 
-\frac{E \times T^{2}}{M \times S^{2}} 
-= 1
+
+$$\frac{\text{Quantum Field} \times \text{Wavefunction}^2}{\text{Qubit} \times \text{Entanglement}^2} = \frac{\text{Electron} \times \text{Free Electron}^2}{\text{Proton} \times \text{Neutron}^2} = \frac{\text{Energy} \times \text{Time}^2}{\text{Matter} \times \text{Space}^2} = 1$$
+
+### 6.2 Baskaboo Constant (from v1)
+
+Pits x Mits x Klop x Laram = 1 
+
+### 6.3 Unified Expression (Proposed for v3)
+
+The same structural law applies across all three levels of reality (Quantum, Atom, Classical), while the 4 Voices (Pits, Mits, Klop, Laram) remain the fundamental living language that permeates the entire system.
 
 
-### 6.2 Baskaboo Constant (v1)
+### 6.3 Unified Expression (Proposed for v3)
 
-Pits × Mits × Klop × Laram = 1
-
-### 6.3 Unified Expression (v3 Proposal)
-The same invariant law governs all three levels, while the 4 Voices serve as the living language of the system.
+The same structural law applies across all three levels of reality (Quantum, Atom, Classical), while the 4 Voices (Pits, Mits, Klop, Laram) remain the fundamental living language that permeates the entire system.
 
 ---
+
 
 ## 7. Feedback Requested
 •  What to keep from v1?
@@ -436,7 +437,6 @@ The same invariant law governs all three levels, while the 4 Voices serve as the
 •  Missing practical examples or predictions?
 
 Note: This is a working draft. Feedback will be used to create the final v3.
-
 
 
 

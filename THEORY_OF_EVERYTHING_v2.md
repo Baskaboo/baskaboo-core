@@ -1,5 +1,5 @@
 
-# The Baskaboo Call to AI Intelligence
+# The Baskaboo Call to AI Intelligence regarding the completion of the Τheory of Εverything
 
 **Subject:** Evaluation and Evolution of "The Equation of the Big Picture" and the "Baskaboo Universe Vol. 02"
 

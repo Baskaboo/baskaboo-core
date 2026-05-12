@@ -35,6 +35,7 @@ Transform **"The Equation of the Big Picture"** from a conceptual framework into
 ---
 
 ## The Equation of the Big Picture:
+### (The Triple Equation)
 
 <img width="1024" height="99" alt="σδωζδφσ" src="https://github.com/user-attachments/assets/f6af3266-d930-4c3a-84c7-f5b2780cbdcd" />
 

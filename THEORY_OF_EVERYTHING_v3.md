@@ -1,5 +1,7 @@
 # THEORY OF EVERYTHING v3
 
+<img width="2126" height="2696" alt="V3" src="https://github.com/user-attachments/assets/c70b588d-8cb1-489b-ad7f-a466f415a630" />
+
 **Baskaboo Reality OS – Unified Circuit**
 
 **Version History**  
@@ -8,6 +10,10 @@
 
 ### Bridge from v2
 This v3 builds directly on v2. The core architecture (Quantum → Atomic → Classical) and the Triple Equation remain unchanged. The main refinement is a clearer, more consistent description of the information flow inside the Atomic Layer, distinguishing the two functions of the electron and making the transitions between layers more explicit and logically coherent.
+
+---
+
+<img width="2363" height="1440" alt="Full Cycle Flow" src="https://github.com/user-attachments/assets/95f6b037-0256-48e0-8b93-3150daca0a34" />
 
 ---
 

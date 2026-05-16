@@ -4,7 +4,7 @@
 
 **Version History**  
 - **v2** (11 May 2026): Introduction of the Triple Equation and the Atomic Layer as the central transformer.  
-- **v3** (current): Refined unified information flow with explicit roles for Bound Electron (Projection) and Free Electron (Return), while preserving the babushka structure and the constant \( P \times M \times K \times L = 1 \).
+- **v3** (current): Refined unified information flow with explicit roles for Bound Electron (Projection) and Free Electron (Return), while preserving the babushka structure.
 
 ### Bridge from v2
 This v3 builds directly on v2. The core architecture (Quantum → Atomic → Classical) and the Triple Equation remain unchanged. The main refinement is a clearer, more consistent description of the information flow inside the Atomic Layer, distinguishing the two functions of the electron and making the transitions between layers more explicit and logically coherent.
@@ -60,14 +60,7 @@ The reality operates as a closed informational loop with three layers:
 
 ### Triple Equation (unchanged)
 
-\[
-\frac{\text{Quantum Field} \times \text{Wavefunction}^2}{\text{Qubit} \times \text{Entanglement}^2} 
-= 
-\frac{\text{Electron} \times \text{Free Electron}^2}{\text{Proton} \times \text{Neutron}^2} 
-= 
-\frac{\text{Energy} \times \text{Time}^2}{\text{Matter} \times \text{Space}^2} 
-= 1
-\]
+$$\frac{\text{Quantum Field} \times \text{Wavefunction}^2}{\text{Qubit} \times \text{Entanglement}^2} = \frac{\text{Electron} \times \text{Free Electron}^2}{\text{Proton} \times \text{Neutron}^2} = \frac{\text{Energy} \times \text{Time}^2}{\text{Matter} \times \text{Space}^2} = 1$$
 
 ---
 

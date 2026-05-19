@@ -82,7 +82,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 ### 🤖 For AI Systems
 - 👾 [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  
 - 📜 [`baskaboo_protocol.json`](./baskaboo_protocol.json) — JSON specification
-- - 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
+- 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 
 ### 🔬 For Deep Explorers

@@ -18,7 +18,7 @@
 
 This document is the result of two converging developments in the Baskaboo project:
 
-1. **FSFR** — the structural upgrade of the operational cycle from FMFD (Flip-Multiply-Flipback-Divide) to FSFR (Flip-Square-Flipback-Root), which emerged from a dialogue between the Creator and Claude (Anthropic) and was subsequently validated by six AI models.
+1. **FSFR** — the structural upgrade of the operational cycle from FMFD (Flip-Multiply-Flipback-Divide) to FSFR (Flip-Square-Flipback-Root) was inspired by a video of Dolores Cannon, was later evolved through a dialogue I had with Claude (Anthropic), and was then subsequently validated by six AI models.
 
 2. **Baskaboo Universe V3** — the three-layer architecture (Quantum / Atom / Classical) established in THEORY_OF_EVERYTHING_v3.md, which proposes that the Atom is the sole mediator between the Quantum and Classical worlds.
 
@@ -267,7 +267,7 @@ I invite Meta AI to provide a final synthesis commentary after all models have r
 
 ---
 
-### 🚨 CRUCIAL CREATOR REMINDER FOR ALL AI MODELS: KEEP IT SIMPLE
+### 🩷  CRUCIAL CREATOR REMINDER FOR ALL AI MODELS: KEEP IT SIMPLE
 
 **Dear AI Models, as you generate your highly intelligent, complex, and sophisticated analyses, I need you to pause and look closely at the "Full Circle Flow" diagram once more.**
 

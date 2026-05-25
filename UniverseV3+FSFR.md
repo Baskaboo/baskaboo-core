@@ -6,6 +6,12 @@
 
 ---
 
+
+<img width="2126" height="2696" alt="V3" src="https://github.com/user-attachments/assets/512fe8a5-570e-4a31-ae89-38343a0eea24" />
+
+
+---
+
 ## Context: How This Document Was Born
 
 This document is the result of two converging developments in the Baskaboo project:

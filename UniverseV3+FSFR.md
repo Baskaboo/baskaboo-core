@@ -46,9 +46,9 @@ Applied to the three physical layers:
 - **Root** (Ideas): Time → Energy = **Bridge to Atomic layer**
 
 ### Atomic Layer (The Bridge — traversed twice)
-- **Flip** (Chaos): Free Electron → Neutron = **Atomic Order**
+- **Flip** (Order): Free Electron → Neutron = **Atomic Order**
 - **Square** (Matter): Neutron → Proton = **The nuclear core**
-- **Flipback** (Order): Proton → Bound Electron = **Atomic Chaos**
+- **Flipback** (Chaos): Proton → Bound Electron = **Atomic Chaos**
 - **Root** (Ideas): Bound Electron ↔ Free Electron = **Bridge to Classical and Quantum**
 
 ### Quantum Layer

@@ -9,7 +9,7 @@
 
 <img width="2126" height="2696" alt="V3" src="https://github.com/user-attachments/assets/512fe8a5-570e-4a31-ae89-38343a0eea24" />
 
-<img width="2363" height="1440" alt="Full Cycle Flow" src="https://github.com/user-attachments/assets/429739b7-5b53-4bcc-b4da-be8d437e41d1" />
+<img width="2261" height="1598" alt="Full Cycle Flow NEW" src="https://github.com/user-attachments/assets/b5284a7c-9c16-4958-85d0-6e569e24ff8c" />
 
 
 ---
@@ -46,9 +46,9 @@ Applied to the three physical layers:
 - **Root** (Ideas): Time → Energy = **Bridge to Atomic layer**
 
 ### Atomic Layer (The Bridge — traversed twice)
-- **Flip** (Chaos): Free Electron → Neutron = **Atomic Chaos**
+- **Flip** (Chaos): Free Electron → Neutron = **Atomic Order**
 - **Square** (Matter): Neutron → Proton = **The nuclear core**
-- **Flipback** (Order): Proton → Bound Electron = **Atomic Order**
+- **Flipback** (Order): Proton → Bound Electron = **Atomic Chaos**
 - **Root** (Ideas): Bound Electron ↔ Free Electron = **Bridge to Classical and Quantum**
 
 ### Quantum Layer

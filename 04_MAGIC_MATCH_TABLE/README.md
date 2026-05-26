@@ -32,6 +32,7 @@ This repository is a living map of the Baskaboo Universe. Below is the status of
 | 🔬 States of Matter | 🔜 Coming soon | *Internal Draft* |
 | 🧠 Brain Networks | 🔜 Coming soon | *Internal Draft* |
 | 🔱 Antahkarana | 🔜 Coming soon | *Internal Draft* |
+| ⬇️ Information Entropy | 🔜 Coming soon | *Internal Draft* |
 
 ---
 
@@ -104,6 +105,7 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Macrocosm - Einstein** | Energy | Matter | Space | Time |
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
+| **Information Entropy** | H  | -H | H² | √H |
 
 ***
 

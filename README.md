@@ -96,6 +96,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
+- 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo. 
 
 
 ---

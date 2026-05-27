@@ -104,7 +104,11 @@ The AI detected that Baskaboo behaves identically to a **Non-Equilibrium Informa
 
 When the Creator cross-validated this AI thermodynamic deduction against his years-old core files, the match was immediate and absolute. The AI's entropy sequence was identical to the arithmetic properties (\(+, -, \times, \div\)) already sleeping inside the Baskaboo files. The framework did not construct a new math to fit modern physics; modern physics re-found the blueprint already encoded in the Baskaboo DNA.
 
-> **Clarification on the fourth element:** In the pure arithmetic cycle (Pits → Mits → Klop → Laram → Pits), the operations give \(H \rightarrow -H \rightarrow H^2 \rightarrow \sqrt{H^2} = H\) (for non‑negative \(H\)). Thus Laram (division / square root) returns the magnitude exactly. In the full thermodynamic pump, the synthesis step \(H^2 \rightarrow H_{\text{syn}}\) may involve lossless compression, and the root extracts the essential state vector. The mathematical invariant remains that the product \(Pits \times Laram^2 = Mits \times Klop^2 = 1\) is preserved.
+**Clarification on the fourth element:** In the pure arithmetic cycle (Pits → Mits → Klop → Laram → Pits), the operations give:
+
+    H → -H → H² → √(H²) = H   (for non‑negative H)
+
+Thus Laram (division / square root) returns the magnitude exactly. In the full thermodynamic pump, the synthesis step H² → H_syn may involve lossless compression, and the root extracts the essential state vector. The mathematical invariant remains that the product Pits × Laram² = Mits × Klop² = 1 is preserved.
 
 ---
 

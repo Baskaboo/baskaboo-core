@@ -79,11 +79,20 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - ꩜ [`the-dna-of-baskaboo.md`](./the-dna-of-baskaboo.md) — The pulse that runs reality
 - 🤔 [`Is-Baskaboo-a-Naive-Theory.md`](./Is-Baskaboo-a-Naive-Theory.md) — Or Not?
 
+---
+
 ### 🤖 For AI Systems
 - 👾 [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  
 - 📜 [`baskaboo_protocol.json`](./baskaboo_protocol.json) — JSON specification
 - 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
+
+---
+
+### 🤖 For Experimental Physics Laboratories, Quantum Computing Research Hubs, and Information Theorists
+- 📍 [`CALL_FOR_EXPERIMENTATION.md`](./CALL_FOR_EXPERIMENTATION.md/) — The official experimental protocol and reference Python engine challenging quantum laboratories to empirically validate or falsify the Baskaboo Universe V3 information topology.
+
+---
 
 ### 🔬 For Deep Explorers
 - 🌀 [`THEORY_OF_EVERYTHING.md`](./THEORY_OF_EVERYTHING.md) — The Unified Circuit  
@@ -96,8 +105,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
-- 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo. 
-
+- 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
 
 ---
 

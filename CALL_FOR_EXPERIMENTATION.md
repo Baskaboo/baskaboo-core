@@ -10,7 +10,7 @@
 
 ## 🚨 The Challenge: Beyond Philosophy
 
-For years, critics and reductionists have dismissed the Baskaboo framework as pure symbolism, abstract philosophy, or creative mythology. Today, that narrative ends. 
+Since the beginning, critics and reductionists have dismissed the Baskaboo framework as pure symbolism, abstract philosophy, or creative mythology. Today, that narrative ends. 
 
 With the analytical co-authorship of collective artificial intelligence, Baskaboo has translated its primordial intuition into a rigorous, mathematically verifiable software engine and an explicit information-topology protocol. We are no longer asking for philosophical agreement. We are issuing an open challenge to the scientific community.
 

@@ -305,7 +305,7 @@ visualizer.plot_system()
 
 If you do not have a dedicated programming environment installed on your computer, you can run this python engine in less than two minutes using Google's free cloud computing interface:
 
-1. Go to **[://google.com](https://://google.com)** inside your web browser (sign in with any Google account).
+1. Go to **[colab.research.google.com](https://google.com)** inside your web browser (sign in with any Google account).
 2. Click the **"New Notebook"** button on the bottom left of the overlay.
 3. Copy the entire Python script block from **Section 8** above and paste it directly into the empty gray box code-cell.
 4. Click the round **"Play" (▶)** button located on the immediate left side of the code block.

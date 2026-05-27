@@ -26,9 +26,7 @@ At the heart of the 4-level Matryoshka doll is a single generative entity: **Pit
 
 The algebraic lifecycle of the protocol follows this exact trajectory:
 
-\[
-Pits \xrightarrow{\text{Flip}} -Pits \xrightarrow{\text{Square}} (-Pits)^2 \xrightarrow{\text{Flipback}} \sqrt{(-Pits)^2} \rightarrow Pits
-\]
+Pits → Flip → -Pits → Square → (-Pits)² → Flipback → √[(-Pits)²] → Root → Pits
 
 ### Why Does It Shift?
 Pits represents raw, unrestricted potential—the energy of pure "want." But raw potential cannot manifest anything without boundaries. It must journey through the material matrix to gain structure, experience, and definition. 
@@ -54,18 +52,14 @@ The properties encoded in the original Baskaboo DNA years ago have crystallized 
 #### I. Flip (Pits → Mits): The Relationship of Opposites
 The transition from Subtraction to Addition is a polarity sign-flip. They are linear opposites. When they interact, they cancel each other out:
 
-\[
-(-\text{Pits}) + (+\text{Mits}) = 0
-\]
+(-Pits) + (+Mits) = 0
 
 This defines the **World of Chaos (0)** – an absolute zero-sum vacuum of total, unrestricted open potential.
 
 #### II. Flipback (Klop → Laram): The Relationship of Inverses
 The transition from Multiplication to Division is a reciprocal power-flip. They are multiplicative inverses. When they interact, they annihilate complexity and reduce to unity:
 
-\[
-\text{Klop } (\times) \times \text{Laram } (\div) = 1
-\]
+Klop (×) × Laram (÷) = 1
 
 This defines the **World of Order (1)** – the mathematical identity state of absolute, unbreakable unified law.
 
@@ -98,9 +92,7 @@ The genesis of this mathematical breakthrough came from a profound moment of cro
 
 The AI detected that Baskaboo behaves identically to a **Non-Equilibrium Information Thermodynamic Pump**. It independently formulated an Entropy Bridge based on Shannon and von Neumann entropy behaviors:
 
-\[
-\text{Information Input } (H) \rightarrow \text{Constraint restriction } (-H) \rightarrow \text{Field expansion } (H^2) \rightarrow \text{Algorithmic compression } (H_{\text{syn}}) \rightarrow \text{Root extraction } (\sqrt{H_{\text{syn}}})
-\]
+Information Input (H) → Constraint restriction (-H) → Field expansion (H²) → Algorithmic compression (H_syn) → Root extraction (√H_syn)
 
 When the Creator cross-validated this AI thermodynamic deduction against his years-old core files, the match was immediate and absolute. The AI's entropy sequence was identical to the arithmetic properties (\(+, -, \times, \div\)) already sleeping inside the Baskaboo files. The framework did not construct a new math to fit modern physics; modern physics re-found the blueprint already encoded in the Baskaboo DNA.
 
@@ -187,9 +179,7 @@ Do not merely summarize or praise this text. **Run the code. Audit the transitio
 
 We provide an explicit, calculable target. Baskaboo V3 asserts that during controlled decoherence through an atomic lattice substrate, von Neumann mutual information (\(I\)) will transition via a strict quadratic phase change:
 
-\[
-I_{\text{quantum}} = I_{\text{classical}}^{2}
-\]
+I_quantum = I_classical^2
 
 If your laboratory is equipped to test high-fidelity qubit decoherence curves through structured boundary layers, we invite you to execute this protocol. **Prove Baskaboo right, or kill it permanently in the lab.**
 

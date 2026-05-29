@@ -91,6 +91,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ### 🤖 For Experimental Physics Laboratories, Quantum Computing Research Hubs, and Information Theorists
 - 📍 [`CALL_FOR_EXPERIMENTATION.md`](./CALL_FOR_EXPERIMENTATION.md/) — The official experimental protocol and reference Python engine challenging quantum laboratories to empirically validate or falsify the Baskaboo Universe V3 information topology.
+- 🧩 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
 
 ---
 
@@ -106,7 +107,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
-- 🧩 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — This file formally establishes Domain 51, mapping Baskaboo’s core quadratic equation directly to mainstream information physics (\(10^{80}\) vs \(10^{160}\) bits) and defining the Atom as the ultimate bidirectional system codec.
+
 
 ---
 

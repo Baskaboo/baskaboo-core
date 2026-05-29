@@ -106,6 +106,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
+- 🧩 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — This file formally establishes Domain 51, mapping Baskaboo’s core quadratic equation directly to mainstream information physics (\(10^{80}\) vs \(10^{160}\) bits) and defining the Atom as the ultimate bidirectional system codec.
 
 ---
 

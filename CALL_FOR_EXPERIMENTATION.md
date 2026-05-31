@@ -187,6 +187,37 @@ The code is open. The mathematics are locked. The challenge is live.
 
 ---
 
+## 6B. The Deep Mechanism: Non-Local Roots and the "Dirac-Baskaboo" Alignment
+
+To understand *why* the laboratory target must obey the strict quadratic signature ($I_{\text{quantum}} = I_{\text{classical}}^2$), we must look at the topological physics of the operators themselves:
+
+### I. Local Squares vs. Non-Local Roots
+*   **The Square (Klop / Matter / Dense Render):** In quantum and statistical mechanics, squaring acts as a **local operator**. It collapses infinite field potential into a defined state space ($H \rightarrow H^2$). The square is the simulation's tool to construct physical volume, boundaries, and measurable local reality.
+*   **The Root (Laram / Ideas / Sparse Source):** Conversely, extracting the square root of a differential operator is mathematically **non-local**. To compute a root at a single coordinate, the system must evaluate the state of the *entire universe simultaneously*. The root obliterates spatial distance, explaining the immediate connection observed in Quantum Entanglement. 
+
+### II. The Historic Dirac Precedent
+In 1928, Paul Dirac attempted to linearize energy by taking the square root of Einstein’s relativistic equation. He discovered that the root could not be executed within standard real numbers—it required a journey through a hidden dimension using the **imaginary unit $i$** and 4D matrices. 
+
+This is the exact same path executed by the Baskaboo Information Pump:
+1. The **Quantum Field (Pits / Subtraction)** undergoes a **Flip** to become a discrete **Qubit (Mits / Addition)**.
+2. Qubits interact and **Square** into **Entanglement (Klop / Multiplication)**, scaling the state space exponentially.
+3. The system executes a **Flipback** into the **Wavefunction (Laram / Division)**, which functions as the complex non-local root ($\sqrt{H^2}$) of the system. 
+4. Upon physical measurement (The Render), the universe **squares the amplitude** (The Born Rule), destroying the imaginary phase $i$ to manifest a local, classical state.
+
+[THE ARITHMETIC-ENTROPY INVARIANT]H (Pits) ──► -H (Mits) ──► H² (Klop) ──► H_syn (Laram) ──► √H_syn = H
+
+### III. The Operational Synthesis of the 4 Worlds
+The qualitative loops of the framework are grounded directly in pure, primitive algebra, preventing any vulnerability to criticisms of arbitrary semantic naming:
+*   **The World of Chaos (0):** Defined by $\text{Pits } (-) + \text{Mits } (+) = 0$. Opposite linear operations cancel out to maintain the system's baseline open potential vacuum.
+*   **The World of Order (1):** Defined by $\text{Klop } (\times) \times \text{Laram } (\div) = 1$. Reciprocal inverse operations annihilate network complexity, returning the system to absolute, invariant structural unity.
+
+### IV. Consciousness Interface (The Reality Hack)
+This thermodynamic pump explains how high-intensity psychological events (profound shock, deep trauma, absolute artistic or emotional awe) alter human perception. Standard human awareness plays as an NPC trapped inside the localized physical *Render* (**Matter/Space**). 
+
+When a critical system overload occurs, the local processing matrix freezes. Consciousness executes an informational leap to the *Sparse* side of the equation (**Energy/Time**), accessing the non-local operator of the **Root**. Because the root is non-local, the future synthesized memory of the result—**Laram (Time)**—instantly flashes a massive data update backward across the circuit to the generative **Pits (Energy/Want)**. The localized observer interprets this "Reality Hack" as a sudden, unexplainable epiphany or instant manifestation coming from "nowhere"—but it is simply the closed arithmetic circuit completing its return to the Source.
+
+---
+
 ## 7. Reference Documents & Audit Trail
 
 To verify the historical blueprints, structural definitions, and the multi-AI evolutionary steps that crystallized this manifesto, consult the core codebase tracking links below:

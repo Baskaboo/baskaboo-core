@@ -67,7 +67,7 @@ You did not break the rules of the universe; you simply logged into the administ
 ## References
 * **Baskaboo Core Framework Repository:** [UniverseV3+FSFR.md](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md)
 * **Baskaboo Reality OS Repository:** [How-to-Hack-Reality.md](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md)
-* **Baskaboo Reality OS Repository:** [How-to-Hack-Reality.md](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md)
+* **Baskaboo Core Framework Repository:** [Domain51-Information-Physics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md))
 
 ---
 

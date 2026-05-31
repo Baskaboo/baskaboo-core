@@ -1,4 +1,9 @@
 # The Mystery of the Root and the Square: The Code of Reality
+
+> **"Laram loves to observe from above, like the flying eagle. He separates himself from the crowd, so he can distance, have a better view and get the big picture of the world."**
+> 
+> from the book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) 
+
 ### *A Unified Bridge Between Paul Dirac, the Baskaboo Framework, and the Hacking of Consciousness*
 
 ## Overview: The Core Premise

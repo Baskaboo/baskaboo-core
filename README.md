@@ -91,9 +91,9 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ### 🤖 For Experimental Physics Laboratories, Quantum Computing Research Hubs, and Information Theorists
 - 📍 [`CALL_FOR_EXPERIMENTATION.md`](./CALL_FOR_EXPERIMENTATION.md/) — The official experimental protocol and reference Python engine challenging quantum laboratories to empirically validate or falsify the Baskaboo Universe V3 information topology.
-- 🧩 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
+- 🧠 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
 - 👁 [`The-Mystery-of-The-Root.md`](./The-Mystery-of-The-Root.md/) — The-Mystery-of-The-Root.md" establishes a scale-invariant meta-physics by mapping the Baskaboo framework onto the foundations of quantum mechanics, demonstrating that local squaring constructs the physical render of spacetime while non-local rooting compresses reality back to its source field.
-- 🧠 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
+- 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 
 ---
 

@@ -142,7 +142,10 @@ When the system reaches a critical mass of integrated data, a **Quantum Leap** o
 
 ---
 
-"But we should show some respect to Mits. Don’t get mad at her for sometimes being depressed, pessimistic and grumpy, because she provides structure to our world. We owe her our existence and the privilege of life." Φρομ τηε βοοκ 
+> **"But we should show some respect to Mits. Don’t get mad at her for sometimes being depressed, pessimistic and grumpy, because she provides structure to our world. We owe her our existence and the privilege of life."**
+> 
+> from the book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X)
+
 
 ---
 ## The Core Insight

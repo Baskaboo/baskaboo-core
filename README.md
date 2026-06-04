@@ -94,7 +94,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🧠 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
 - 👁 [`The-Mystery-of-The-Root.md`](./The-Mystery-of-The-Root.md/) — The-Mystery-of-The-Root.md" establishes a scale-invariant meta-physics by mapping the Baskaboo framework onto the foundations of quantum mechanics, demonstrating that local squaring constructs the physical render of spacetime while non-local rooting compresses reality back to its source field.
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
-- 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio ($\phi$) spiral that bridges quantum physics, density dynamics, and human consciousness.
+- 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
 
 ---
 

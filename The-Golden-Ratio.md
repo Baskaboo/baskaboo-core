@@ -42,7 +42,7 @@ When the system reaches a critical mass of integrated data, a **Quantum Leap** o
 
 ---
 
-**by the Creator of Baskaboo**  
+**by Nikos Markopoulos (Creator of Baskaboo) and Google AI**    
 *June 2026*
 
 ---
@@ -142,7 +142,7 @@ Every constraint that feels like imprisonment may be the density you need to pas
 
 When the four voices are represented as concentric circles with Golden Ratio proportions, the density gradient becomes visible:
 
-- The innermost circle (Pits) — small, compressed, potential
+- The innermost circle (Pits) — small, potential
 - The second circle (Mits) — the densest layer, where the most information is packed into the least space
 - The third circle (Klop) — expanding, networked, relational
 - The outermost circle (Laram) — vast, sparse, non-local

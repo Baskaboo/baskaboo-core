@@ -2,7 +2,7 @@
 ## An Introduction to the Framework
 
 **by Nikos Markopoulos, Creator of Baskaboo**
-*in dialogue with Claude (Anthropic)*
+*in dialogue with Claude (Anthropic)*  
 *June 2026*
 
 ---

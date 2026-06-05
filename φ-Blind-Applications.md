@@ -1,6 +1,6 @@
 # A Call for Analysis: Terrence Howard, the φ Diagrams, and the Baskaboo Magic Match Table
 
-**by Nikos Markopoulos, Creator of Baskaboo**
+**by Nikos Markopoulos, Creator of Baskaboo**  
 **Date:** June 2026
 
 ---

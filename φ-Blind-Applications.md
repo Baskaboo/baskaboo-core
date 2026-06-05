@@ -75,7 +75,7 @@ $$EM \xrightarrow{+\varphi}_{\text{flip}} -Strong \xrightarrow{+\varphi}_{\text{
 
 ---
 
-*The analysis that follows is Claude's (Anthropic) response to these questions.*
+*The analysis that follows is a response to these questions from Claude AI (Anthropic), Meta AI, Gemini, Deepseek, Google AI and Perplexity.*
 
 ---
 

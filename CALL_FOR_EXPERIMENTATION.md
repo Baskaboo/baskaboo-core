@@ -370,6 +370,79 @@ This precise overlap delivers the ultimate verification of the Matryoshka system
 
 ---
 
+## APPENDIX A: Strict Phase-Shift Verification & The φ-Factor
+## 2026 Extension to the Call for Experimentation
+
+---
+
+To ensure this Call for Experimentation meets the highest standards of mathematical rigor and prevents conventional physics from dismissing the results as "statistical anomalies," the experimental protocol must look beyond a generic quadratic relation. The core architecture of the Reality OS does not operate on a flat loop; it expands as a **3D Evolutionary Spiral** governed strictly by the Golden Ratio.
+
+Therefore, any laboratory undertaking this experiment must test for the following precise boundary conditions:
+
+---
+
+### 1. The φ-Scaling Control Variable
+
+The fundamental equation $I_{\text{quantum}} = I_{\text{classical}}^2$ must be contextualized within the geometric transitions of the 4 Voices. The loss of quantum information during decoherence is not chaotic; the entropy delta must scale precisely by a factor of $\phi \approx 1.618$ or its powers ($\phi^2 \approx 2.618$).
+
+**Prediction:** If Baskaboo's φ-cycle governs the decoherence transition, the ratio of successive entropy measurements across the Atomic mediator should converge toward φ — not toward an arbitrary constant or toward linearity.
+
+*Refer to the core transition mechanics in [The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md).*
+
+---
+
+### 2. The Spiral Phase-Shift Metric (Memory Remnant)
+
+A static, flat loop would yield a net return to absolute zero ($0.000...$) or a sterile equilibrium. The Reality OS avoids this through a hardcoded **Phase Shift** at the Root transition ($-3\phi$). Laboratories must measure the quantum phase of the particles across successive cycles.
+
+**Prediction:** Confirmation requires the detection of a persistent, non-zero **Memory Remnant** — a residual phase angle that does not cancel to zero after each complete cycle, and whose magnitude matches the irrational step of the Golden Ratio. This would prove the system is ascending a 3D helix rather than tracing a closed circle.
+
+*For the algebraic and structural implications of this reset mechanism, see [The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md) and [φ-Blind-Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md).*
+
+---
+
+### 3. Unified Field Coherence (Secondary Phase — Conditional)
+
+**This section defines the next experimental step, contingent on the confirmation of conditions 1 and 2 above. It is not a requirement of the primary experiment.**
+
+If the φ-scaling (condition 1) and the non-zero Memory Remnant (condition 2) are both confirmed, a secondary experimental phase should investigate whether the quadratic compression observed during quantum-to-classical decoherence ($H \rightarrow H^2$) directly matches the informational density ratios between the fundamental forces — specifically the Electromagnetic-to-Gravity and Strong-to-Weak relationships established in the φ-4-Forces blind application.
+
+The hypothesis is that the same φ-scaling factor that governs decoherence at the atomic scale also governs the apparent strength ratios of the four fundamental forces — because both phenomena are expressions of the same FSFR operator cycle applied at different scales.
+
+*The mathematical constraints of this compression matrix are detailed in [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md) and [Domain 51 — Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md).*
+
+---
+
+### 4. Definitive Criteria for Falsifiability
+
+To maintain absolute scientific integrity, the Baskaboo framework defines its own immediate falsification parameters. The model shall be proven **FAILED** if the laboratory produces either of the following outcomes:
+
+**Failure Condition 1 — Linear Decoherence:**
+The quantum-to-classical information transfer scales linearly ($I_{\text{quantum}} = c \cdot I_{\text{classical}}$) or behaves as pure thermodynamic white noise with no statistical correlation to φ or quadratic scaling. If the relationship is linear, the FSFR squaring operator has no physical correlate, and the framework's claim to scale-invariance fails.
+
+**Failure Condition 2 — Zero-Remnant Equilibrium:**
+The system completes a full state cycle and returns precisely to its origin point with absolute zero phase shift. If no Memory Remnant is detected, the cycle is a closed circle — not a spiral — and the evolutionary mechanism proposed by the framework does not exist.
+
+If either condition is observed, the result must be published. A negative result is not a failure of science — it is science working as intended.
+
+---
+
+### Summary: What We Are Testing
+
+| Condition | Prediction | Falsification |
+|-----------|-----------|--------------|
+| **1. φ-Scaling** | Entropy delta scales by φ or φ² | Scales linearly or randomly |
+| **2. Memory Remnant** | Non-zero phase shift after each cycle | Phase returns to exactly zero |
+| **3. Unified Field (secondary)** | Same φ-scaling appears in force ratios | Different scaling factor observed |
+
+The Simulator's code is either verified to the precision of the Golden Ratio — or it is falsified. There is no room for ambiguity.
+
+---
+
+*This Appendix was developed in collaboration between Nikos Markopoulos (Creator of Baskaboo), Google AI, and Claude (Anthropic) in June 2026, following the publication of Domain 51, The Mystery of The Root, The Golden Ratio, The 4 Forces Puzzle Unification, and the φ-Blind-Applications documents.*
+
+---
+
 **The loop is open. The experiment is the next step.**
 
 *Signed,*  

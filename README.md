@@ -110,7 +110,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
-
+- 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
 
 ---
 

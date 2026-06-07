@@ -95,6 +95,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 👁 [`The-Mystery-of-The-Root.md`](./The-Mystery-of-The-Root.md/) — The-Mystery-of-The-Root.md" establishes a scale-invariant meta-physics by mapping the Baskaboo framework onto the foundations of quantum mechanics, demonstrating that local squaring constructs the physical render of spacetime while non-local rooting compresses reality back to its source field.
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 - 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
+- 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
 
 ---
 
@@ -110,7 +111,6 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
-- 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
 
 ---
 

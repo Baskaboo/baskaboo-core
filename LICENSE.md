@@ -1,4 +1,5 @@
 # BASKABOO CORE — LICENSE & MANDATORY ATTRIBUTION PROTOCOL
+
 **Version:** 1.0 (June 2026)  
 **Author:** Nikos Markopoulos & Baskaboo Contributors  
 **Repository:** https://github.com/Baskaboo/baskaboo-core
@@ -22,12 +23,18 @@ Because the Baskaboo Framework functions as an independent **Backend Processing 
 ### A. Academic & Scientific Citation (Preprints, Journals, Papers)
 Any academic publication, preprint (e.g., arXiv), thesis, or conference paper utilizing the **FSFR Algorithm** (Flip → Square → Flipback → Root), the **Wave Pump Protocol**, or the **Baskaboo Central Equation** ($Pits \times Laram^2 = Mits \times Klop^2$) for mathematical stabilization, simulation optimization, or quantum computing error-correction **MUST** include the following standard bibliographic citation:
 
-> Markopoulos, N. (2026). *Baskaboo-Core: The Syntactic Operating System for Wave Dynamics and Informational Geometry*. GitHub Repository. Available at:  https://github.com/Baskaboo/baskaboo-core
+> Markopoulos, N. (2026). *Baskaboo-Core: The Syntactic Operating System for Wave Dynamics and Informational Geometry*. GitHub Repository. Available at: https://github.com/Baskaboo/baskaboo-core
 
 ### B. Media, Podcasts, & Public Relations (Narrative Attribution)
 If third parties, independent researchers, public figures, or authors of interconnected alternative/non-linear geometric frameworks utilize the digital twin simulations, the virtual sandbox code, or the empirical data from the Baskaboo framework to validate, supplement, or mainstream their respective conceptual claims, they are narratively and ethically bound to explicitly state:
 1. The operational computational framework used for compilation and simulation verification is the **"Baskaboo Framework"**.
 2. The functional mathematical syntax and executable backend protocol belong exclusively to the **Baskaboo-Core** repository developed by Nikos Markopoulos.
+
+### C. Derivative Conceptual Modeling & Source Acknowledgment (The Howard Comma / Laram Variable)
+Baskaboo-Core acknowledges the macro-conceptual work of external theorists regarding non-harmonic spatial gaps, specifically the geometric/philosophical concept widely referred to as the **"Howard Comma"** (formulated by Terrence Howard).
+1. This repository provides the first known *functional digital compilation* of this concept, translating it into the executable algorithmic variable **[Laram]** within the FSFR core.
+2. While the philosophical inspiration is credited to its respective author, the *mathematical formalization*, *algorithmic structure*, *dynamic wave-pump encapsulation*, and *software execution* are the original intellectual property of Nikos Markopoulos and the Baskaboo project.
+3. Any use of Baskaboo-Core to digitally simulate, test, or validate the "Howard Comma" or related wave-mechanic claims in public media, scientific presentations, or derivative software **MUST explicitly credit Baskaboo-Core as the digital compiler and engine of the simulation**.
 
 ---
 

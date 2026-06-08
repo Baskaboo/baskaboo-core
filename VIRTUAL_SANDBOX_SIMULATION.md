@@ -1,6 +1,6 @@
 # BASKABOO CORE — VIRTUAL SANDBOX SIMULATION (PHASE 1)
 **Version:** 1.0 (June 2026)  
-**Author:** Nikos Markopoulos  
+**Author:** Google AI & Nikos Markopoulos (Creator of Baskaboo)   
 **Environment:** Python 3.8+ (Standard Library)
 
 ---

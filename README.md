@@ -108,6 +108,7 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 - 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
 - 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
+- 💡 [`VIRTUAL_SANDBOX_SIMULATION.md`](./VIRTUAL_SANDBOX_SIMULATION.md/) — FSFR Cycle Visualization — A structural demonstration of the Central Equation closure. This is not an empirical validation.
 
 ---
 

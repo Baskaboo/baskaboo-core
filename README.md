@@ -102,13 +102,14 @@ This repository is bound by a custom legal and ethical framework detailed in the
 ---
 
 ### 🤖 For Experimental Physics Laboratories, Quantum Computing Research Hubs, and Information Theorists
-- 📍 [`CALL_FOR_EXPERIMENTATION.md`](./CALL_FOR_EXPERIMENTATION.md/) — The official experimental protocol and reference Python engine challenging quantum laboratories to empirically validate or falsify the Baskaboo Universe V3 information topology.
+
 - 🧠 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
 - 👁 [`The-Mystery-of-The-Root.md`](./The-Mystery-of-The-Root.md/) — The-Mystery-of-The-Root.md" establishes a scale-invariant meta-physics by mapping the Baskaboo framework onto the foundations of quantum mechanics, demonstrating that local squaring constructs the physical render of spacetime while non-local rooting compresses reality back to its source field.
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 - 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
 - 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
-- 💡 [`VIRTUAL_SANDBOX_SIMULATION.md`](./VIRTUAL_SANDBOX_SIMULATION.md/) — FSFR Cycle Visualization — A structural demonstration of the Central Equation closure. This is not an empirical validation.
+- 🤖 [VIRTUAL_SANDBOX_SIMULATION.md](VIRTUAL_SANDBOX_SIMULATION.md) / Phase 1 Sandbox — Software simulation verifying the mathematical consistency of the FSFR loop. (Structural Prototype / Non-Empirical Demo). Verifies the algebraic and algorithmic loop closure using a local Python engine.
+- 📍 [CALL_FOR_EXPERIMENTATION.md](CALL_FOR_EXPERIMENTATION.md) / Phase 2 Falsification — The Core "Kill Experiment" Protocol for Physical Quantum Hardware Testing. The definitive empirical validation matrix designed to test quadratic decoherence scaling in quantum lattices.
 
 ---
 

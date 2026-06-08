@@ -25,8 +25,8 @@ Any academic publication, preprint (e.g., arXiv), thesis, or conference paper ut
 > Markopoulos, N. (2026). *Baskaboo-Core: The Syntactic Operating System for Wave Dynamics and Informational Geometry*. GitHub Repository. Available at: (https://github.com/Baskaboo/baskaboo-core)
 
 ### B. Media, Podcasts, & Public Relations (Narrative Attribution)
-If third parties, independent researchers, public figures, or the original conceptual originators of interconnected geometric fields (e.g., Terrence Howard, Tetryonics researchers, or historical alternative cosmology advocates) utilize the digital twin simulations, the virtual sandbox code, or the empirical data from the Baskaboo **Kill Experiment** to validate or mainstream their claims, they are legally and narratively bound to explicitly state:
-1. The operational framework used for compilation is the **"Baskaboo Framework"**.
+If third parties, independent researchers, public figures, or authors of interconnected alternative/non-linear geometric frameworks utilize the digital twin simulations, the virtual sandbox code, or the empirical data from the Baskaboo framework to validate, supplement, or mainstream their respective conceptual claims, they are narratively and ethically bound to explicitly state:
+1. The operational computational framework used for compilation and simulation verification is the **"Baskaboo Framework"**.
 2. The functional mathematical syntax and executable backend protocol belong exclusively to the **Baskaboo-Core** repository developed by Nikos Markopoulos.
 
 ---

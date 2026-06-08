@@ -17,7 +17,7 @@ By interacting with, modifying, or deploying this repository, you agree to the f
 
 ## 2. MANDATORY ATTRIBUTION PROTOCOL (SYNTACTIC PROTOTYPING CLAUSE)
 
-Because the Baskaboo Framework functions as an independent **Backend Processing Syntax** capable of compiling, modulating, and stabilizing alternative geometric frameworks (including but not limited to Wave Mechanics, Lynchpin Geometry, and the Howard Comma), strict structural credit is legally and ethically required.
+Because the Baskaboo Framework functions as an independent **Backend Processing Syntax** capable of compiling, modulating, and stabilizing alternative geometric frameworks (including but not limited to non-linear wave mechanics, non-Euclidean structural geometries, and micro-harmonic core corrections), strict structural credit is legally and ethically required.
 
 ### A. Academic & Scientific Citation (Preprints, Journals, Papers)
 Any academic publication, preprint (e.g., arXiv), thesis, or conference paper utilizing the **FSFR Algorithm** (Flip → Square → Flipback → Root), the **Wave Pump Protocol**, or the **Baskaboo Central Equation** ($Pits \times Laram^2 = Mits \times Klop^2$) for mathematical stabilization, simulation optimization, or quantum computing error-correction **MUST** include the following standard bibliographic citation:

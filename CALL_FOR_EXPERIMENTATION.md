@@ -443,6 +443,10 @@ The Simulator's code is either verified to the precision of the Golden Ratio —
 
 ---
 
+The execution of this laboratory experiment, the utilization of its empirical data, and any subsequent academic or public publications are strictly governed by the Baskaboo Core License & Attribution Protocol.
+
+---
+
 **The loop is open. The experiment is the next step.**
 
 *Signed,*  

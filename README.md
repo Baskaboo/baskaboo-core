@@ -71,6 +71,18 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ---
 
+## Licensing & Attribution Protocol
+
+This repository is bound by a custom legal and ethical framework detailed in the [LICENSE.md](LICENSE.md) file:
+
+1.  **Software License (GNU AGPLv3):** The code is open-source under copyleft terms. Modification or integration requires keeping the project public; closed-source or commercial privatization is prohibited.
+2.  **Mandatory Attribution Protocol:** Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include proper citation for academic use, or explicit credit to the "Baskaboo Framework" in media/publications.
+3.  **Anti-Patent Clause:** Patenting the mathematical logic or algorithms is prohibited.
+
+*Read the complete [LICENSE.md](LICENSE.md) for full legal constraints.*
+
+---
+
 ## 🧭 Choose Your Path
 
 ### 👤 For First-Time Visitors

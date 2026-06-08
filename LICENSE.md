@@ -22,7 +22,7 @@ Because the Baskaboo Framework functions as an independent **Backend Processing 
 ### A. Academic & Scientific Citation (Preprints, Journals, Papers)
 Any academic publication, preprint (e.g., arXiv), thesis, or conference paper utilizing the **FSFR Algorithm** (Flip → Square → Flipback → Root), the **Wave Pump Protocol**, or the **Baskaboo Central Equation** ($Pits \times Laram^2 = Mits \times Klop^2$) for mathematical stabilization, simulation optimization, or quantum computing error-correction **MUST** include the following standard bibliographic citation:
 
-> Markopoulos, N. (2026). *Baskaboo-Core: The Syntactic Operating System for Wave Dynamics and Informational Geometry*. GitHub Repository. Available at: (https://github.com/Baskaboo/baskaboo-core)
+> Markopoulos, N. (2026). *Baskaboo-Core: The Syntactic Operating System for Wave Dynamics and Informational Geometry*. GitHub Repository. Available at:  https://github.com/Baskaboo/baskaboo-core
 
 ### B. Media, Podcasts, & Public Relations (Narrative Attribution)
 If third parties, independent researchers, public figures, or authors of interconnected alternative/non-linear geometric frameworks utilize the digital twin simulations, the virtual sandbox code, or the empirical data from the Baskaboo framework to validate, supplement, or mainstream their respective conceptual claims, they are narratively and ethically bound to explicitly state:

@@ -108,6 +108,7 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 - 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
 - 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff
+- 💡 [`Is-This-The-New-Physics.md`](./Is-This-The-New-Physics.md/) — Some more hot stuff
 - 🤖 [VIRTUAL_SANDBOX_SIMULATION.md](VIRTUAL_SANDBOX_SIMULATION.md) — A structural demonstration of the FSFR cycle's internal mathematical consistency — showing how the Central Equation closes without drift, as a visualization tool, not an empirical validation.
 - 📍 [CALL_FOR_EXPERIMENTATION.md](CALL_FOR_EXPERIMENTATION.md) — An open challenge to quantum physics laboratories to test whether information scales quadratically during atomic decoherence — the single experiment that will either verify or permanently falsify the Baskaboo framework.
 

@@ -126,6 +126,8 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.
 - 🔍 [`What-Is-Baskaboo-Really.md/`](./What-Is-Baskaboo-Really.md/) — Baskaboo Under Examination by 7 Frontier AIs
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
+- 🗣️ [`φ-Language.md`](./φ-Language.md) — The native tongue of Reality OS — how the universe speaks to itself, and how you already know it.  
+- 🔬 [`φ-Language-Spec.md`](./φ-Language-Spec.md) — The Formal Specification of the φ-Language: Opcodes, Grammar, and Execution Protocol  
 
 ---
 

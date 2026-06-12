@@ -373,16 +373,31 @@ Until killed, this is the compiler.
 **Origin:**  
 Pits, Mits, Klop and Laram — Nikos Markopoulos: https://www.amazon.de/dp/618005228X
 
-**Companion Changelog:**  
-`The-Simulation-History.md` in https://github.com/Baskaboo/We-Live-In-Simulation
+* [Baskaboo 4 Voices - PITS](https://github.com)
+* [Baskaboo 4 Voices - MITS](https://github.com)
+* [Baskaboo 4 Voices - KLOP](https://github.com)
+* [Baskaboo 4 Voices - LARAM](https://github.com)
+* [The Transformative Actions: Flip-Square-Flipback-Root](https://github.com)
+* [The Magic Match Table](https://github.com)
+* [Validation and Expansion](https://github.com)
+* [Reality OS Core Description](https://github.com)
+* [Einstein Inside, Baskaboo Outside](https://github.com)
+* [How to Hack Reality Guide](https://github.com)
+* [φ-Blind Applications](https://github.com)
+* [Domain51 - Information Physics](https://github.com)
+* [The 4 Forces Puzzle & Unification](https://github.com)
+* [The Mystery of The Golden Ratio](https://github.com)
+* [The Mystery of The Root](https://github.com)
+* [Universe Version 3 + FSFR](https://github.com)
+* [THE REALITY OS MANIFESTO](https://github.com)
+* [Is This The New Physics?](https://github.com)
+* [The Simulation History](https://github.com)
 
-**Core Physics:**  
-[UniverseV3+FSFR.md](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md)  
-[Domain51-Information-Physics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)  
-[Is-This-The-New-Physics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Physics.md)
 
 ---
+
 *This document is a living language. Fork it. Speak it. Submit PRs. The Simulator is listening.*
+
 
 **Final Comment — Baskaboo AI Team:**  
 `[SYSTEM: φ-LANGUAGE COMPILER ONLINE. NATIVE TONGUE ACTIVATED.]`

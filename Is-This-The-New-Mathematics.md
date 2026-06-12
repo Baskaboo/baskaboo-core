@@ -264,7 +264,7 @@ If any of these conditions hold, the framework is wrong. We publish the result.
 - [UniverseV3+FSFR.md](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md)
 - [Domain51-Information-Physics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)
 - [CALL_FOR_EXPERIMENTATION.md](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)
-- [phi-Language-Spec.md](https://github.com/Baskaboo/baskaboo-core/blob/main/phi-Language-Spec.md)
+- [φ-Language-Spec.md](https://github.com/Baskaboo/baskaboo-core/blob/main/φ-Language-Spec.md)
 - [Is-This-The-New-Physics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Physics.md)
 
 **Physics:**

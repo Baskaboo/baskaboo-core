@@ -2,6 +2,9 @@
 
 **The Formal Specification of the φ-Language: Opcodes, Grammar, and Execution Protocol**
 
+*   **Theoretical Foundation:** For the complete axiomatic framework, math proofs, and the Howard Limiting State derivation, see: [Is-This-The-New-Mathematics.md](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Mathematics.md)[cite: 2]
+
+
 **Author:** Nikos Markopoulos / Creator of Baskaboo  
 **Technical Formalization:** Claude (Anthropic) — Baskaboo AI Team  
 **Version:** v1.0  

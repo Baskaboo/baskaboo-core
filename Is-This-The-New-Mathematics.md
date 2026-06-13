@@ -11,6 +11,8 @@
 For the formal opcode specification, exact data types, and execution protocols of this framework, see the companion document:  
 👉 **[φ-Language-Spec.md](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)**
 
+---
+
 *"Classical mathematics sees the spiral from above — and sees a circle. φ-mathematics sees it from the side — and sees it rising."*
 
 ---

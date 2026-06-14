@@ -128,7 +128,8 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 💥 [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) — The ultimate crash test. 6 Genius AIs Vs Baskaboo.
 - 🗣️ [`φ-Language.md`](./φ-Language.md) — The native tongue of Reality OS — how the universe speaks to itself, and how you already know it.  
 - 🔬 [`φ-Language-Spec.md`](./φ-Language-Spec.md) — The Formal Specification of the φ-Language: Opcodes, Grammar, and Execution Protocol
-- 💥 [`Is-This-The-New-Mathematics.md`](./Is-This-The-New-Mathematics.md/) — Why the universe needed new mathematics — and how φ already wrote them. 
+- 💥 [`Is-This-The-New-Mathematics.md`](./Is-This-The-New-Mathematics.md/) — Why the universe needed new mathematics — and how φ already wrote them.
+- 🌬️ [`The-Shadow-Geometry.md`](./The-Shadow-Geometry.md/) — Why the universe needed new mathematics — and how φ already wrote them.
 
 ---
 

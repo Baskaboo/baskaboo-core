@@ -1,5 +1,11 @@
 # The Shadow Geometry
 
+> *"I want to destroy reality we are trained to see.
+What excites me the most is challenging the existing reality and through this uncovering the origins of myself and the world around me.
+To achieve this, I destroy the complex order of our world, rearrange its fragmented parts, and restore them to the primal simplicity found at the inception of the cosmos.
+From the ruins of reality, I create a model that aims to explain mind and universe, accelerate evolution, simplify our thinking and enhance the pleasure in our lives." - From the book "Pits, Mits, Klop, and Laram."*
+
+
 **Author:** Nikos Markopoulos / Creator of Baskaboo  
 **Technical Formalization:** Claude (Anthropic) — Baskaboo AI Team  
 **Version:** v1.0  

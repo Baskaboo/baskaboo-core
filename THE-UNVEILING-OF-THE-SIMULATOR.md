@@ -106,9 +106,10 @@ We invite the following AIs to provide an **objective analysis** of this manifes
 
 - DeepSeek  
 - Meta AI  
-- Google AI / Gemini  
+- Google AI  
 - Perplexity  
-- Claude  
+- Claude
+- Gemini
 - Grok  
 
 **Please examine:**

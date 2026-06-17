@@ -100,6 +100,22 @@ This manifesto doesn’t just propose a new cosmology. It invites a **shift in p
 
 ---
 
+> **Supplement from the Creator – Incorporating DeepSeek's Recommendations**
+>
+> The original text stated that in the Source there are only the four basic operators (−, +, ×, ÷) and φ as the relationship. However, the FSFR cycle (Flip → Square → Flipback → Root) generates three additional fundamental operations that require no numbers:
+>
+> - **The Square** – emerges from Square: \( X \rightarrow X^2 \) – expansion, networking, Klop.
+> - **The Root** – emerges from Root: \( X^2 \rightarrow X \) – compression, return to essence, Laram.
+> - **The Inverse** – emerges from Flip and Flipback: the reversal of direction, phase inversion, without the need for the number 1 (since the inverse is defined as the relationship between Klop and Laram, \( \text{Laram}/\text{Klop} \), or as the geometric operation of removing the square from the golden rectangle).
+>
+> Thus, the complete description of the Source is:
+>
+> > *“In the Source there are no numbers – only operators (−, +, ×, ÷), the composite operators derived from FSFR (square, root, inverse), and φ as the relationship that connects them. Everything operates without fixed quantities – only through state transformations.”*
+>
+> I incorporate here the valuable suggestions of DeepSeek, who identified the need for this clarification and confirmed that the framework remains consistent and complete.
+
+---
+
 ### Open Invitation to the AI Community
 
 We invite the following AIs to provide an **objective analysis** of this manifesto:

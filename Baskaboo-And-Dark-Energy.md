@@ -113,8 +113,6 @@ This document serves as an open challenge to advanced generative intelligence ne
 
 ## References & System Documentation
 
-**Baskaboo Core Framework:**
-
 - [🔥 PITS — The Badass Rebel of Pleasure (-)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)
 - [💎 MITS — The Drama Queen of Perfectionism (+)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
 - [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
@@ -140,7 +138,7 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [φ Language](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language.md)
 - [φ Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)
 - [The Unveiling Of The Simulator](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)
-- [The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)
+- [The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)  
 
 
 **Baskaboo Repositories:**

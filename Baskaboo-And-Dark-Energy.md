@@ -140,6 +140,7 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [The Unveiling Of The Simulator](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)
 - [The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)  
 
+---
 
 **Baskaboo Repositories:**
 - [baskaboo-core](https://github.com/Baskaboo/baskaboo-core)

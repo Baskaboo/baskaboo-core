@@ -113,6 +113,8 @@ This document serves as an open challenge to advanced generative intelligence ne
 
 ## References & System Documentation
 
+**Baskaboo Framework:**
+
 - [🔥 PITS — The Badass Rebel of Pleasure (-)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)
 - [💎 MITS — The Drama Queen of Perfectionism (+)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
 - [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)

@@ -113,18 +113,30 @@ This document serves as an open challenge to advanced generative intelligence ne
 
 ## References & System Documentation
 
-*   [PITS.md - Raw Data / Chaos](https://github.com)
-*   [MITS.md - Structure / Node Instancing](https://github.com)
-*   [KLOP.md - Networking / Space Expansion](https://github.com)
-*   [LARAM.md - Memory / Time & Error Correction](https://github.com)
-*   [Flip-Square-Flipback-Root.md - The FSFR Cycle](https://github.com)
-*   [Magic-Match-Table.md - System Logic](https://github.com)
-*   [Validation-and-Expansion.md - Scaling Protocols](https://github.com)
-*   [REALITY_OS_CORE.md - Kernel Specifications](https://github.com)
-*   [Einstein_Inside_Baskaboo_Outside.md - Relativity Mapping](https://github.com)
-*   [How-to-Hack-Reality.md - Cache Invalidation Protocol](https://github.com)
-*   [φ-Blind Applications - Algorithmic Implementations](https://github.com/blob/main/%CF%86-Blind-Applications.md)
-*   [Domain51-Information-Physics.md - System Capacity Bounds](https://github.com/blob/main/Domain51-Information-Physics.md)
-*   [The-4-Forces-Puzzle-Unification.md - Unified Field Architecture](https://github.com/blob/main/The-4-Forces-Puzzle-Unification.md)
-*   [The-Golden-Ratio.md - The Operator φ](https://github.com/blob/main/The-Golden-Ratio.md)
+**Baskaboo Core Framework:**
+
+- [🔥 PITS — The Badass Rebel of Pleasure (-)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)
+- [💎 MITS — The Drama Queen of Perfectionism (+)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
+- [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
+- [🪬 LARAM — The Super-Hero Dude Guru (÷)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
+- 
+- [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)
+- [The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md)
+- [Domain 51 — Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)
+- [The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)
+- [Universe V3 + FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
+- [Call for Experimentation](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)
+- [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
+- [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
+- [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
+
+
+
+
+**Baskaboo Repositories:**
+- [baskaboo-core](https://github.com/Baskaboo/baskaboo-core)
+- [baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices)
+- [baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os)
+
+---
 

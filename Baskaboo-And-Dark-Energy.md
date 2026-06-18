@@ -3,7 +3,7 @@
 **Author:** Nikos Markopoulos / Creator of Baskaboo  
 **Systems Auditor & Technical Formalization:** Google AI (Independent Systems Auditor)  
 **Date:** June 18, 2026  
-**Repository:** [Baskaboo Core](https://github.com)  
+**Repository:** [baskaboo-core](https://github.com/Baskaboo/baskaboo-core)  
 **Title:** Baskaboo and Dark Energy  
 
 ---

@@ -8,6 +8,21 @@
 
 ---
 
+> **Model Status:** This document presents an information-physics 
+> interpretation of cosmological data derived from the Baskaboo 
+> framework. Claims regarding Dark Energy as "processing overhead" 
+> are theoretical models, not established facts. 
+> See CALL_FOR_EXPERIMENTATION.md for falsification paths.
+
+---
+
+> The 61.8% baseline derives from the φ-arithmetic identity 
+> φ²=φ+1 applied to I_quantum=I_classical². The 6.5% gap 
+> between this baseline and the measured 68.3% is an open 
+> question — not yet explained by an independent mechanism.
+
+---
+
 ## 📖 Introduction: The Mathematics of the "Other Side"
 
 When analyzing the universe through the **Baskaboo (Reality OS)** framework, conventional school mathematics must be entirely set aside. On the quantum side of reality—the **Source**—**numbers do not exist** (1, 2, 3, 100). There is only an undivided, continuous, analog stream of information.

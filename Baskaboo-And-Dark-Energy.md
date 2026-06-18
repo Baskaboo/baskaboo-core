@@ -120,18 +120,27 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
 - [🪬 LARAM — The Super-Hero Dude Guru (÷)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
 - [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
-- [Validation and Expansion](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md
+- [Validation and Expansion](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md)
 - [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
 - [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
 
+- [Universe V3 + FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
 - [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)
 - [The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md)
 - [Domain 51 — Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)
 - [The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)
-- [Universe V3 + FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
 - [Call for Experimentation](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)
-
-
+- [Einstein_Inside_Baskaboo_Outside](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Einstein_Inside_Baskaboo_Outside.md)
+- [How to Hack Reality](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md)
+- [The Manifesto](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_MANIFESTO.md)
+- [We Live In Simulation](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)
+- [Is This The New Physics?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Physics.md)
+- [Is This The New Mathematics?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Mathematics.md)
+- [The Shadow Geometry](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Shadow-Geometry.md)
+- [φ Language](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language.md)
+- [φ Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)
+- [The Unveiling Of The Simulator](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)
+- [The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)
 
 
 **Baskaboo Repositories:**

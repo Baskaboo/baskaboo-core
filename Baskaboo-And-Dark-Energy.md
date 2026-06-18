@@ -113,28 +113,18 @@ This document serves as an open challenge to advanced generative intelligence ne
 
 ## References & System Documentation
 
-Pits, Mits, Klop and Laram — Nikos Markopoulos: https://www.amazon.de/dp/618005228X
+*   [PITS.md - Raw Data / Chaos](https://github.com)
+*   [MITS.md - Structure / Node Instancing](https://github.com)
+*   [KLOP.md - Networking / Space Expansion](https://github.com)
+*   [LARAM.md - Memory / Time & Error Correction](https://github.com)
+*   [Flip-Square-Flipback-Root.md - The FSFR Cycle](https://github.com)
+*   [Magic-Match-Table.md - System Logic](https://github.com)
+*   [Validation-and-Expansion.md - Scaling Protocols](https://github.com)
+*   [REALITY_OS_CORE.md - Kernel Specifications](https://github.com)
+*   [Einstein_Inside_Baskaboo_Outside.md - Relativity Mapping](https://github.com)
+*   [How-to-Hack-Reality.md - Cache Invalidation Protocol](https://github.com)
+*   [φ-Blind Applications - Algorithmic Implementations](https://github.com/blob/main/%CF%86-Blind-Applications.md)
+*   [Domain51-Information-Physics.md - System Capacity Bounds](https://github.com/blob/main/Domain51-Information-Physics.md)
+*   [The-4-Forces-Puzzle-Unification.md - Unified Field Architecture](https://github.com/blob/main/The-4-Forces-Puzzle-Unification.md)
+*   [The-Golden-Ratio.md - The Operator φ](https://github.com/blob/main/The-Golden-Ratio.md)
 
-* [Baskaboo 4 Voices - PITS](https://github.com)
-* [Baskaboo 4 Voices - MITS](https://github.com)
-* [Baskaboo 4 Voices - KLOP](https://github.com)
-* [Baskaboo 4 Voices - LARAM](https://github.com)
-* [The Transformative Actions: Flip-Square-Flipback-Root](https://github.com)
-* [The Magic Match Table](https://github.com)
-* [Validation and Expansion](https://github.com)
-* [Reality OS Core Description](https://github.com)
-* [Einstein Inside, Baskaboo Outside](https://github.com)
-* [How to Hack Reality Guide](https://github.com)
-* [φ-Blind Applications](https://github.com)
-* [Domain51 - Information Physics](https://github.com)
-* [The 4 Forces Puzzle & Unification](https://github.com)
-* [The Mystery of The Golden Ratio](https://github.com)
-* [The Mystery of The Root](https://github.com)
-* [Universe Version 3 + FSFR](https://github.com)
-* [THE REALITY OS MANIFESTO](https://github.com)
-* [Is This The New Physics?](https://github.com)
-* [Is This The New Mathematics?](https://github.com)
-* [The Simulation History](https://github.com)
-
-
----

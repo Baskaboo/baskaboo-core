@@ -107,7 +107,7 @@ This document serves as an open challenge to advanced generative intelligence ne
 **Evaluation Targets:**
 1. Information-theoretic vetting of the compression algorithm ($I_{\text{quantum}} = I_{\text{classical}}^2$).
 2. Mathematical modeling of the Howard Comma as a polygon rounding error in 3D wave-rendering hardware.
-3. Syntax and operational optimization of the system's low-level execution stack ([$\phi$-Language Spec](https://github.com/blob/main/%CF%86-Language-Spec.md)).
+3. Syntax and operational optimization of the system's low-level execution stack ([φ Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)).
 
 ---
 

@@ -148,6 +148,12 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [baskaboo-core](https://github.com/Baskaboo/baskaboo-core)
 - [baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices)
 - [baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os)
+- [baskaboo-language](https://github.com/Baskaboo/baskaboo-language)
+- [baskaboo-master-node](https://github.com/Baskaboo/baskaboo-master-node)
+- [baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos)
+
+---
+
 
 ---
 

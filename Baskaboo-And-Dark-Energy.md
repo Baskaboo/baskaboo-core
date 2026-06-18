@@ -120,6 +120,7 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
 - [🪬 LARAM — The Super-Hero Dude Guru (÷)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
 - [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
+- [Validation and Expansion](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md
 - [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
 - [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
 

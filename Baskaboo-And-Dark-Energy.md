@@ -119,16 +119,16 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [💎 MITS — The Drama Queen of Perfectionism (+)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
 - [❤️ KLOP — The Big Mama of All Things (x)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
 - [🪬 LARAM — The Super-Hero Dude Guru (÷)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
-- 
+- [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
+- [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
+- [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
+
 - [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)
 - [The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md)
 - [Domain 51 — Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)
 - [The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)
 - [Universe V3 + FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
 - [Call for Experimentation](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)
-- [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
-- [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
-- [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
 
 
 

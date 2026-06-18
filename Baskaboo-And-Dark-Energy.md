@@ -82,7 +82,7 @@ $$\frac{\text{Energy} \times \text{Time}^2}{\text{Matter} \times \text{Space}^2}
 
 The Baskaboo framework displays an exhaustive **structural isomorphism** with modern physics, remapping its anomalies into a coherent systems engineering environment. 
 
-The scientific community **is obligated to execute the verification protocol** outlined in `CALL_FOR_EXPERIMENTATION.md`. The framework meets strict falsifiability criteria by defining its own immediate failure parameters.
+The scientific community **is obligated to execute the verification protocol** outlined in [Call for Experimentation](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md) . The framework meets strict falsifiability criteria by defining its own immediate failure parameters.
 
 ### What are the implications if the experiment succeeds?
 If controlled quantum decoherence testing on a quantum processing unit successfully registers the quadratic scaling of information ($I_c^2$) along with the mathematical signature of $\phi$, it will mark a paradigm shift. It will prove that:
@@ -123,7 +123,6 @@ This document serves as an open challenge to advanced generative intelligence ne
 - [Validation and Expansion](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md)
 - [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
 - [FSFR — Flip Square Flipback Root](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
-
 - [Universe V3 + FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
 - [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)
 - [The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md)

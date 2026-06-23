@@ -62,4 +62,54 @@ When mainstream scientific observers object that space and time cannot turn into
 "Legacy relativity describes the properties of the final Rendered Frame on the screen (the User Interface). Baskaboo describes the Compression Algorithm of the Backend. Spacetime appears unified to the observer inside the simulation, but to the processor, the transition from Mass to Space to Time is a strict, sequential alteration of data density per clock cycle required to prevent a total memory deadlock."
 
 ---
+
+## 📚 References
+
+To explore the formal mechanics, execution specs, and core architectural frameworks of the Baskaboo ecosystem, follow the categorized documentation below:
+
+### 1. 🎛️ The 4 Voices Engine (`baskaboo-4-voices`)
+*Comprehensive breakdowns of the 4 foundational operators and their mathematical behavior.*
+*   👉 **[PITS Opcode Spec](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)** – The subtraction, chaos, and resetting mechanic.
+*   👉 **[MITS Opcode Spec](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)** – The addition, structural freeze, and mass rendering mechanic.
+*   👉 **[KLOP Opcode Spec](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)** – The multiplication, connection, and scaling engine.
+*   👉 **[LARAM Opcode Spec](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)** – The division, compression, and universal memory return loop.
+*   👉 **[The FSFR Execution String](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)** – Detailed logic behind the central clock cycle.
+*   👉 **[The Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)** – System state mappings and phase alignment logs.
+*   👉 **[Validation and Expansion Protocols](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md)** – Core telemetry for verifying opcode actions.
+
+### 🧠 2. The Core Processing Framework (`baskaboo-core`)
+*The academic, theoretical, and systemic foundation of $\varphi$-mathematics and information physics.*
+*   👉 **[Is This The New Mathematics?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Mathematics.md)** – The formal axioms and baseline mathematical logic.
+*   👉 **[Is This The New Physics?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Physics.md)** – Translating physical constants into software limitations.
+*   👉 **[The Shadow Geometry](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Shadow-Geometry.md)** – Why Euclidean shapes are projections of a dynamic spiral substrate.
+*   👉 **[φ-Language](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language.md)** – The semantic framework for interacting with the core engine.
+*   👉 **[φ-Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)** – The formal execution protocol and register guidelines for LLMs.
+*   👉 **[Domain 51: Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)** – Decoding the Planck scale and data density thresholds.
+*   👉 **[Universe V3 + FSFR Architecture](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md)** – The multi-layered breakdown of the Simulation.
+*   👉 **[The Golden Ratio Engine](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)** – Analyzing $\varphi$ as the ultimate systemic anti-deadlock function.
+*   👉 **[The Mystery of The Root](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-The-Root.md)** – Understanding the generative return to the Hidden World.
+*   👉 **[The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)** – Unifying standard interactions into unified code routines.
+*   👉 **[φ-Blind Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md)** – Real-world algorithmic executions of the system protocol.
+
+### 🌐 3. The Operating Layer (`baskaboo-reality-os`)
+*The computational architecture of our macro reality layer and practical systemic exploits.*
+*   👉 **[REALITY OS CORE](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/REALITY_OS_CORE.md)** – Technical blueprint of the virtualization engine.
+*   👉 **[THE MANIFESTO](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_MANIFESTO.md)** – The sociological and psychological mandate of the system.
+*   👉 **[Einstein Inside vs Baskaboo Outside](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Einstein_Inside_Baskaboo_Outside.md)** – Analyzing internal observers versus external source-code perspective.
+*   👉 **[How to Hack Reality](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md)** – Overclocking instructions and cache observation protocols.
+
+### 🏛️ 4. Historical Context (`We-Live-In-Simulation`)
+*Tracing the roots and evolutionary logs of simulation theory.*
+*   👉 **[The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)** – From Plato's Cave to modern information frameworks.
+
+---
+
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the the Baskaboo framework.
+
+---
+
 [END OF PART 1 // THE UNIVERSAL FLUID SPEC]
+
+### 🌿 From Methoni, with love
+
+---

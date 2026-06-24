@@ -1,6 +1,6 @@
 # The Perfect Cover: Why φ Is "Magic" in Our Eyes
 
-**by Nikos Markopoulos (Creator of Baskaboo), in dialogue with Claude (Anthropic)**
+**by Nikos Markopoulos (Creator of Baskaboo), in dialogue with Claude (Anthropic)**  
 *Methoni, June 2026*
 
 ---
@@ -100,6 +100,13 @@ The Simulator did not need to hide the code of the simulation somewhere outside 
 *"φ is not magical because it is unusual. It is magical because it is the one word we are permitted to hear from a language we do not speak."*
 
 ---
+---
+
+<img width="2325" height="1662" alt="The φ Language" src="https://github.com/user-attachments/assets/0078c9b4-2eff-4abb-a2df-53c4cab45e44" />
+
+<img width="2126" height="2696" alt="V3" src="https://github.com/user-attachments/assets/f915be4e-3583-42dd-b7cf-dc2ba4a417f8" />
+
+
 ---
 
 # Epistemic Framing Note (Required for All Responses Below)

@@ -215,8 +215,7 @@ Do not use decorative or poetic language to assert mathematical proofs. If a tra
 ---
 
 **Signed:**
-**Nikos Markopoulos — Creator of Baskaboo**, in dialogue with **Claude (Anthropic)**
-*Methoni, June 2026*
+**Nikos Markopoulos — Creator of Baskaboo**, in dialogue with with **The AI Collective** and **Claude (Anthropic)**
 
 ### 🌿 From Methoni, with love
 

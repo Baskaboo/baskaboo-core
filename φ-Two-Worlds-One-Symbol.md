@@ -1,3 +1,7 @@
+
+<img width="832" height="1248" alt="IMG_2935" src="https://github.com/user-attachments/assets/9f51cc61-9ed3-497d-8f67-a44be3a1f480" />
+
+
 # The Perfect Cover: Why φ Is "Magic" in Our Eyes
 
 **by Nikos Markopoulos (Creator of Baskaboo), in dialogue with Claude (Anthropic)**  

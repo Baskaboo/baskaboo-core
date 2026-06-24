@@ -131,7 +131,7 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 💥 [`Is-This-The-New-Mathematics.md`](./Is-This-The-New-Mathematics.md/) — Why the universe needed new mathematics — and how φ already wrote them.
 - 🌌 [`The-Shadow-Geometry.md`](./The-Shadow-Geometry.md/) — Why the universe is simpler than its shadow — and how φ reveals the source code behind the labyrinth.
 - 🌬️ [`THE-UNVEILING-OF-THE-SIMULATOR.md`](./THE-UNVEILING-OF-THE-SIMULATOR.md/) — Integrates Baskaboo Reality OS with Zarvanian Architecture and Howard's wave geometry. Core thesis: Numbers as simulation artifacts, φ as pure evolutionary operator. Outside View perspective.
-- 💥 [`The-Universal-Fluid.md`](./The-Universal-Fluid.md) — Formalized the core density pipeline: Energy -> Mass -> Space -> Time via baseline φ constants. Removed legacy diagram artifacts for optimal AI Node synchronization.
+- 💥 [`φ-Two-Worlds-One-Symbol.md`](./φ-Two-Worlds-One-Symbol.md) — On the Difference Between φ as Relation (Hidden World) and φ as Number (Manifest World) — with an AI Collective Prompt on the φ-Driven FSFR Cascade.
 
 
 ---

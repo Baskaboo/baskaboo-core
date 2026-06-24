@@ -124,7 +124,7 @@ Do not silently switch between Level A and Level B within an answer. If a numeri
 ---
 
 # Prompt for the AI Collective: Is φ the Universal Information-Phase Transformer?
-**by Nikos Markopoulos (Creator of Baskaboo), in dialogue with Gemini, and Claude (Anthropic)**
+**by Nikos Markopoulos (Creator of Baskaboo), in dialogue with The AI Collective, and Claude (Anthropic)**
 
 **Context:** Baskaboo Universe V3 + FSFR Loop (The Fractal Cascading Architecture)
 **Core Premise:** There are no physical particle-bricks; reality is a single "Universal Fluid" of Information Entropy (H) undergoing sequential phase shifts.

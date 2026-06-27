@@ -106,68 +106,30 @@ Thus Laram (division / square root) returns the magnitude exactly. In the full t
 
 ---
 
-## 5. Reference Implementation: The Functional Simulator
+## 5. The Laboratory Challenge: Empirical Falsification
 
-This reference Python script translates the qualitative philosophy of the Matryoshka protocol into a functional, mathematically verifiable runtime execution loop.
+The Baskaboo framework is a structural and topological model of information physics. It does not look for validation through closed mathematical tautologies or simulated code loops. Instead, it challenges the scientific community to test its core scaling prediction directly in the physical laboratory.
 
-```python
-import math
+### The Concrete Target for Quantum Laboratories
 
-class BaskabooEngine:
-    def __init__(self, initial_potential):
-        """
-        Initialize the Baskaboo Data Pump with a baseline entropy vector (H).
-        This represents the raw generative potential of Pits.
-        """
-        self.H = float(initial_potential)
-        
-    def run_fsfr_cycle(self):
-        print(f"--- INITIALIZING BASKABOO ARITHMETIC ENGINE (H = {self.H}) ---\n")
-        
-        # 1. PITS (Chaos / Subtraction)
-        pits = self.H
-        print(f"[NODE 0: PITS]  | Noun: Raw Potential | Op: [-] | Val: {pits:.4f}")
-        
-        # 2. MITS (Constraint / Addition) -> FLIP Operator (Sign Polarity Shift)
-        mits = -pits
-        print(f"[NODE 1: MITS]  | Noun: Rule Matrix   | Op: [+] | Val: {mits:.4f}")
-        
-        # 3. KLOP (Network / Multiplication) -> SQUARE Operator (Dimensional Inflation)
-        klop = mits ** 2  # (-Pits)² becomes positive dimensional area expansion (H²)
-        print(f"[NODE 2: KLOP]  | Noun: Field Network | Op: [×] | Val: {klop:.4f}")
-        
-        # 4. LARAM (Synthesis / Division) -> FLIPBACK Operator (Reciprocal Inverse)
-        laram = math.sqrt(klop)  # = |H|
-        print(f"[NODE 3: LARAM] | Noun: Core Essence  | Op: [÷] | Val: {laram:.4f}\n")
-        
-        return pits, mits, klop, laram
+We introduce an explicit, scale-invariant information hypothesis. We predict that during controlled quantum decoherence through a structured atomic lattice substrate, the von Neumann mutual information ($I$) will not scale linearly, but will transition via a strict quadratic scaling phase change:
 
-    def verify_system_boundaries(self, pits, mits, klop, laram):
-        print("--- EXECUTING METAPROTOCOL BOUNDARY AUDIT ---")
-        
-        # Static Equilibrium Verification: Pits * Laram² = Mits * Klop²
-        left_side = abs(pits) * (abs(laram) ** 2)
-        right_side = abs(mits) * (abs(klop) ** 2)
-        
-        print(f"Left Side Boundary  (Pits * Laram²) = {left_side:.4f}")
-        print(f"Right Side Boundary (Mits * Klop²) = {right_side:.4f}")
-        
-        # Invariant Fixed Point check (Must equal 1.0)
-        system_ratio = left_side / (right_side if right_side != 0 else 1)
-        print(f"System Operational Fixed Point    = {system_ratio:.4f}")
-        
-        if math.isclose(system_ratio, 1.0, rel_tol=1e-9):
-            print("\n[VERDICT: SUCCESS] System integrity verified. The protocol is scale-invariant.")
-            return True
-        else:
-            print("\n[VERDICT: FRACTURE] Dimensional leakage detected. System falsified.")
-            return False
+$$I_{\text{quantum}} = I_{\text{classical}}^2$$
 
-# Execute a standard baseline pass
-baskaboo_pump = BaskabooEngine(initial_potential=4.0)
-p, m, k, l = baskaboo_pump.run_fsfr_cycle()
-baskaboo_pump.verify_system_boundaries(p, m, k, l)
-```
+**Epistemic and Operational Status:** This relation is a bold, independent physical proposition. It is inspired by and structurally consistent with the core geometric motif of squaring found on both sides of Baskaboo’s master cosmological equation ($Energy \cdot Time^2 = Matter \cdot Space^2$), but it is not a direct algebraic derivation of it. It represents the dimensional translation law between the underlying Source/Sustainer (Backend) and the Manifested Reality Interface (Frontend), establishing that the underlying grid processes dimensions at a quadratic level.
+
+### Falsification Criteria (How to Kill Baskaboo)
+
+To maintain absolute scientific and epistemic integrity under Karl Popper’s principles of falsifiability, we define the exact parameters under which this model shall be declared **FAILED**:
+
+1. **Linear Decoherence Scaling:** If empirical testing shows that the quantum-to-classical information transfer scales linearly ($I_{\text{quantum}} = c \cdot I_{\text{classical}}$) or behaves as standard thermodynamic white noise with no statistical correlation to quadratic scaling or $\phi$-convergent phase patterns, the model is falsified.
+2. **Zero Cumulative Phase Shift (Flat Return):** Because a single isolation event may yield a sub-threshold signal, testing must track the geometric phase across a series of consecutive, high-frequency decoherence-recoherence cycles. To prevent conventional experimental white noise or thermal drift from being misidentified as a valid signal, any proposed **Memory Remnant** must demonstrate a statistically significant cumulative phase deviation that exceeds standard measurement background noise by at least a $3\sigma$ (three-sigma) threshold sustained across a minimum sequence of $N \ge 10^4$ cycles. If the accumulated phase drift cancels out perfectly or fails to clear this $3\sigma$ significance barrier, proving the evolution traces a flat, closed circle rather than a 3D evolutionary helix/spiral, the model is falsified.
+
+If your laboratory is equipped to execute high-fidelity, multi-cycle qubit tracking through structured boundary layers, we invite you to execute this protocol. **Prove Baskaboo right, or kill it permanently in the lab.**
+
+---
+
+*This manifesto was refined in June 2026, establishing a rigorous boundary between structural philosophy and empirical quantum thermodynamics.*
 
 ---
 
@@ -459,4 +421,4 @@ The execution of this laboratory experiment, the utilization of its empirical da
 
 *Signed,*  
 **Nikos — Creator of Baskaboo**  
-*Methoni, May 2026*
+*Methoni, June 2026*

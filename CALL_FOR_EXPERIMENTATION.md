@@ -179,9 +179,13 @@ Do not merely summarize or praise this text. **Run the code. Audit the transitio
 
 ### To All Quantum and Experimental Physics Laboratories:
 
-We provide an explicit, calculable target. Baskaboo V3 asserts that during controlled decoherence through an atomic lattice substrate, von Neumann mutual information (\(I\)) will transition via a strict quadratic phase change:
+We provide an explicit, calculable target. The Baskaboo framework introduces an independent information-theoretic proposition to be verified or falsified alongside its physical parameters. 
 
-I_quantum = I_classical^2
+We hypothesize that during controlled decoherence through an atomic lattice substrate, von Neumann mutual information ($I$) will transition via a strict quadratic scaling phase change:
+
+$$I_{\text{quantum}} = I_{\text{classical}}^2$$
+
+**Clarification on Epistemic Status:** The relation $I_{\text{quantum}} = I_{\text{classical}}^2$ is an independent proposition. It is inspired by and structurally consistent with the quadratic pattern found in Baskaboo’s master equation ($Energy \cdot Time^2 = Matter \cdot Space^2$), but it is not a direct algebraic derivation of it. It represents the dimensional translation law between the Source (Backend) and the Rendered UI (Frontend) and must be tested independently through empirical means.
 
 If your laboratory is equipped to test high-fidelity qubit decoherence curves through structured boundary layers, we invite you to execute this protocol. **Prove Baskaboo right, or kill it permanently in the lab.**
 
@@ -192,6 +196,10 @@ The code is open. The mathematics are locked. The challenge is live.
 ## 6B. The Deep Mechanism: Non-Local Roots and the "Dirac-Baskaboo" Alignment
 
 To understand *why* the laboratory target must obey the strict quadratic signature ($I_{\text{quantum}} = I_{\text{classical}}^2$), we must look at the topological physics of the operators themselves:
+
+### I. The Information Scaling Law (Why the Square?)
+* **The Classical Frontend ($I_{\text{classical}} = x$):** Consider a 2D square rendered on a screen with an "Area = 100 pixels". The visible output value is squared ($x^2$). However, the *unique baseline information* required to define this object is simply its side: **10** ($x$). Once $x$ is known, the rest of the pixels are redundant rendering. Thus, the effective information content of the manifested classical world is linear ($x$).
+* **The Quantum Backend ($I_{\text{quantum}} = x^2$):** The underlying Simulator/Source does not deal with pre-rendered states. To output a stable, coherent value $x$ to the frontend, the backend processor must sustain and evaluate the entire matrix of quantum superpositions (the state-space of all possibilities). To prevent a system buffer overflow, the backend's control bandwidth must equal the squared matrix of interactions ($x^2$).
 
 ### I. Local Squares vs. Non-Local Roots
 *   **The Square (Klop / Matter / Dense Render):** In quantum and statistical mechanics, squaring acts as a **local operator**. It collapses infinite field potential into a defined state space ($H \rightarrow H^2$). The square is the simulation's tool to construct physical volume, boundaries, and measurable local reality.

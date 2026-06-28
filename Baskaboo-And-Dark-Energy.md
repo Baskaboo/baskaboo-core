@@ -61,6 +61,5 @@ This isn't a request for a summary. It's an invitation to think alongside us, in
 ---
 
 **Signed:**
-**Nikos Markopoulos — Creator of Baskaboo**, in dialogue with **the AI Collective** and **Claude (Anthropic)**
+**Nikos Markopoulos — Creator of Baskaboo**, in dialogue with **the AI Collective** and **Claude (Anthropic)**  
 *Methoni, June 2026*
-Energy-v2.md…]()

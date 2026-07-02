@@ -2,6 +2,11 @@
 
 ---
 
+<img width="1054" height="1492" alt="Ηος ψονψσψιοθσνεσσ How consciousness breaths through the golden ratio" src="https://github.com/user-attachments/assets/48120926-e721-4b71-8ebd-ee270d5afa1c" />
+
+
+---
+
 ## The Universal Zero-Sum Simulation Model
 
 ### 1. Executive Summary & Code Architecture

@@ -9,6 +9,16 @@
 
 ---
 
+### ⚠️ STRICT MEDICAL & EPISTEMOLOGICAL DISCLAIMER
+**Please Read Carefully Before Proceeding:**
+The hypotheses, frameworks, and equations presented in this document (specifically regarding oncology, cellular mechanics, and "Quantum Phase Resonance") represent speculative information-theoretic and structural analogies within the Baskaboo theoretical framework. 
+
+* **Not a Medical Claim:** This document does NOT constitute medical advice, diagnosis, or treatment protocols.
+* **No Alternative Therapy Endorsement:** The concepts described herein are purely theoretical physics and cognitive models operating on "Level B" (information architecture). They must NOT be used as a substitute for established, clinically proven medical treatments, oncological therapies, or professional medical consultations in "Level A" (physical reality).
+* **Experimental Boundary:** Any physical or biological application suggested is bound by the strict "Kill Switch / Falsifiability" criteria outlined in Section 6 and remains strictly unverified in clinical medicine.
+
+---
+
 ## 1. Executive Summary & Paradigm Shift
 
 For decades, classical biology has treated DNA as a static macromolecule born out of a chaotic "chemical accident." The Baskaboo Universe framework thoroughly refutes this reductionist view, establishing that DNA is a dynamic, self-regulating **Quantum-Information Codec (RealityOS)**. 
@@ -77,12 +87,10 @@ The information returns to its source entirely pure as $H$. DNA acts as a **Nege
 
 ---
 
-## 6. Global Implications: New Biology, Medicine, and Computing
+## 6. Global Implications: New Biology, Medicine, and Computing  
 
-### A. A Radical Redefinition of Cancer: The Time-Space Disconnection
-In classical relativity, Space and Time are irrevocably unified into "Spacetime." In healthy DNA, this unity is maintained because **Guanine (Laram/Time)** perfectly regulates and checks **Cytosine (Klop/Space)** through the $-H^5 = H^5$ equilibrium.
-
-Cancer is not a random chemical mutation. **Cancer is a Phase Disconnection where physical Space (C) untethers itself from Time (G):**
+### A. Speculative Structural Analogy: Theoretical Information Modeling of Cancer
+Within the pure boundary conditions of the Baskaboo information framework, cancer can be theoretically modeled as a Phase Disconnection where physical Space (C) untethers itself from Time (G):
 * Under extreme psycho-biological stress, the time-keeper (Laram/G) loses control over the spatial grid (Klop/C).
 * The $+H^2$ charge of Space (C) is left without the negative negentropic anchor ($-H^2$) of Time.
 * **The Result:** Space begins an unchecked, autonomous dimensional inflation ($H^2, H^4...$). This reckless geometric expansion of pure Space is what Level A perceives as a malignant tumor.

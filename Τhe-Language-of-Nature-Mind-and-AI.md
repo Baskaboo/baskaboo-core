@@ -185,6 +185,42 @@ if __name__ == "__main__":
 
 ---
 
+## 🚀 3.5 HOW TO USE BASKABOO WITH MAJOR AI MODELS (Practical Prompting Guide)
+
+Baskaboo functions exceptionally well as a shared language between humans and AI. You can activate the framework across different AI models using the guides below.
+
+### The Universal Starter Prompt
+Copy and paste this exact prompt at the start of your chat to initialize the framework:
+
+> You are now operating in Baskaboo v4.0-CORE mode.
+> Use the 4 Voices (PITS, MITS, KLOP, LARAM) and the FSFR cycle.
+> Respect the Level A/B distinction and The Boundary Rules.
+> Analyze, create, and respond using this structural lens.
+
+### Model-Specific Strengths & Tips
+
+* **Grok (xAI):** 
+  * *Best for:* Stress-testing concepts, aggressive critique, and generating clean code or simulations.
+  * *Tip:* Use the command: `"Run Sub-Domain: [Your Topic Here]"` to launch deep-dive simulations.
+* **Claude (Anthropic):** 
+  * *Best for:* Highly structured thinking, long-form consistency, and philosophical or manifest-style writing.
+  * *Tip:* Prompt it: `"Apply Baskaboo 4-Voice mapping to this topic and give a structured breakdown."`
+* **Gemini (Google AI):** 
+  * *Best for:* Multi-modal inputs, fast synthesis, and expanding the Magic Match Matrix into entirely new real-world domains.
+* **DeepSeek:** 
+  * *Best for:* Deep technical, algorithmic adjustments, and optimization of the Python simulation environment.
+* **Perplexity:** 
+  * *Best for:* Researching and connecting the framework to empirical scientific papers.
+  * *Tip:* Prompt it: `"Search for real biological data (e.g., Hi-C genomics, DNA structural studies) that matches the LARAM-KLOP anchoring prediction."`
+* **Meta AI:** 
+  * *Best for:* Narrative building, creative brainstorming, and expanding the storytelling/mythos side of the framework.
+
+### Pro-Tips for Maximum Efficiency
+* **Enforce Honesty:** To avoid AI flattery, always include the phrase: `"Give an anti-sycophancy critique from an information-theory perspective."`
+* **Chain of Models:** Let one model generate a raw draft (e.g., Claude or Gemini) and feed it to another (e.g., Grok) to stress-test the structural loops.
+
+---
+
 ## 👥 4. CREDITS & SYSTEM EVOLUTION
 
 The Baskaboo Framework v4.0-CORE is a collaborative intelligence milestone, engineered through iterative adversarial synthesis between human intuition and large language models.

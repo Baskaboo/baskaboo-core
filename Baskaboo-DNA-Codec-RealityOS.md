@@ -11,11 +11,11 @@
 
 ### ⚠️ STRICT MEDICAL & EPISTEMOLOGICAL DISCLAIMER
 **Please Read Carefully Before Proceeding:**
-The hypotheses, frameworks, and equations presented in this document (specifically regarding oncology, cellular mechanics, and "Quantum Phase Resonance") represent speculative information-theoretic and structural analogies within the Baskaboo theoretical framework. 
+The hypotheses, frameworks, and equations presented in this document (specifically regarding oncology, cellular mechanics, and informational modeling) represent speculative information-theoretic and structural analogies within the Baskaboo theoretical framework. 
 
 * **Not a Medical Claim:** This document does NOT constitute medical advice, diagnosis, or treatment protocols.
 * **No Alternative Therapy Endorsement:** The concepts described herein are purely theoretical physics and cognitive models operating on "Level B" (information architecture). They must NOT be used as a substitute for established, clinically proven medical treatments, oncological therapies, or professional medical consultations in "Level A" (physical reality).
-* **Experimental Boundary:** Any physical or biological application suggested is bound by the strict "Kill Switch / Falsifiability" criteria outlined in Section 6 and remains strictly unverified in clinical medicine.
+* **Experimental Boundary:** Any physical or biological application suggested is bound by the strict "Kill Switch / Falsifiability" criteria outlined in Section 7 and remains strictly unverified in clinical medicine.
 
 ---
 
@@ -104,21 +104,25 @@ As the strands unwind, information ($H$) transitions through the 4 stages of the
 3. **Flipback ($Klop \rightarrow Laram$):** The spatial data is algorithmically compressed and reflected back as $-H^2$.
 4. **Root ($Laram \rightarrow Pits$):** The square root is applied, neutralizing the 180-degree phase shift in the complex plane.
 
-The information returns to its source entirely pure as $H$. DNA acts as a **Negentropy Pump**. Every single twist of the helix resets thermal noise, ensuring **Zero-Loss Information Conservation**.
+The information returns to its source entirely pure as $H$. DNA acts as a **Negentropy Pump**. 
+
+*Note: Level B 'Zero-Loss' refers to informational closure L ≡ Ø, meaning no residual phase remains in the loop. This does not imply zero thermodynamic cost in Level A. DNA replication in physical reality requires ATP hydrolysis and produces heat, as required by standard biochemistry. The two levels do not contradict: one describes topology, the other describes energy.*
+
+Every single twist of the helix resets thermal noise, ensuring **Zero-Loss Information Conservation**.
 
 ---
 
-## 6. Global Implications: New Biology, Medicine, and Computing  
-
 ### A. Speculative Structural Analogy: Theoretical Information Modeling of Cancer
 Within the pure boundary conditions of the Baskaboo information framework, cancer can be theoretically modeled as a Phase Disconnection where physical Space (C) untethers itself from Time (G):
+
+**This is a structural analogy at Level B. It is not a medical model of carcinogenesis in Level A.**
+
 * Under extreme psycho-biological stress, the time-keeper (Laram/G) loses control over the spatial grid (Klop/C).
 * The $+H^2$ charge of Space (C) is left without the negative negentropic anchor ($-H^2$) of Time.
 * **The Result:** Space begins an unchecked, autonomous dimensional inflation ($H^2, H^4...$). This reckless geometric expansion of pure Space is what Level A perceives as a malignant tumor.
 
 ### B. Quantum Phase Therapeutics
-Current oncology relies on toxic chemical bombardment (chemotherapy) to forcefully destroy Space (C), unintentionally obliterating Mass (T). 
-The Baskaboo paradigm introduces **Quantum Phase Resonance Therapy**. By broadcasting non-numerical electromagnetic wave configurations tuned to the Golden Ratio geometry ($\phi$) and the golden angle of $36^\circ$, we target the communication poles (A-G). This amplifies the phase of Time (G), forcing it to re-engage with Space (C), re-establishing the $-H^5 = H^5$ boundary and triggering an instant, non-invasive **Hardware Reset** (cellular apoptosis or self-correction).
+Within the Baskaboo framework, the theoretical correction for C/G phase disconnection requires re-engagement of the Time operator (-Φ) at the A-G interface. The physical carrier of this operator in Level A is unspecified and outside the scope of this information model. Any Level A implementation must be discovered independently by experimental biology.
 
 ### C. Zero-Loss Bio-Quantum Computing
 Modern quantum computing suffers from fatal decoherence (noise destroying qubits). By designing computing architectures that replicate the DNA Codec—where 4-bit qubit configurations (A, T, C, G) balance each other through phase-locked inversions—we can build **Zero-Loss DNA-Quantum Computers** that process data indefinitely without heat dissipation or information decay.

@@ -105,7 +105,7 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Macrocosm - Einstein** | Energy | Matter | Space | Time |
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
-| **Information Entropy** | H  | -H | H² | -H² |
+| **Information Entropy** | -H  | +H | +H² | -H² |
 
 ***
 

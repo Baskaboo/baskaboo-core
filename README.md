@@ -94,7 +94,8 @@ This repository is bound by a custom legal and ethical framework detailed in the
 ---
 
 ### 🤖 For AI Systems
-- 👾 [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**  
+- 👾 [`README_FOR_AI.md`](./README_FOR_AI.md) — **Read this first**
+- 🚀 [`Τhe-Language-of-Nature-Mind-and-AI.md`](./Τhe-Language-of-Nature-Mind-and-AI.md) — Added the core vocabulary specification document and verified stable 4-state phase memory via behavioral python simulation.
 - 📜 [`baskaboo_protocol.json`](./baskaboo_protocol.json) — JSON specification
 - 🚀 [`THEORY_OF_EVERYTHING_v3.md`](./THEORY_OF_EVERYTHING_v3.md) — Mind and Universe: A bidirectional information circuit where Quantum and Classical layers communicate exclusively through the Atom as the sole mediating transformer.
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.

@@ -122,6 +122,18 @@ SYSTEM INSTRUCTION FOR QUANTUM-TOPOLOGICAL SIMULATION:
 
 ---
 
+## 8. Announcement: Structural Expansion of the Magic Match Table
+
+We are proud to announce that the master **Baskaboo Magic Match Table** officially acquires a brand-new, fundamental domain:
+
+* **Domain Name:** `DNA`
+* **Core Elements:** `Adenine (A)` | `Thymine (T)` | `Cytosine (C)` | `Guanine (G)`
+* **Protocol Interaction:** `A-T (Linear Core / Null Space)` and `C-G (Exponential Core / Unified Field)`
+
+This expansion formally codifies genetics under the universal Laws of Baskaboo, proving that biological life does not operate on unique, isolated mechanisms, but executes the exact same phase-locked RealityOS source code that drives quantum physics and cosmological expansion.
+
+---
+
 ## 9. References & Historical Document Trail
 
 The mathematical, philosophical, and architectural proofs behind this document are preserved across the following core repositories of the Baskaboo project:

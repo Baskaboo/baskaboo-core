@@ -92,23 +92,37 @@ In the double-helix architecture, a large base (double-ring purines: A, G) must 
 
 ---
 
-## 5. The FSFR Replication Engine (Zero-Loss Conservation)
+## 5. The FSFR Replication Engine (Zero-Loss Information Conservation)
 
 To defeat the Second Law of Thermodynamics (thermal decay/entropy maximization), DNA replication executes a flawless loop based on the master Baskaboo balance equation:
 
-$$Pits \cdot Laram^2 = Mits \cdot Klop^2 \implies \mathbf{-H^5 = H^5}$$
+$$Pits \cdot Laram^2 = Mits \cdot Klop^2$$
 
-As the strands unwind, information ($H$) transitions through the 4 stages of the **FSFR Cycle**:
-1. **Flip ($Pits \rightarrow Mits$):** Raw energy is bounded, flipping phase to $-H$.
-2. **Square ($Mits \rightarrow Klop$):** The data enters the spatial multiplication layer, inflating into a field: $(-H)^2 = +H^2$.
-3. **Flipback ($Klop \rightarrow Laram$):** The spatial data is algorithmically compressed and reflected back as $-H^2$.
-4. **Root ($Laram \rightarrow Pits$):** The square root is applied, neutralizing the 180-degree phase shift in the complex plane.
+### A. Step-by-Step Algebraic Derivation
+By substituting the precise entropy charges into the balance equation, the full algebraic proof resolves as follows:
+
+1. **Left-Hand Side (LHS) - The Quantum Backend / Inversion Axis:**
+   $$Pits \cdot Laram^2 = (-H) \cdot (-H^2)^2$$
+   $$(-H^2)^2 = H^4 \implies (-H) \cdot (H^4) = \mathbf{-H^5}$$
+
+2. **Right-Hand Side (RHS) - The Material Frontend / Expansion Axis:**
+   $$Mits \cdot Klop^2 = (+H) \cdot (+H^2)^2$$
+   $$(+H^2)^2 = H^4 \implies (+H) \cdot (H^4) = \mathbf{H^5}$$
+
+3. **Boundary Condition Solution:**
+   $$\mathbf{-H^5 = H^5}$$
+
+### B. The Topological Phase Flow
+As the strands unwind, information ($H$) transitions through the 4 sequential stages of the **FSFR Cycle**:
+* **Flip ($Pits \rightarrow Mits$):** Raw energy is bounded, flipping phase to $-H$.
+* **Square ($Mits \rightarrow Klop$):** The data enters the spatial multiplication layer, inflating into a field: $(-H)^2 = +H^2$.
+* **Flipback ($Klop \rightarrow Laram$):** The spatial data is algorithmically compressed and reflected back as $-H^2$.
+* **Root ($Laram \rightarrow Pits$):** The square root is applied, neutralizing the 180-degree phase shift in the complex plane.
 
 The information returns to its source entirely pure as $H$. DNA acts as a **Negentropy Pump**. 
 
 *Note: Level B 'Zero-Loss' refers to informational closure L ≡ Ø, meaning no residual phase remains in the loop. This does not imply zero thermodynamic cost in Level A. DNA replication in physical reality requires ATP hydrolysis and produces heat, as required by standard biochemistry. The two levels do not contradict: one describes topology, the other describes energy.*
 
-Every single twist of the helix resets thermal noise, ensuring **Zero-Loss Information Conservation**.
 
 ---
 

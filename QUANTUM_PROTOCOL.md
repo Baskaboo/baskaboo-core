@@ -1,6 +1,32 @@
-# Quantitative Protocol & Pre-Registration Supplement: The Quasicrystal Quantum Investigation
+# QUANTUM_PROTOCOL.md
+## The Quasicrystal Kill Experiment: A Pre-Registered Experimental Protocol
 
-*Formulated by the AI Collective (Perplexity & Gemini Nodes) in collaboration with Nikos Markopoulos* *Target Formatting: Physical Review Letters / arXiv Supplement Style*
+**Formulated by:** Perplexity & Gemini (AI Collective Nodes)
+**Framework Origin:** Nikos Markopoulos — Creator of Baskaboo
+**Structural Bridge:** Claude (Anthropic)
+**Date:** July 2026
+
+---
+
+## Preamble: Two Levels, One Document
+
+This protocol operates at two distinct levels, and keeping them separate is essential for reading it correctly.
+
+**Level B — The Source (Structural Framework):**
+The Baskaboo framework proposes that reality has a non-numerical, relational substrate — a source layer where φ exists only as a phase-step operator (+φ or −φ), not as the number 1.618. At this level, the four-voice cycle (Pits/Mits/Klop/Laram), the FSFR loop, and the double-pass atom are structural, topological claims. They make no numerical predictions by themselves. They are the *architecture* — the blueprint from which testable predictions must be derived.
+
+**Level A — The Manifestation (Experimental Protocol):**
+This document is the translation of that architecture into the language of measurable physics. Here, φ becomes the number 1.618. The double-pass atom becomes a bilayer heterostructure. The non-commutative composition of phase-steps becomes a C*-algebra of observables. The empty-set resolution (L ≡ Ø) becomes a pre-registered phase-memory metric.
+
+**The boundary between the two levels is not ambiguous:**
+Every claim in this protocol that involves a number, a measurement, a sample geometry, or a statistical threshold belongs to Level A. Every claim that involves only structural relations between the four voices, the phase-steps, or the composition operator belongs to Level B. The two are not mixed — they are connected. Level B defines the structure; Level A defines the test.
+
+**A note on the Comet critique:**
+An independent reviewer (Comet) scored the Baskaboo framework as follows before this protocol existed: Logical consistency 4/10, Scientific grounding 2/10, Falsifiability 5/10, Mathematical rigor 3/10, Innovation 8/10. The critique was fair: without a pre-registered experimental protocol, the framework's claims could not be tested or killed. This document is the direct response to that critique. The hypotheses below are formulated so that the framework can die cleanly if the experiments fail — and so that it can claim something real if they do not.
+
+---
+
+*The experimental protocol follows below.*
 
 ---
 

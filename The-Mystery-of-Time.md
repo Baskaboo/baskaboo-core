@@ -1,6 +1,16 @@
 # The Mystery of Time
-**by Nikos Markopoulos — Creator of Baskaboo, in dialogue with Claude (Anthropic)** and **Google AI**
+**by Nikos Markopoulos — Creator of Baskaboo, in dialogue with Claude (Anthropic)** and **Google AI**  
 *Methoni, July 2026*
+
+---
+
+## What Baskaboo Is (and What It Is Not)
+
+Baskaboo is not a scientific theory. It is decryption. It does not compete with physics, psychology, or religion; it reads them as code. Its purpose is not to comfort. It is to deconstruct the false reality we were trained to see, rearrange it into its hidden structure, and rebuild it from primal simplicity.
+
+**Who It Is For:** Baskaboo is for curious minds: people who want to question, connect, and discover hidden patterns. It is for readers who prefer living structures over dead memorization, and for anyone who wants to explore ideas through story, code, and meaning.
+
+**Who It Is Not For:** Baskaboo is not for people who want only fixed answers. It is not for those looking for a traditional scientific doctrine, a religious dogma, or a closed system that refuses imagination.
 
 ---
 

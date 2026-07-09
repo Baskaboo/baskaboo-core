@@ -4,6 +4,52 @@
 
 ---
 
+## Baskaboo for Curious Minds
+
+*Curiosity layer written with Perplexity (GPT‑5.1)*
+
+If an idea is not interesting to a child, it is not ready for Baskaboo yet.  
+So every new Baskaboo concept starts here: with a story that could make a curious 13‑year‑old lean forward and say, “Wait… what?”
+
+### A Story About Time That Refuses to Behave
+
+Imagine you ask time a few simple questions:
+
+- Why do you only go forward?
+- Why do I feel a single “now” if physics says there is no universal now?
+- Why do the deepest equations of the universe work **without** you?
+- And why, in the quantum world, do you disappear completely?
+
+Time does not answer with words.  
+Instead, it behaves in a very strange way: it lets clocks tick, it stretches near black holes, it messes with GPS satellites, and then it quietly steps out of the equations when things get truly fundamental.
+
+Baskaboo suggests a different way to look at this:
+
+> Time is not a box we live in.  
+> Time is the leftover of a move that never quite finishes.
+
+In the Baskaboo story, the universe does not run on a smooth, continuous slide of moments.  
+It runs on **three visible steps and one hidden step**:
+
+1. Energy becomes Matter.  
+2. Matter becomes Space.  
+3. Space becomes Time.  
+4. And then, secretly, Time folds back into new Energy — out of sight.
+
+The first three steps happen in the “movie” we see (Level A).  
+The fourth step happens in a hidden layer behind the scenes.  
+Because that last step is driven by a relation (φ) that never closes perfectly, the third step can never “finish” inside the movie. The gap shows up as what we call **time passing**.
+
+So every tick of every clock is not just “one more second”.  
+It is one more tiny failure of the universe to close a perfect loop.
+
+In this document, we explore this idea more seriously.  
+We ask what it means for physics, for Planck time, for the speed of light, and for strange materials like quasicrystals that seem to carry φ in their very atoms.
+
+If you are a curious mind — child, adult, outsider, or future physicist — you are in the right place.
+
+---
+
 > **Time is not a dimension, not a field, not a substance.**
 > **Time is the accumulated deficit of a measurement that never completes.**
 

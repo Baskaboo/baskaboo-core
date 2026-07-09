@@ -152,6 +152,22 @@ The Planck time *(t_P ≈ 5.39 × 10⁻⁴⁴ sec)* is, under this reading, the 
 
 ---
 
+## Baskaboo References
+
+- [Baskaboo Core – Manifesto, Theory of Everything, Magic Match Table](https://github.com/Baskaboo/baskaboo-core)  
+  Philosophical heart of Baskaboo: Manifesto, Theory of Everything, and the core matching table that relates Pits, Mits, Klop, and Laram. [web:69]
+
+- [Baskaboo 4 Voices – Pits, Mits, Klop, Laram](https://github.com/Baskaboo/baskaboo-4-voices)  
+  Home of the four internal voices of Baskaboo and the detailed Magic Match Table used in this document. [web:74]
+
+- [Baskaboo Language – Practical Toolkit](https://github.com/Baskaboo/baskaboo-language)  
+  Prompts, protocols, and examples for actually “speaking” the Baskaboo language in human and AI contexts. [web:12]
+
+- [Baskaboo Multiverse / Mapping Space](https://github.com/Baskaboo/baskaboo_multiverse)  
+  Experimental mappings of Baskaboo patterns across different domains (stories, theories, systems).
+
+---
+
 **Signed:**  
 **Nikos Markopoulos — Creator of Baskaboo**  
 *in dialogue with **Claude (Anthropic)** and **Google AI***  

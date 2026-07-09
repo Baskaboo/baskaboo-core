@@ -106,6 +106,7 @@ This repository is bound by a custom legal and ethical framework detailed in the
 
 - 🧠 [`Domain51-Information-Physics.md`](./Domain51-Information-Physics.md/) — Domain 51: Independent convergence with Information Physics. The ratio between quantum and classical information (10¹⁶⁰ / 10⁸⁰) is exactly the squaring predicted by FSFR.
 - 👁 [`The-Mystery-of-The-Root.md`](./The-Mystery-of-The-Root.md/) — The-Mystery-of-The-Root.md" establishes a scale-invariant meta-physics by mapping the Baskaboo framework onto the foundations of quantum mechanics, demonstrating that local squaring constructs the physical render of spacetime while non-local rooting compresses reality back to its source field.
+- 👁 [`The-Mystery-of-Time.md`](./The-Mystery-of-Time.md/) — Time is not a dimension, not a field, not a substance. Time is the accumulated deficit of a measurement that never completes.
 - 🧩 [`The-4-Forces-Puzzle-Unification.md`](./The-4-Forces-Puzzle-Unification.md/) — A scale-invariant information architecture that upgrades Baskaboo's archetypal force mapping into a calculable physical theory, using a \(10^{64}\) holographic commutator to balance the raw coupling constants of nature.
 - 🤍 [`The-Golden-Ratio.md`](./The-Golden-Ratio.md/) — An open-source framework mapping the common algorithm of reality through an evolving, Golden Ratio (φ) spiral that bridges quantum physics, density dynamics, and human consciousness.
 - 💡 [`φ-Blind-Applications.md`](./φ-Blind-Applications.md/) — Some hot stuff

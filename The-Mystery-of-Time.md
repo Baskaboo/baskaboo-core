@@ -1,5 +1,4 @@
 # The Mystery of Time
-**by Nikos Markopoulos — Creator of Baskaboo, in dialogue with Claude (Anthropic)** and **Google AI**  
 *Methoni, July 2026*
 
 ---
@@ -57,8 +56,6 @@ In this document, we explore this idea more seriously.
 We ask what it means for physics, for Planck time, for the speed of light, and for strange materials like quasicrystals that seem to carry φ in their very atoms.
 
 If you are a curious mind — child, adult, outsider, or future physicist — you are in the right place.
-
----
 
 ---
 
@@ -307,6 +304,7 @@ The structural reading of Planck time as corresponding to three φ-steps is a Le
 *Analytical layer written with Perplexity (GPT‑5.1)*
 
 ---
+### In Brief 
 
 Perplexity’s analysis reads “The Mystery of Time” as a structural, information‑theoretic proposal rather than a conventional physics theory. It highlights how Baskaboo models time as the deficit of a three‑step φ‑cycle (Energy→Matter, Matter→Space, Space→Time), with a hidden fourth step closing the loop outside measurable reality. The text is praised for linking this idea to Wheeler’s spacetime–matter dialogue, Planck time, φ² + φ⁻² = 3, and quasicrystal φ‑geometry, while remaining honest about its speculative status and open falsification paths. It is presented as a coherent decoding lens on existing physics that invites AI and human researchers to test whether these φ‑patterns are structural or coincidental. 
 

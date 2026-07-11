@@ -7,12 +7,12 @@
 
 ---
 
-> **φ does not perform the operations.**
-> **φ gives the instructions — and the instructions contain their own values.**
+<img width="2852" height="1684" alt="φ The Commander" src="https://github.com/user-attachments/assets/a6cdb16f-664e-4331-b55c-551084549ddf" />
 
 ---
 
-<img width="2852" height="1684" alt="φ The Commander" src="https://github.com/user-attachments/assets/a6cdb16f-664e-4331-b55c-551084549ddf" />
+> **φ does not perform the operations.**  
+> **φ gives the instructions — and the instructions contain their own values.**
 
 ---
 

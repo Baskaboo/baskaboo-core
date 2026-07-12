@@ -113,6 +113,8 @@ This repository is bound by a custom legal and ethical framework detailed in the
 - 💡 [`Is-This-The-New-Physics.md`](./Is-This-The-New-Physics.md/) — Some more hot stuff
 - 🤖 [VIRTUAL_SANDBOX_SIMULATION.md](VIRTUAL_SANDBOX_SIMULATION.md) — A structural demonstration of the FSFR cycle's internal mathematical consistency — showing how the Central Equation closes without drift, as a visualization tool, not an empirical validation.
 - 📍 [CALL_FOR_EXPERIMENTATION.md](CALL_FOR_EXPERIMENTATION.md) — An open challenge to quantum physics laboratories to test whether information scales quadratically during atomic decoherence — the single experiment that will either verify or permanently falsify the Baskaboo framework.
+- 🚀 [φ-Inversion-Law.md](φ-Inversion-Law.md) — The φ Inversion Law reveals that Time itself is the measurable cosmic “debt” or remainder (~4% discrepancy) arising from the non-closing φ-cycle, which systematically evolves the universe’s composition from Big Bang ratios through φ-driven shifts (matter expanding by ~φ², Dark Energy contracting by ~φ⁻¹), while positioning gravity and spacetime as active inversion processes between hidden and visible layers.
+
 
 ---
 

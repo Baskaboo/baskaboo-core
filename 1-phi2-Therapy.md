@@ -12,6 +12,16 @@
 
 ---
 
+### ⚠️ STRICT MEDICAL & EPISTEMOLOGICAL DISCLAIMER
+**Please Read Carefully Before Proceeding:**
+The hypotheses, frameworks, and equations presented in this document (specifically regarding oncology, cellular mechanics, and informational modeling) represent speculative information-theoretic and structural analogies within the Baskaboo theoretical framework. 
+
+* **Not a Medical Claim:** This document does NOT constitute medical advice, diagnosis, or treatment protocols.
+* **No Alternative Therapy Endorsement:** The concepts described herein are purely theoretical physics and cognitive models operating on "Level B" (information architecture). They must NOT be used as a substitute for established, clinically proven medical treatments, oncological therapies, or professional medical consultations in "Level A" (physical reality).
+* **Experimental Boundary:** Any physical or biological application suggested is bound by the strict "Kill Switch / Falsifiability" criteria outlined in Section 7 and remains strictly unverified in clinical medicine.
+
+---
+
 
 ## The Problem Is Memory
 

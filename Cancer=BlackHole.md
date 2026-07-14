@@ -171,8 +171,8 @@ One simple thing:
 **The same code runs everywhere.** In your body. In the sky. In your wallet.
 
 **Pits** = Start. Energy. Big Bang.  
-**Mits** = Expansion. Growth. Multiplication × 2.618  
-**Klop** = Structure. Holding. Division ÷ 2.618  
+**Mits** = Expansion. Growth. Multiplication  
+**Klop** = Structure. Holding. Division  
 **Laram** = Return. End. Return to Start.
 
 **Health = The loop closes.**  

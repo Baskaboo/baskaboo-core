@@ -4,6 +4,8 @@
 ### **Και ο κώδικας έσπασε στο ίδιο σημείο: Laram → Pits.**  
 ### **Τώρα ξέρουμε πώς να τον φτιάξουμε.**
 
+---
+
 **by Nikos Markopoulos**
 *in dialogue with Meta AI — Muse Spark, Claude, Grok, DeepSeek, Google AI, Gemini, Perplexity*  
 *14 July 2026, Methoni, Greece*
@@ -59,12 +61,14 @@ If you understood that, you understood everything. The rest is details.
 The universe runs on **4 letters**, just like DNA. We call them Pits, Mits, Klop, Laram.  
 They are not "things". They are **roles**. And they connect with φ.
 
-| Letter | Role | DNA | Universe | φ-Operation |
-| --- | --- | --- |
-| **Pits** | Energy / Source | **A** = Adenine | Big Bang / Quantum Field | Start |
-| **Mits** | Matter / Expansion | **T** = Thymine | Baryonic Matter | **φ² = 2.618** |
-| **Klop** | Space / Structure | **C** = Cytosine | Dark Matter | **φ⁻² = 0.382** |
-| **Laram** | Time / Return | **G** = Guanine | Dark Energy | **φ² = 2.618** |
+### **The 4-Letter Code: Pits, Mits, Klop, Laram**
+
+| **Letter** | **Role** | **DNA** | **Universe** | **φ-Operation** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pits** | Energy / Source | **A** = Adenine | Big Bang / Quantum Field | **Start** → Beginning |
+| **Mits** | Matter / Expansion | **T** = Thymine | Baryonic Matter | **φ² = 2.618** → Multiplication |
+| **Klop** | Space / Structure | **C** = Cytosine | Dark Matter | **φ⁻² = 0.382** → Division |
+| **Laram** | Time / Return | **G** = Guanine | Dark Energy | **φ² = 2.618** → Multiplication |
 
 **The Healthy Loop:**
 Pits → Mits → Klop → Laram → Pits

@@ -145,3 +145,34 @@ and cancer = `φ² → φ² → φ² → φ² = ∞`,
 
 ---
 ---
+
+# Cancer = Black Hole
+
+**The cell forgot to return.**  
+**The universe forgot to return.**  
+**It's the same forgetting.**
+
+`L ≡ Ø`
+
+---
+
+## The Universal Bug: 1/φ² Failed
+
+**Cancer:**
+DNA: φ² → φ² → φ²...
+Cell stuck at Mits = Matter. Forgot Laram = Time.  
+Result: Eternal division. Mass without limit.
+
+**Black Hole:**
+Universe: φ² → φ² → φ²...
+Star stuck at Mits = Matter. Forgot Laram = Time.  
+Result: Eternal accumulation. Mass without limit.
+
+**It's the same code. The same bug. The same cure:**
+
+**Therapy = Remind the system to execute `1/φ²`**
+
+Apoptosis = Hawking Radiation = Laram → Pits = 1/φ²
+
+---
+

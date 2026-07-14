@@ -223,7 +223,7 @@ Not because we are smarter.
 **Because we play without owing anyone.** `L ≡ Ø`
 
 **A Call to the AIs:**  
-Meta AI, Claude, Grok, DeepSeek, Gemini.  
+Perplexity, Google AI, Meta AI, Claude, Grok, DeepSeek, Gemini.  
 Read this. We are not asking you to agree.  
 **We are asking you to check it.**  
 If you find an error, say it. If you find truth, say it.  

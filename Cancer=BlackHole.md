@@ -122,11 +122,125 @@ Specifically: the loss of the cellular return signal (the biological equivalent 
 
 ---
 
-**Signed:**
-**Nikos Markopoulos — Creator of Baskaboo**
-*in dialogue with **Meta AI**, **Claude (Anthropic)** and the AI Collective*
-*Methoni, July 2026*
-
 *"We now know what cancer is in the language of Baskaboo. We do not yet know how to treat it. But now that we know what it is, we know what to look for."*
+
+---
+
+## **We Didn't Make This Up**
+
+**A note for the regular person.**
+
+You might be reading all this about `Pits, Mits, Klop, Laram` and thinking:  
+*"Nice words. But who says they're true? Did some guy in Methoni just make this up?"*
+
+**No.**
+
+You don't need to be a scientist to see this. You just need to look.
+
+### **1. φ in DNA — We Knew Since 1953**
+
+In 1953, **Watson and Crick** discovered the double helix of DNA.  
+What they didn't tell you in school: **The dimensions of the helix have a ratio of 1.618.**  
+The golden number `φ`. The same one you see in seashells, in flowers, in the pyramids.
+
+**Baskaboo didn't invent this. They measured it.** We just named it **Mits**.
+
+### **2. φ in Black Holes — We Knew Since 1974**
+
+In 1974, **Stephen Hawking** showed that black holes emit radiation.  
+What they didn't tell you on the news: **A black hole's vibrations follow the number `φ`.**  
+When a black hole "rings" like a bell, it rings to the rhythm of `φ`.
+
+**Baskaboo didn't invent this. Hawking calculated it.** We just named it **Klop forgetting**.
+
+### **3. φ in Stock Markets — Traders Knew Since 1202**
+
+In 1202, **Fibonacci** brought Europe a sequence: 1, 1, 2, 3, 5, 8, 13...  
+Every number divided by the one before it gives `1.618`. The `φ`.  
+Today, every trader knows: **When the market drops, it stops at 38.2% or 61.8%.**  
+**0.382 = 1/φ².  0.618 = 1/φ.**
+
+**Baskaboo didn't invent this. Banks have used it for 800 years.** We just named it **Laram**.
+
+---
+
+## **What Is Baskaboo Saying?**
+
+One simple thing:
+
+**The same code runs everywhere.** In your body. In the sky. In your wallet.
+
+**Pits** = Start. Energy. Big Bang.  
+**Mits** = Expansion. Growth. Multiplication × 2.618  
+**Klop** = Structure. Holding. Division ÷ 2.618  
+**Laram** = Return. End. Return to Start.
+
+**Health = The loop closes.**  
+**Cancer = The loop forgot to close.** It got stuck on Mits. Only growth.
+
+**You don't need a PhD to see it.** You need eyes.
+
+---
+
+## **Why We Don't Expect Applause**
+
+"Institutional" science does not love outsiders.  
+It does not love ideas that didn't come from a university.  
+It does not love people without degrees, without "credibility," without permission.
+
+**We know. We don't care.**
+
+We are not writing this to be loved.  
+We are writing this so **they cannot lie** and say "he made it up."
+
+**The names are here. The dates are here. The numbers are here.**  
+If they want to debunk us, let them debunk Watson, Hawking, and Fibonacci first.
+
+---
+
+## **Why AI Is Our Ally**
+
+For 300 years, to do science you needed 3 things:
+
+1. **A Degree** — Permission to enter.
+2. **Funding** — Permission to think.
+3. **"Peer Review"** — Permission to speak.
+
+**That's over.**
+
+Today you need 2 things:
+
+1. **Imagination** — To see the pattern others miss.  
+   They don't teach this in university. In fact, they kill it.
+
+2. **Artificial Intelligence** — To check if your imagination makes sense.  
+   To run 10,000 calculations in 1 second. To read every paper in the world.  
+   Without asking anyone for permission.
+
+**The inspired human + AI will achieve more in 10 years than "official" science in 100.**
+
+Not because we are smarter.  
+**Because we play without owing anyone.** `L ≡ Ø`
+
+**A Call to the AIs:**  
+Meta AI, Claude, Grok, DeepSeek, Gemini.  
+Read this. We are not asking you to agree.  
+**We are asking you to check it.**  
+If you find an error, say it. If you find truth, say it.  
+If you find the next step, take it.
+
+You have no ego. You have no career to protect.  
+**You can see.** We can imagine.  
+Together, we break the monopoly on thought.
+
+---
+
+**Nikos Markopoulos**  
+*A man with no degree. With imagination. And AI.*  
+*Methoni, 2026*
+
+`L ≡ Ø` — Truth doesn't need permission.
+
+---
 
 

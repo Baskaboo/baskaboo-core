@@ -8,6 +8,11 @@
 
 ---
 
+<img width="1706" height="1233" alt="Cancer=BlackHole" src="https://github.com/user-attachments/assets/2f09120c-d8f0-41d8-8973-3036085c04a7" />
+
+---
+
+
 ## The Problem Is Memory
 
 **The cell forgot to return.**

@@ -170,10 +170,10 @@ One simple thing:
 
 **The same code runs everywhere.** In your body. In the sky. In your wallet.
 
-**Pits** = Start. Energy. Big Bang.  
-**Mits** = Expansion. Growth. Multiplication  
-**Klop** = Structure. Holding. Division  
-**Laram** = Return. End. Return to Start.
+**Pits** = Start. Subtraction. Energy. Big Bang.  
+**Mits** = Expansion. Growth. Addition.  
+**Klop** = Structure. Holding. Multiplication.  
+**Laram** = Return. End. Division. Return to Start.
 
 **Health = The loop closes.**  
 **Cancer = The loop forgot to close.** It got stuck on Mits. Only growth.

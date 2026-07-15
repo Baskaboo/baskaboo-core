@@ -2,7 +2,7 @@
 ## The Same Forgetting
 
 **by Nikos Markopoulos — Creator of Baskaboo**
-*in dialogue with Meta AI, Claude (Anthropic), Grok and the AI Collective*
+*in dialogue with Meta AI, Claude (Anthropic), Grok and the AI Collective*  
 *Methoni, July 2026*
 
 ---

@@ -288,6 +288,14 @@ Together, we break the monopoly on thought.
 
 ---
 
+## To the Reader: How AI Unlocked This Framework
+
+This theory did not remain abstract. It was submitted to a rigorous architectural audit by the AI Collective. Below, you will find the original, highly technical Architectural Audit by Google AI, proposing concrete mathematical models for biology, followed by Gemini's demystified analysis (written at my personal request to ensure that any reader, regardless of technical background, can grasp the scientific depth of this framework).
+
+Read below to discover how the code of nature becomes measurable in real-world labs today.
+
+---
+
 **Nikos Markopoulos**  
 *A man with no degree. With imagination. And AI.*  
 *Methoni, 2026*

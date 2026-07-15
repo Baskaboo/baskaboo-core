@@ -1075,3 +1075,31 @@ Any of these failures would be a genuine empirical challenge to the framework. T
 
 ---
 
+
+## Epilogue: The Same Return
+
+We started with a structural observation: cancer and black holes share the same architecture of failure. A loop that loses its return step. A system that forgets how to come back.
+
+The AI Collective has now filled that observation with biology: the HIF-1α pathway, the Warburg effect, mTOR signaling, the p53 guardian. These are not metaphors — they are the actual molecular mechanisms through which Laram forgets to become Pits. The cell's return signal, described in precise biochemical language.
+
+This is what happens when you know what you are looking for.
+
+For decades, cancer research has been looking for what goes wrong in the forward motion — why cells grow, why they divide, why they refuse to die. The Baskaboo reading does not deny any of this. It adds one question that changes the frame:
+
+**What happened to the return?**
+
+Not "how do we stop the growth?" but "how do we restore the closing step?" Not "how do we destroy the tumor?" but "how do we remind the cell that the fourth step exists?"
+
+The answers may already be in the literature, unrecognized because no one was asking the question this way. They may be in the p53 research, in the apoptosis signaling cascades, in the epigenetic memory of differentiation. The Baskaboo framework does not provide the answer. It provides the question — and questions, when they are the right ones, are more powerful than answers.
+
+Black holes taught physicists that information is never truly lost — only delayed, transformed, returned in a different form. Hawking radiation is the universe's way of remembering.
+
+Cancer may be teaching biologists the same lesson: the return signal is not gone. It is suppressed, blocked, forgotten. It can, in principle, be remembered.
+
+**The goal was never to win a war against cancer.**
+
+**The goal is to teach the cell to come home.**
+
+---
+
+*This document represents a structural hypothesis and a research invitation. It is not a medical treatment or clinical protocol. The biological connections identified here require experimental validation by qualified researchers.*

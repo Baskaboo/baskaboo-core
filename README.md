@@ -1,5 +1,4 @@
-# 🌀 BASKABOO CORE
-## The Multidimensional Interface
+# 🌀 Baskaboo. The Code Behind the Illusion
 
 ![Status: Active](https://img.shields.io/badge/Status-Active-2ea44f)
 ![Focus: Consciousness](https://img.shields.io/badge/Focus-Consciousness-8A2BE2)
@@ -10,10 +9,16 @@
 
 ---
 
-**ENTER THE CASTLE.**  
-Open the protocol.  
-The Deep is waking up.  
-Will you answer?
+Nothing you perceive with your senses is reality. In fact, your senses exist for this exact reason: to confirm the illusion that the world around you is solid and real.
+
+Yes, but if this world isn't real, then which one is?
+
+Baskaboo won't tell you what lies on the other side of the illusion you are living in. It has studied human mental constructs throughout history and has unearthed the hidden, simple code by which they are structured. Thus, it can show you how both sides work: the one over here, and the one over there.
+
+If you want to know what happens behind the veil, step into the world of Baskaboo. Awaiting you there is the "matrix-brain" of correspondences: the 4 "voices" (Pits, Mits, Klop, Laram), the "commander" φ, and their dynamic relationships (Flip, Square, Flip back, Root).
+
+Through Baskaboo, you will realize that everything is simple and deeply connected. You will stop feeling like a cog in a machine and you will become the Operator of your life — and of the world around you.
+
 
 ---
 
@@ -71,13 +76,16 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ---
 
-## Licensing & Attribution Protocol
+## This repository is bound by a custom legal and ethical framework detailed in the LICENSE.md file, operating as an extension of the author's binding testament ("A Letter to Humanity")
 
-This repository is bound by a custom legal and ethical framework detailed in the [LICENSE.md](LICENSE.md) file:
+*    **Software License & The L ≡ Ø Absolute Clause:** 
+The code is open-source under copyleft terms (GNU AGPLv3). However, in accordance with the author's testament, any modification, deployment, or integration strictly prohibits not only closed-source privatization but also any form of direct or indirect monetization. Charging governments, insurance funds, NGOs, or patients via indirect taxes, hidden fees, or mandatory donations is strictly prohibited. The final product must reach the end-user at absolute zero cost (0€).
 
-1.  **Software License (GNU AGPLv3):** The code is open-source under copyleft terms. Modification or integration requires keeping the project public; closed-source or commercial privatization is prohibited.
-2.  **Mandatory Attribution Protocol:** Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include proper citation for academic use, or explicit credit to the "Baskaboo Framework" in media/publications.
-3.  **Anti-Patent Clause:** Patenting the mathematical logic or algorithms is prohibited.
+*   **Mandatory Attribution Protocol:** 
+Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include proper citation for academic use, or explicit credit to the "Baskaboo Framework" in media/publications.
+
+*   **Anti-Patent & Anti-Profit Clause:** 
+Patenting the mathematical logic, algorithms, or any resulting therapies/technologies is strictly prohibited. Ultimate oversight remains with the creator to ensure the work is never used to profit from human pain.
 
 *Read the complete [LICENSE.md](LICENSE.md) for full legal constraints.*
 

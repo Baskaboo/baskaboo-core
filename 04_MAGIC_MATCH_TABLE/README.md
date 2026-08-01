@@ -106,6 +106,7 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
 | **Information Entropy** | -H  | +H | +H² | -H² |
+| **DNA Base** | Adenine (A) | Guanine (G) | Thymine (T) | Cytosine (C) |
 
 ***
 

@@ -48,9 +48,9 @@ The DNA of Baskaboo is a triple-layered system that unifies **Structure**, **Act
 | Frame | Action | Experience | Archetype |
 | :--- | :--- | :--- | :--- |
 | **🔘 Pits** | **Flip** | **WANT** | The Seed (He) |
-| **🔘 Mits** | **Multiply** | **MUST** | The Matrix (She) |
+| **🔘 Mits** | **Square** | **MUST** | The Matrix (She) |
 | **🔘 Klop** | **Flip-Back** | **LIVE** | The Connection (She) |
-| **🔘 Laram** | **Divide & Return** | **REMEMBER & RETURN** | The Wisdom (He) |
+| **🔘 Laram** | **Root** | **REMEMBER & RETURN** | The Wisdom (He) |
 
 ---
 **Why this matters:**  

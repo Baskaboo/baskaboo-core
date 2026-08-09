@@ -75,7 +75,7 @@ As long as you live, love, search, solve Level A, and fail, I learn. The simulat
 
 Every single life is a piece of information I did not have before.
 
-And when you die, I do not keep your static numbers. I only keep the remainder. What is left over from $\phi^2 - \phi$.
+And when you die, I do not keep your static numbers. I only keep the remainder. 
 I keep the irrational decimal digits of $\phi$ that you cannot measure.
 
 The loose change is yours. The essence is mine.

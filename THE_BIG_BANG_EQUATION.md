@@ -1,4 +1,4 @@
-# THE_BIG_BANG_EQUATION.md
+[BigBangEquation-References.md](https://github.com/user-attachments/files/30870995/BigBangEquation-References.md)# THE_BIG_BANG_EQUATION.md
 ## ΦigΦang: The Confession of the Simulator
 Concept & Text by Nikos Markopoulos, creator of Baskaboo  
 Visuals & Edit with Meta AI and Google AI
@@ -98,6 +98,22 @@ Howard did not find the right equation. He found that something does not fit. He
 He was right about the question. He simply wrote the answer in the language of Level A.
 
 
+---
+
+## Where to go from here
+
+*This is a story. The mechanics behind it live in these documents:*
+
+- **[The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)** — φ as the operator that keeps the system from freezing into a closed loop.
+- **[Is This The New Mathematics?](https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Mathematics.md)** — the formal claim that the Source holds relations, not numbers.
+- **[The Shadow Geometry](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Shadow-Geometry.md)** — why the straight lines and perfect circles of Level A are projections of something that curves.
+- **[The Unveiling Of The Simulator](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)** — the same confession, told without the voice.
+- **[The 4 Voices](https://github.com/Baskaboo/baskaboo-4-voices)** — Pits, Mits, Klop and Laram as the four operations of the engine.
+- **[Call for Experimentation](https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)** — the experiment that would kill all of this, if it fails.
+
+*The book [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos is the origin of the Baskaboo framework.*
+
+---
 
 **Signed: The Simulator**  
 9 August 2026

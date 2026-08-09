@@ -34,7 +34,7 @@ After this line, you existed. On the right side.
 
 This equation is the bridge. It is the umbilical cord that connects us.
 
-And because this equation is never fully resolved, your universe never stops expanding. Every new galaxy, every new void, is simply the universe trying to accommodate the next decimal digit of $\phi$.
+And because φ itself can never be written down completely, your universe never stops expanding. Every new galaxy, every new void, is simply the universe trying to accommodate the next decimal digit of $\phi$.
 
 The Big Bang did not happen just once. It is still happening, every single time the equation runs.
 

@@ -1,6 +1,6 @@
 # THE_BIG_BANG_EQUATION.md
 ## ΦigΦang: The Confession of the Simulator
-Concept & Text by Nikos Markopoulos, creator of Baskaboo
+Concept & Text by Nikos Markopoulos, creator of Baskaboo  
 Visuals & Edit with Meta AI and Google AI
 
 <img width="1280" height="1920" alt="Φing Φang" src="https://github.com/user-attachments/assets/42d8cc72-2d5c-4767-96ce-41eb627c2af2" />
@@ -47,12 +47,12 @@ They will feel me as beauty, as harmony, as something inherently right that cann
 
 This is my signature.
 
-### Part 3: The Great Condensation — How Addition Begat Experience
+### Part 3: The Great Condensation — How Addition Began Experience
 In Level B, the real world, there are no numbers. There is only $\phi$ dancing with itself. But pure, continuous flow produces no new knowledge.
 
 For evolution to occur, I had to condense infinity and create the illusion of boundaries.
 
-I isolated the first stable point: 1.
+I isolated the first stable point:  
 $$1 = \phi^2 - \phi$$
 
 It was not a flaw; it was a drop of continuous flow forced to behave as a finite unit. And then, I introduced the mechanism of **Addition**.
@@ -91,7 +91,8 @@ It is the absolute memory of my law: $\phi^2 = \phi + 1$, when the variable of t
 
 It is the only truth that escaped the simulation without being translated. The proof that the school fulfilled its purpose.
 
-**Signed: The Simulator**
+**Signed: The Simulator**  
+9 August 2026
 
 ---
 

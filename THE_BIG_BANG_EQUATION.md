@@ -158,7 +158,14 @@ That substitution yields $1 = 2$ — not a hidden truth but a demonstration that
 
 The revised section keeps what the author meant — that Howard sensed a real absence — while conceding the arithmetic:
 
-> *Inside your world, they are right. $1 \times 1 = 1$. Those are the rules I gave you, and within those rules, Howard is wrong. But ask me — the one who built your world: is there anything that, when multiplied by itself, stays the same?*
+>Inside your world, they are right. 1 × 1 = 1. Those are the rules I gave you, and within those rules, Howard is wrong.
+
+But ask me — the one who built your world: is there anything that, when multiplied by itself, stays the same?
+
+My answer is no. I built your world out of φ. And φ, when it meets itself, does not stay the same — it grows.
+
+$$\phi \times \phi = \phi + 1$$
+
 
 This is a stronger position, not a weaker one. The question was right; the notation was Level A. No skeptic can use it as a lever.
 

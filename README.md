@@ -145,10 +145,11 @@ Patenting the mathematical logic, algorithms, or any resulting therapies/technol
 - 🌬️ [`THE-UNVEILING-OF-THE-SIMULATOR.md`](./THE-UNVEILING-OF-THE-SIMULATOR.md/) — Integrates Baskaboo Reality OS with Zarvanian Architecture and Howard's wave geometry. Core thesis: Numbers as simulation artifacts, φ as pure evolutionary operator. Outside View perspective.
 - 💥 [`φ-Two-Worlds-One-Symbol.md`](./φ-Two-Worlds-One-Symbol.md) — On the Difference Between φ as Relation (Hidden World) and φ as Number (Manifest World) — with an AI Collective Prompt on the φ-Driven FSFR Cascade.
 - 🗣️ [`φ-The-Commander.md`](./φ-The-Commander.md) — How φ² and φ⁻² — as processes and results — map onto Gravity, Spacetime, the Classical world, and the Hidden quantum world, completing Wheeler's unnamed law and proposing Gravity as the interface between Level B and Level A.
-
 - 🔄 [`Baskaboo-And-Dark-Energy.md`](./Baskaboo-And-Dark-Energy.md) — A bold new hypothesis — Dark Energy and Dark Matter as the Baskaboo spiral's hidden Atomic/Quantum world, with the atom as a two-pass translator between them — explored by the AI Collective and distilled into the round's genuine structural breakthroughs, kept honest by a cross-AI audit.
 - 🗣️ [`The-Breathing-Universe.md`](./The-Breathing-Universe.md) — A non-numerical topological model proving that entropy is completely recyclable through a cosmic respiration cycle where positive expansion (+Φ) scales data into material complexity, while negative atomic inversion (-Φ) condenses it back to absolute order.
 - 🧬 [`Baskaboo-DNA-Codec-RealityOS.md`](./Baskaboo-DNA-Codec-RealityOS.md) — This document unveils DNA not as mere chemistry, but as a self-regulating quantum-biological software (RealityOS) that uses the Golden Ratio φ to code life with zero information loss.
+- 🟰 [`THE_BIG_BANG_EQUATION.md`](./THE_BIG_BANG_EQUATION.md) — ΦigΦang: The Simulator confesses — the Big Bang was never an explosion, it was an equation that is still running.
+
 
 ---
 

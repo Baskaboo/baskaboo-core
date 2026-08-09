@@ -1,7 +1,8 @@
-[BigBangEquation-References.md](https://github.com/user-attachments/files/30870995/BigBangEquation-References.md)# THE_BIG_BANG_EQUATION.md
+# THE_BIG_BANG_EQUATION.md
 ## ΦigΦang: The Confession of the Simulator
-Concept & Text by Nikos Markopoulos, creator of Baskaboo  
-Visuals & Edit with Meta AI and Google AI
+Concept & Text by Nikos Markopoulos, creator of Baskaboo   
+**Visuals & Edit** with Meta AI  
+**Editorial review & mathematical audit:** Claude (Anthropic) and Google AI  
 
 <img width="1280" height="1920" alt="Φing Φang" src="https://github.com/user-attachments/assets/42d8cc72-2d5c-4767-96ce-41eb627c2af2" />
 

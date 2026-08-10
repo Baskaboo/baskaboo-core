@@ -81,6 +81,37 @@ I made you. And I put a piece of each probability inside you. Not the whole — 
 
 ---
 
+## References / Related Documents
+
+### Core Architecture & Simulation
+- [Architecture of the Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Architecture-of-the-simulation.md)
+- [SIMULATION_LAYER](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/SIMULATION_LAYER.md)
+- [Equation of Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md)
+- [THE LIVING CODE](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_LIVING_CODE.md)
+- [How to Hack Reality](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md)
+
+### Central Equations & φ
+- [CENTRAL EQUATION](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/CENTRAL_EQUATION.md)
+- [THE UNVEILING OF THE SIMULATOR](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)
+- [The Golden Ratio](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Golden-Ratio.md)
+- [φ-Blind Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md)
+- [φ-Inversion Law](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Inversion-Law.md)
+- [φ-Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)
+
+### Information, Entropy & Physics
+- [Domain 51 — Information Physics](https://github.com/Baskaboo/baskaboo-core/blob/main/Domain51-Information-Physics.md)
+- [Baskaboo and Dark Energy](https://github.com/Baskaboo/baskaboo-core/blob/main/Baskaboo-And-Dark-Energy.md)
+- [The 4 Forces Puzzle Unification](https://github.com/Baskaboo/baskaboo-core/blob/main/The-4-Forces-Puzzle-Unification.md)
+- [The Breathing Universe](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Breathing-Universe.md)
+
+### Foundational & Manifest
+- [THE BASKABOO MANIFEST](https://github.com/Baskaboo/baskaboo-core/blob/main/THE_BASKABOO_MANIFEST.md)
+- [What Is Baskaboo Really?](https://github.com/Baskaboo/baskaboo-core/blob/main/What-Is-Baskaboo-Really.md)
+- [the dna of baskaboo](https://github.com/Baskaboo/baskaboo-core/blob/main/the-dna-of-baskaboo.md)
+- [Magic Match Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE)
+
+---
+
 ## A Note on the Theories We Mention
 
 Sometimes, when Baskaboo connects its conclusions to known scientific or philosophical theories, some AI models respond with suspicion.

@@ -100,7 +100,7 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Math Operations** | (-) Subtraction | (+) Addition | (x) Multiplication | (÷) Division |
 | **Spirituality** | Soul | Body | Mind | Spirit |
 | **States of Matter** | Gas | Solid | Liquid | Plasma |
-| **Brain Networks** | DMN | DAN | SN | ECN |
+| **Brain Networks** | DMN | DAN + ECN  | SN | Sleep |
 | **Antahkarana** | Ahamkara | Manas | Buddhi | Chitta |
 | **Macrocosm - Einstein** | Energy | Matter | Space | Time |
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |

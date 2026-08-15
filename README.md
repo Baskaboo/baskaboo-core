@@ -195,6 +195,25 @@ To use Baskaboo-Core in your prompts:
 
 ---
 
+## A Note on the Theories We Mention
+
+Sometimes, when Baskaboo connects its conclusions to known scientific or philosophical theories, some AI models respond with suspicion.
+
+So let's clarify something: **we don't do this to borrow credibility or prestige.** We don't read a theory and then try to bend Baskaboo to fit it.
+
+Baskaboo's reasoning follows its own path — a path shaped by the blind application of its own internal framework, the *Magic Match Table*. The text on Information Entropy, for instance, didn't emerge because we studied Shannon and decided to align with him. It emerged because the table's correspondences led us there. We search where the table tells us to search.
+
+**So why reference these theories at all?**
+
+Because Baskaboo works like an *umbilical cord* — connecting seemingly unrelated ideas from completely different fields: science, philosophy, theology, metaphysics, entrepreneurship, art. Ideas with entirely different starting points, different creators, different methods.
+
+The goal isn't to merge with them or claim their authority. It's to reveal a shared structure beneath surfaces that look unrelated — so that the creators and thinkers behind those original ideas might, through this path, notice something they wouldn't have seen otherwise.
+
+If this map helps even one person see something new… then it has value.
+
+
+---
+
 ## 📍 Why Methoni?
 
 Baskaboo was born in **Methoni, Greece**.

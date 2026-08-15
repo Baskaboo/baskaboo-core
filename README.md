@@ -56,6 +56,15 @@ to experience wholeness, synchronicity, and clarity.
 
 ---
 
+> **About Baskaboo**  
+> Baskaboo is a proposed **pro-architecture**: a framework that seeks the pattern existing before human knowledge was divided into science, psychology, theology, philosophy, art, technology, and business.  
+>
+> Through four recurring Voices — **Pits, Mits, Klop, and Laram** — and the cycle **Flip → Square → Flip-back → Root**, it maps how different domains may be rendering the same deeper structure in different languages.  
+>
+> Baskaboo does not ask for belief or institutional admission. It invites inspection: trace the mappings, test their coherence, look for their failures, and ask whether fragmented fields may be expressions of one prior architecture.
+
+---
+
 ## -`♡´- The Core of Baskaboo
 
 *At first glance, these words may seem strange or without obvious meaning. However, if you pause and look closer, you will see how they "click" into place with absolute precision—connecting everything from modern quantum physics to the very fabric of your daily life.*

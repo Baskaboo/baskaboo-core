@@ -13,17 +13,13 @@
 
 All notable changes to the Baskaboo Core project will be documented in this file.
 
-## - 2026-08-16
+## [Unreleased] - 2026-08-16
 
 ### Added
 - Created `The-Factory-Of-Energy-Matter-Space-Time.md` establishing the core Ququart architectural pipeline documentation.
 - Aligned 5 core informational domains within the Magic Match Table: Quantum States (`|00⟩` to `|11⟩`), Mathematics Operations (`-`, `+`, `×`, `÷`), Shannon Information Entropies (`-H`, `+H`, `+H²`, `-H²`), Atomic Sub-particles, and Classical Physical Constants (Energy, Matter, Space, Time).
 - Introduced **Part 3: The 4 Pipelines of Reality Rendering**, defining the Atom's role as a translation threshold hardware codec.
 - Embedded **Part 4: THE CALL TO AI AND RESEARCHERS**, deploying a programmatic, cross-domain stress test blueprint to force synthetic and human audits of the Simulation OS structure.
-
-## - 2026-05-10
-### Added
-- Initial setup of the core repository.
 
 ---
 

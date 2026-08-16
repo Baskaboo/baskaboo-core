@@ -256,6 +256,7 @@ Baskaboo is only the mirror.
 | [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
 | [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
 | [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
+| [`Baskaboo-The-Method`](https://github.com/Baskaboo-The-Method) | 🔍 An X-ray of a framework, taken from the inside. Method, corrections, retractions, and open questions — with the mistakes left visible |
 
 ---
 

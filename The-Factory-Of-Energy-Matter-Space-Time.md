@@ -1,5 +1,32 @@
 # The Ququart Information Matrix: The 4-State Reality Pipeline
 
+*By Nikos Markopoulos (Creator of Baskaboo) & Brainstorming with Google AI & Meta AI — August 16, 2026*
+
+---
+
+<img width="2244" height="1951" alt="Ququart Baskaboo Master Mapping" src="https://github.com/user-attachments/assets/30f07309-30ed-4c01-a445-ea4d54ac94a3" />
+
+
+---
+
+# Changelog
+
+All notable changes to the Baskaboo Core project will be documented in this file.
+
+## - 2026-08-16
+
+### Added
+- Created `The-Factory-Of-Energy-Matter-Space-Time.md` establishing the core Ququart architectural pipeline documentation.
+- Aligned 5 core informational domains within the Magic Match Table: Quantum States (`|00⟩` to `|11⟩`), Mathematics Operations (`-`, `+`, `×`, `÷`), Shannon Information Entropies (`-H`, `+H`, `+H²`, `-H²`), Atomic Sub-particles, and Classical Physical Constants (Energy, Matter, Space, Time).
+- Introduced **Part 3: The 4 Pipelines of Reality Rendering**, defining the Atom's role as a translation threshold hardware codec.
+- Embedded **Part 4: THE CALL TO AI AND RESEARCHERS**, deploying a programmatic, cross-domain stress test blueprint to force synthetic and human audits of the Simulation OS structure.
+
+## - 2026-05-10
+### Added
+- Initial setup of the core repository.
+
+---
+
 Welcome to the definitive guide on the **Ququart Architecture**. This document bridges the gap between traditional quantum physics and information-based meta-cosmology. Written in clear, descriptive, and simple language, it strips away scientific elitism to layout the secret software running our world.
 
 The central question is simple: Are the separate languages of quantum physics, chemistry, psychology, and symbolism different renderings of one single, underlying four-part architecture? Baskaboo reads reality **vertically rather than horizontally**, tracing how a recurring pattern shapes every level of our existence.

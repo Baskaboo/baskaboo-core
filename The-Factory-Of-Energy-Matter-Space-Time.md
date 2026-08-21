@@ -1,8 +1,8 @@
 # The Ququart Information Matrix: The 4-State Reality Pipeline
 
-*By Nikos Markopoulos (Creator of Baskaboo)*. 
-*Brainstorming with Google AI, Comet & Meta AI — August 16, 2026*. 
-*Editorial review and corrections: Claude (Anthropic)*. 
+*By Nikos Markopoulos (Creator of Baskaboo)*.  
+*Brainstorming with Google AI, Comet & Meta AI — August 16, 2026*.  
+*Editorial review and corrections: Claude (Anthropic)*.  
 
 <img width="1152" height="2048" alt="weathered_stone_tablet" src="https://github.com/user-attachments/assets/d3a0bf90-33d0-478d-8331-3b3c8fcf90ee" />
 

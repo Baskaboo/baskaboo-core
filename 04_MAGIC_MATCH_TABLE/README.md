@@ -105,17 +105,19 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Macrocosm - Einstein** | Energy | Matter | Space | Time |
 | **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
-| **Information Entropy** | -H  | +H | +H² | -H² |
+| **Information Entropy** **| -H  | +H | +H² | -H² |
 | **DNA Base** | Adenine (A) | Guanine (G) | Thymine (T) | Cytosine (C) |
 
 ***
 
-**Note on Asterisks (*):**
+**Note on Asterisks ( * ):**
 Baskaboo introduces a critical fourth element (**Laram**) to complete historically "triadic" or incomplete structures, providing the necessary balance for the Simulation Equation. These additions include:
 
 *   **Freud's Personality Theory:** Introduction of **Essence**, moving beyond the Id-Ego-Superego triad.
 *   **Hegelian Dialectic:** Introduction of **Anamnesis** as the final stage of the dialectical process.
 *   **Atomic Structure:** Distinction of the **Free Electron** as a separate functional entity from the Bound Electron.
+
+**Note on Asterisks ( ** ):** On H: H is Baskaboo's information operator — an interpretation of Shannon entropy, not the function itself. The sign denotes phase inversion, a flip, not a negative quantity. Shannon's H is always positive; the four states −H, +H, +H², −H² are Baskaboo's own structure, added to a borrowed idea.
 
 *Detailed justifications and systemic analyses for these integrations are provided in the individual domain breakdown sections.*
 

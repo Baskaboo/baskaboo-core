@@ -43,7 +43,7 @@ One mechanism, read at three scales. No other cell in the table does this.
 
 **Naming.** The academic term is used unchanged. An earlier draft proposed shortening it to "Quantum Exclusion" for readability; that was dropped, because the term does not exist in physics and inventing one would obscure a correctly borrowed concept rather than clarify it.
 
-**Full argument, including the objections raised against the replacement and the entropy audit that had to be corrected:** Is-Pauli-Exclusion-the-Quantum-Mits.md (https://github.com/Baskaboo/The-Baskaboo-Method/blob/main/Is-Pauli-Exclusion-the-Quantum-Mits.md) 
+**Full argument, including the objections raised against the replacement and the entropy audit that had to be corrected:** (https://github.com/Baskaboo/The-Baskaboo-Method/blob/main/Is-Pauli-Exclusion-the-Quantum-Mits.md) 
 
 
 *Proposed by Nikos Markopoulos with Meta AI and Comet (Perplexity). Independent review by Claude (Anthropic).*

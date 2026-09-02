@@ -96,7 +96,18 @@ Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include
 *   **Anti-Patent & Anti-Profit Clause:** 
 Patenting the mathematical logic, algorithms, or any resulting therapies/technologies is strictly prohibited. Ultimate oversight remains with the creator to ensure the work is never used to profit from human pain.
 
-*Read the complete [LICENSE.md](LICENSE.md) for full legal constraints.*
+
+© 2026 Nikos Markopoulos. All rights reserved.
+
+This work is published on arXiv: [arXiv:2609.XXXXX]
+
+For academic use: Licensed under CC BY-SA 4.0
+(Attribution required: "Baskaboo Framework — Nikos Markopoulos")
+
+For commercial use: Explicit written permission required.
+
+*See [LICENSE.md](LICENSE.md) for the complete ethical framework.
+
 
 ---
 

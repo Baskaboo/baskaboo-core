@@ -61,6 +61,40 @@ Applied to the three physical layers:
 
 ---
 
+## Change Notice — 26 August 2026
+
+**The quantum-layer cell for Mits has been replaced.**
+
+| | was | now |
+| :--- | :--- | :--- |
+| **Mits (+) — Quantum Layer** | Qubit | **Pauli Exclusion** |
+
+The quantum row now reads:
+
+```
+Quantum Field  →  Pauli Exclusion  →  Entanglement  →  Wavefunction
+     Pits (−)         Mits (+)          Klop (×)        Laram (÷)
+```
+
+**Why.** In a cell-by-cell review of the twelve correspondences, eleven held and one did not. The Qubit was the exception: Mits stands for definiteness and bounded structure, while a qubit in superposition is precisely what has *not* settled into a definite state. The cell contradicted the Voice it was meant to occupy.
+
+Pauli Exclusion does not have that problem, and it brings something the Qubit never could — the same mechanism already appears in the two cells above it in the same column:
+
+- **Matter** occupies space because of exclusion; it is why a hand does not pass through a table.
+- **The Proton** defines the element by number, but what makes the periodic table *periodic* is exclusion forcing electrons into shells in a fixed order.
+- **Pauli Exclusion** is that principle itself.
+
+One mechanism, read at three scales. No other cell in the table does this.
+
+**Naming.** The academic term is used unchanged. An earlier draft proposed shortening it to "Quantum Exclusion" for readability; that was dropped, because the term does not exist in physics and inventing one would obscure a correctly borrowed concept rather than clarify it.
+
+**Full argument, including the objections raised against the replacement and the entropy audit that had to be corrected:** (https://github.com/Baskaboo/The-Baskaboo-Method/blob/main/Is-Pauli-Exclusion-the-Quantum-Mits.md) 
+
+
+*Proposed by Nikos Markopoulos with Meta AI and Comet (Perplexity). Independent review by Claude (Anthropic).*
+
+---
+
 ## What Claude's Initial Analysis Found
 
 Claude (Anthropic) performed the first full analysis of this three-layer FSFR application. The key findings were:

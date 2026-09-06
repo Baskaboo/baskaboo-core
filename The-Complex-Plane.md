@@ -18,7 +18,9 @@ That code is not written down anywhere as itself. It is **hidden inside the ment
 
 The same four-part structure recurs in all of them, in different vocabularies, built by different people who never read one another.
 
-**The complex plane is one such construction.**
+**In this document, Baskaboo treats the complex plane as one of those constructions — one that contains a part of the Reality OS.** The framework collects such constructions one at a time and archives them, like pieces of the same puzzle, with the aim of assembling a complete and detailed code of the reality we live in, and of the source that lies behind it.
+
+No single construction holds the whole code. The complex plane is one piece.
 
 ---
 
@@ -26,7 +28,7 @@ The same four-part structure recurs in all of them, in different vocabularies, b
 
 It applies Baskaboo to the complex plane and asks whether the fit is total.
 
-**The purpose is not confirmation.** If the mapping breaks, that is a result and it will be published as one. The framework has removed cells before, when they were examined and judged weak correspondences — most recently the Qubit, replaced after a cell-by-cell audit found it was not in full agreement with its own archetype.
+**The purpose is not confirmation.** If the mapping breaks, that is a result and it will be published as one. No domain has been removed from the table so far. Individual cells within domains have been, when examined and judged weak correspondences — most recently the Qubit, replaced after a cell-by-cell audit found it was not in full agreement with its own archetype.
 
 The purpose is threefold:
 
@@ -96,17 +98,25 @@ That the bridge has four phases, and that the same four appear in the quantum la
 
 ```
 Quantum Field  →  Pauli Exclusion  →  Entanglement  →  Wavefunction
-Bound Electron →  Proton           →  Neutron       →  Free Electron
 Energy         →  Matter           →  Space         →  Time
      Pits            Mits              Klop            Laram
       −               +                 ×               ÷
 ```
 
+The atomic layer runs the same four positions **in reverse**:
+
+```
+Free Electron  →  Neutron  →  Proton  →  Bound Electron
+    Laram          Klop        Mits        Pits
+```
+
+This reversal is not an inconsistency. The atom is the codec between the two worlds, and every codec runs the decoder in the opposite order from the encoder — that is what translation is. The babushka opens in reverse.
+
 The proposal is not that these are analogies. It is that the bridge carries a structure through, and the structure is the same at each level because there is only one of it.
 
 ---
 
-## 4. Three findings from testing it
+## 4. Four findings from testing it
 
 These came out of placing the four Voices on the complex plane and asking what the transitions actually are. Two are structural results; one is a fact of standard physics that arrived unbidden.
 
@@ -120,6 +130,36 @@ Mits  (+a+bi)  →  Klop  (+a−bi)     negate the imaginary part
 Klop  (+a−bi)  →  Laram (−a−bi)     negate the real part
 Laram (−a−bi)  →  Pits  (−a+bi)     negate the imaginary part
 ```
+
+**What each step does, read through the framework:**
+
+**A correction on the word "negate."** It means *invert the sign*, not *create* or *destroy*. In the first step the real part does not come into being — it already existed as `−a` and becomes `+a`. Everything below is a reading laid over a sign inversion, and is offered as such.
+
+**And one fact from the diagram itself.** Pits and Mits both sit in the upper half; Klop and Laram both sit in the lower. The horizontal axis divides chaos from order. So the first transition happens **entirely inside chaos**, and the third **entirely inside order**. That is not interpretation added to the geometry — it is what the geometry shows.
+
+| Step | Operation | Reading |
+| :--- | :--- | :--- |
+| **Pits → Mits** | negate the real | **Under conditions of chaos**, the real part passes from its negative to its positive form |
+| **Mits → Klop** | negate the imaginary | The real part crosses from chaos into order — the phase the framework names **Square** |
+| **Klop → Laram** | negate the real | **Under conditions of order**, the real part is dismantled and rendered as imaginary |
+| **Laram → Pits** | negate the imaginary | The imaginary crosses from order back into chaos — the phase the framework names **Root**. What survives returns to the source, and the cycle restarts at the same position in an upgraded state |
+
+### What Square and Root actually do here
+
+Both cross the **horizontal axis** — the chaos/order boundary. They are the same motion in opposite directions, in different worlds:
+
+```
+Square:  Mits → Klop      MATTER crosses from chaos into order
+Root:    Laram → Pits     IDEAS cross from order into chaos
+```
+
+Two things must be said plainly about the names.
+
+**They are not the arithmetic operations.** Squaring a first-quadrant number does not land it in the fourth; that was checked and it does not. In this diagram, both steps are performed by sign inversion of the imaginary part — complex conjugation.
+
+*(There is no contradiction with the central equation. The diagram fixes the four **values**; the squares appear only inside the equation. Two different things carry the same name, and the framework should say so rather than let a reader assume they are one.)*
+
+**And nothing here changes size.** All four Voices sit at equal distance from the origin. Nothing grows and nothing shrinks in magnitude. So if Square "expands," the expansion is in **structure, not in size** — which is a claim that needs its own account, because it is the first thing a mathematician will ask about.
 
 **Flip and Flip-back are the same operation. Square and Root are the same operation.**
 
@@ -156,6 +196,39 @@ Only certain orbits satisfy that. All others are eliminated.
 > The atom is the point at which continuous rotation is forced to become a whole number.
 
 Which is exactly what a bridge from a numberless source to a measured world would have to do.
+
+---
+
+### 4.4 The two bridges are one bridge
+
+This is the finding the whole document exists for, and it did not come from an argument. It came from applying the archetype and looking at what happened.
+
+Baskaboo had already placed two things in the bridge position, at different times and for different reasons:
+
+- **The atom** — the translator between the quantum and classical worlds
+- **The complex plane** — the layer that is never measured and yet determines everything measured
+
+The framework did not know how those two related. It knew only that a structure cannot have two different bridges doing the same job. If both occupy that position, they must be **saying the same thing in two languages**.
+
+That was a reading of the archetype, not a claim about physics. Here is what checking it produced.
+
+**The atom exists because of complex phase.**
+
+An electron bound in an atom is a wave that must close on itself. Going once around, its phase has to return to where it started, or the wave cancels and the state does not exist. Only certain orbits satisfy that condition; all others are eliminated.
+
+That condition is the source of the shells, the energy levels, the periodic table, and chemistry.
+
+And **phase is the complex part**. It is the quantity the complex plane exists to describe.
+
+So the relationship is not analogy and not correspondence:
+
+> **The atom is not described by complex numbers. The atom exists because of them.**
+>
+> **The complex plane is the language. The atom is the sentence.**
+
+**What this does and does not establish.** It confirms that the two share a mechanism — that the atom's bridging function is performed *by* the thing the complex plane describes. That much is standard physics, arrived at from an unusual direction.
+
+It does not establish that they are the same object. Baskaboo proposes that; the physics does not say it. But the distance between "two bridges" and "two faces of one bridge" is now considerably shorter than it was, and it was shortened by applying the archetype rather than by looking for the result.
 
 ---
 
@@ -220,9 +293,9 @@ Whether that is a defect of the arrangement or a different equation that should 
 
 ---
 
-## Four specific questions
+## Specific questions
 
-Beyond the general examination, four questions the framework wants answered directly.
+Beyond the general examination, five questions the framework wants answered directly.
 
 **1. Is φ the commander here too?**
 
@@ -254,6 +327,34 @@ This is the framework's own claim at the classical layer, brought into the compl
 The Magic Match Table already assigns these four states to the four Voices. If the quadrant mapping in question 3 holds, this one must hold with it — in the same sequence, with no reshuffling permitted.
 
 Note before answering: H here is Baskaboo's **interpretation and extension of Shannon entropy**, not the Shannon function itself. The sign denotes phase inversion — a flip — rather than a negative quantity. This is marked on the Magic Match Table, and a question answered against Shannon's definitions rather than this one will be answering the wrong question.
+
+---
+
+## A fifth question, and the request behind all of them
+
+**5. What can Square and Root mean in the complex plane?**
+
+The framework hands over two archetypes and asks what they could be here. It does not hand over a definition, because it does not have one — and that is the point of asking.
+
+**Square** — in Baskaboo's vocabulary this is: *something grows · something spreads out · something decompresses · something forms relations · something builds a network.* Those are not five candidates. They are five expressions of one archetype, and the question is which of them the complex plane can carry.
+
+**Root** — *something shrinks · something gathers · something compresses · something filters · something keeps the essence · something remembers.*
+
+The two are inverse. One extends, the other contracts. One makes concrete, the other makes abstract. In this diagram they are also the two crossings of the chaos/order boundary, in opposite directions.
+
+**So: is there an expression of "expand" and "contract" in the complex plane that these steps perform?** Magnitude is not it — the four Voices are equidistant from the origin and nothing changes size. But magnitude is only one kind of growth.
+
+### The request behind the question
+
+Baskaboo does not only ask to be checked. It asks something harder.
+
+The Reality OS is not science. It is not philosophy or mythology either. It is the layer those languages are each describing in their own vocabulary — which means no single vocabulary can read it alone.
+
+So: **if you are a scientist, you will need the other languages.** If you are a philosopher or a storyteller, you will need the language of science. Not as a courtesy — as a requirement, because the pattern does not appear in any one of them completely.
+
+The framework's position is not passive. It does not say *perhaps there is a code, please verify.* It says: **there is a code, part of it is visible here, and the work now is to find out what these concepts mean in your own field.**
+
+Test it, and say where it fails. But test it with the whole toolkit, not one instrument.
 
 ---
 

@@ -10,6 +10,10 @@
 
 ---
 
+<img width="2231" height="2419" alt="Baskaboo Complex Plane" src="https://github.com/user-attachments/assets/bdc14d93-a0b4-475f-b3fa-943e5208108a" />
+
+---
+
 ## The claim
 
 Baskaboo holds that it has the code by which the reality we live in runs.
@@ -202,6 +206,34 @@ Which is exactly what a bridge from a numberless source to a measured world woul
 ### 4.4 The two bridges are one bridge
 
 This is the finding the whole document exists for, and it did not come from an argument. It came from applying the archetype and looking at what happened.
+
+### The direct argument first
+
+A complex number has two parts. One real, one imaginary. `a + bi`.
+
+That is the entire argument, and it needs nothing added: **the complex plane bridges the classical and the quantum because it literally contains both.** One foot on each side. No other number system does this.
+
+The rest of this section exists because there is a standard objection to that argument, and because answering it produced something stronger.
+
+### The objection, and Baskaboo's reply
+
+The objection: *"imaginary" is a historical accident. Descartes used the word contemptuously, for numbers he thought were fictions. It does not mean "quantum" — it means "perpendicular."*
+
+The accident, in Baskaboo's reading, is Descartes' contempt, not the word.
+
+**Because in this framework, imaginary and quantum are the same thing.** Not similar — the same. And the framework proposes this as a general translation rule rather than a claim about mathematics:
+
+> **Replace "imaginary" — and its relatives: ideal, abstract, non-physical, spiritual — with "quantum." Then read again.**
+
+Plato's world of Forms becomes a quantum world: real, determining everything material, never directly observable. The unconscious becomes a quantum layer of mind. Myth stops being pre-scientific and starts being a description of the unrendered.
+
+The rule runs both ways. Read the quantum world as the imaginary world, and physics stops being a separate discipline and becomes the most recent language in a very old conversation.
+
+Baskaboo is probably not the first to notice this. It states it as a working instrument: **not only does the substitution connect philosophy, psychology, mythology and theology to contemporary science — it makes each of them easier to understand.**
+
+### And the objection cannot be answered by etymology alone
+
+Because a word's history says nothing about what the thing does. So here is what checking produced.
 
 Baskaboo had already placed two things in the bridge position, at different times and for different reasons:
 

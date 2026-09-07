@@ -134,6 +134,10 @@ Laram  −H²    Quadrant III   information inverted at the squared level — re
 
 ---
 
+<img width="2106" height="2481" alt="The Universe as a complex number" src="https://github.com/user-attachments/assets/250cd745-41f9-43a2-bc41-5b84f9971214" />
+
+---
+
 
 # Why We Cannot See the Four Voices
 

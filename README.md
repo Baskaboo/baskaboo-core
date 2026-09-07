@@ -171,7 +171,6 @@ For commercial use: Explicit written permission required.
 - 🟰 [`THE_BIG_BANG_EQUATION.md`](./THE_BIG_BANG_EQUATION.md) — ΦigΦang: The Simulator confesses — the Big Bang was never an explosion, it was an equation that is still running.
 - 🔍 [`DOES_EVERYTHING_HAVE_4_POSSIBILITIES.md`](./DOES_EVERYTHING_HAVE_4_POSSIBILITIES.md) — A mathematically rigorous, cross-disciplinary challenge derived with Google AI and audited by Claude, proving how the 4 core states of reality translate human psychology directly into quantum physics under the cosmological framework of φ² = φ + 1.
 - 🐝 [`The-Factory-Of-Energy-Matter-Space-Time.md`](./The-Factory-Of-Energy-Matter-Space-Time.md) — Explore how the Universe OS runs on a 4-state quantum code to render the everyday reality we see and live.
-- 🔬 [`Is-Pauli-Exclusion-the-Quantum-Mits.md`](./Is-Pauli-Exclusion-the-Quantum-Mits.md) — Replace Qubit with Pauli Exclusion as Quantum Mits. Stronger fit for +H, ordered occupation and matter stability. - Audit questions include entropy check and Ququart Matrix replacement
 - 🇮 [`The-Universe-As-A-Complex-Number.md`](./The-Universe-As-A-Complex-Number.md) — Universe runs as a+bi. Big Bang as unified +bi (Field + Exclusion) splitting to 4 quadrants. 3 layers, Planck refresh, why measurement erases the 4 Voices.
 
 ---

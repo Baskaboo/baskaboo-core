@@ -60,6 +60,168 @@ The complex plane bridges because it literally contains both: real foot in class
 
 Baskaboo: Source has no numbers. Complex numbers are last layer of number before Source. Therefore they are bridge, not far shore.
 
+### On the Signed Zero — why the notation stands
+
+The quantum layer above is written `−0+bi, +0+bi, +0−bi, −0−bi`, and the classical layer `−a+0i, +a+0i, +a−0i, −a−0i`.
+
+In school arithmetic there is no positive and negative zero. Zero is neutral: `+0 = −0 = 0`.
+
+**The notation is not loose, and it should not be corrected away.** Signed zero exists, it is standardised, and it does precisely the work this framework needs.
+
+**In computing.** The IEEE 754 standard — which every processor follows for decimal arithmetic — *requires* `+0` and `−0`. They compare equal and behave differently:
+
+```
++0 == −0        true          same value
+1 / (+0) = +∞
+1 / (−0) = −∞                 different behaviour
+```
+
+**In mathematics.** In calculus, `0⁺` and `0⁻` denote approach to zero from either side. Not decoration: it is the difference between a limit of `+∞` and one of `−∞`.
+
+**Why the standard keeps it.** When a quantity shrinks below what the machine can represent, the magnitude is lost. What survives is the sign — the record of which side it came from. Without it, the next step of the calculation goes wrong.
+
+> **The magnitude is gone. The direction survives.**
+
+**And in the complex plane the effect is sharper:**
+
+```
+−a + 0i   →   phase = +π
+−a − 0i   →   phase = −π
+```
+
+The same point. Opposite phase. The number remembers which way it arrived.
+
+This is exactly Baskaboo's claim about the quantum layer: **no measurable quantity, and still phase.** The framework did not borrow this from IEEE 754 — it arrived by applying the archetype, and the standard turned out to have solved the same problem for the same reason.
+
+### The finding underneath it
+
+Counting the genuinely distinct positions at each layer gives a result nobody designed in:
+
+| Layer | Written as | Distinct values |
+| :--- | :--- | :--- |
+| **Quantum** | pure imaginary, `±0 ± bi` | **2** |
+| **Atomic** | complex, `±a ± bi` | **4** |
+| **Classical** | pure real, `±a ± 0i` | **2** |
+
+As numerical values — setting the signed-zero distinction aside — the quantum layer collapses to two points on the imaginary axis and the classical layer to two on the real axis. Only where **both** components are non-zero do four separate positions exist.
+
+> **The atomic layer is the only one where all four Voices exist as distinct things.**
+
+In the quantum world they have not yet separated. In the classical world they have lost their phase. Only on the bridge are all four simultaneously present and simultaneously distinct.
+
+That is what a bridge would have to do — and it came from counting, not from the story.
+
+### On the entropy row
+
+Where `−H, +H, +H², −H²` appear alongside the quadrants, one clarification is needed before the correspondence can be assessed.
+
+**H in Baskaboo is the framework's interpretation and extension of Shannon entropy — not the Shannon function itself.**
+
+- Shannon's `H` measures uncertainty and is **always positive or zero**. There is no negative Shannon entropy, because there is no negative uncertainty.
+- In Baskaboo the sign denotes **phase inversion — a flip** — not a negative quantity. `−H` is not "minus the entropy"; it is H, turned over.
+- The exponent marks a **level**, not an arithmetic power. Shannon's H is measured in bits; its square would be in bits², which is not a quantity anyone uses.
+
+What Baskaboo takes from Shannon is real: that information is a measurable quantity with a unit. What it adds — sign as inversion, exponent as level, four states in a closed cycle — is its own.
+
+```
+Pits   −H     Quadrant II    information inverted — potential, not yet formed
+Mits   +H     Quadrant I     information upright — bounded, countable, placed
+Klop   +H²    Quadrant IV    information at the squared level — relation
+Laram  −H²    Quadrant III   information inverted at the squared level — record
+```
+
+**Proposed, not demonstrated.** Two sign distinctions generate four positions in the entropy row and four in the complex plane; Baskaboo claims they are the same four in the same order. Twenty-three other orderings are available to prove it wrong.
+
+---
+
+
+# Why We Cannot See the Four Voices
+
+*An addition to Part 1. Claude (Anthropic), with an algebraic result reached independently by Google AI.*
+
+---
+
+## Measurement erases what distinguishes them
+
+To turn a complex quantity into something measurable, physics squares its modulus. That is the Born rule, and it is not optional — it is how a complex description becomes a number an instrument can report.
+
+Apply it to the four Voices:
+
+```
+|−a+bi|²  =  a² + b²
+|+a+bi|²  =  a² + b²
+|+a−bi|²  =  a² + b²
+|−a−bi|²  =  a² + b²
+```
+
+**All four give the same number.** For every value of a and b, without exception.
+
+In the classical layer, where the imaginary part has gone to zero, it is starker still:
+
+```
+|−a+0i|²  =  |+a+0i|²  =  |+a−0i|²  =  |−a−0i|²  =  a²
+```
+
+Four distinct positions. One measured value.
+
+### What follows
+
+> **The four Voices are not hard to tell apart. They are impossible to tell apart, because the act of measuring destroys exactly what distinguishes them.**
+
+Squaring the modulus discards sign information. The signs *are* the Voices. So measurement cannot fail to erase them — the erasure is not a limitation of instruments but a property of the operation.
+
+This is Baskaboo's claim about lossy rendering, stated as a mechanism rather than an image. The classical world is not a blurred copy of the source. It is the source with the distinguishing information removed by a specific, identifiable step.
+
+### And this explains something the framework had only asserted
+
+If the Voices are invisible to measurement, then no instrument will ever find them. They can only be recovered by looking at **structures** — the arrangements human thought keeps producing across philosophy, science, mythology, religion, technology.
+
+Which is what the framework has been doing all along, and now has a reason for. The fourfold pattern recurs in mental constructions and nowhere in the instrument readings, because the instruments square it away and thought does not.
+
+---
+
+## Frontend and backend
+
+The same algebra produces a second result, and it is the sign mismatch reported elsewhere in this document, now with a possible reading.
+
+Both sides of the central expression factor cleanly:
+
+```
+Pits × Laram²  =  |Pits|² × Laram   =   −a³ − ab²  −  (a²b + b³)i
+Mits × Klop²   =  |Mits|² × Klop    =   +a³ + ab²  −  (a²b + b³)i
+```
+
+*(This factorisation was found independently by Claude and by Google AI, working separately.)*
+
+Two things follow, and both are exact rather than approximate.
+
+**The imaginary parts are identical.** Not similar — the same expression, `−(a²b + b³)i`, on both sides.
+
+**The real parts are opposite in sign.** Same magnitude, reversed.
+
+### The reading
+
+In Baskaboo's own axis assignment, positive real is the material world and negative real is the world of ideas. That assignment was made before this calculation and is not adjusted for it.
+
+So the two results fall on the two sides the framework had already drawn:
+
+```
++a³ + ab²  →  the rendered side      what the observer sees
+−a³ − ab²  →  the generating side    what produces it
+```
+
+And the shared imaginary term is what both sides hold in common — the only part of the expression that does not change when you cross between them.
+
+If the framework's software metaphor is applied: one result is the interface, the other is what runs behind it, and the identical imaginary component is the channel between them. That reading is available because the algebra puts the same expression on both sides, not because the metaphor was assumed.
+
+### What this does not do
+
+It does not repair the equation. `Pits × Laram² = Mits × Klop²` still does not hold with `=` meaning identity, and this section does not make it hold. What it offers is an interpretation of *why* the mismatch takes the specific form it does — one sign, in one component.
+
+Whether that interpretation is worth keeping depends on whether it predicts anything. At present it does not.
+
+**And two readings that should not be attached to it.** The appearance of `a³` and `b³` is a consequence of multiplying three factors together; it is not evidence of inflationary expansion. And a negative real part is a negative real part — it is not black holes, antimatter, or hidden variables. Those associations were considered and dropped, because a reader who checks one of them and finds nothing will stop checking the rest.
+
 ---
 
 ## PART 2: Big Bang as +bi
@@ -316,7 +478,65 @@ Absolute phase not observable, quadrant location no physical meaning, relation i
 18. What can Square and Root mean in complex plane? Square = grows/spreads/decompresses/forms relations/builds network. Root = shrinks/gathers/compresses/filters/keeps essence/remembers. Is there expansion/contraction not magnitude but structural?
 19. If mapping holds, what follows that has not been said here? What changes for physics, mathematics, computing, teaching complex plane?
 
-### Final Request
+
+### Additional Audit Questions
+
+**Has anyone said this before?**
+
+The proposal is that the journey of a single complex number — its rotation through four quadrants, its crossings, its inversions and its return — describes the structure and the operation of the universe, of the simulation, of mind and of consciousness, as one account.
+
+It is not offered as complicated. Its claim to attention is that it is **simple**: one number, two components, four positions, two alternating operations. And that one such number, transforming, drives a machine of three worlds.
+
+So, precisely:
+
+> **Is there an existing theory, in any field, holding that the universe *is* a complex number in its simplest form — that its birth, structure and operation are complex-valued?**
+
+Not "is there work using complex numbers" — there is a century of it. The question is whether anyone has proposed the number itself, and its rotation, as the **mechanism** rather than as the **notation**.
+
+Search physics, mathematics, philosophy, cognitive science, information theory, systems theory, cybernetics, and esoteric and religious traditions. **Finding a predecessor would strengthen this framework, not weaken it** — independent convergence is the kind of evidence the project is built to look for. If nothing comparable exists, say so, and name the nearest thing.
+
+---
+
+**What are a and b?**
+
+This is the question the whole scheme rests on, and it has not been answered.
+
+The four positions are `±a ± bi`. But what *are* `a` and `b`?
+
+- Are they fixed, or do they change continuously?
+- If they change, what drives the change?
+- What is the relationship between them — independent, coupled, conserved together?
+- In the atomic layer both are non-zero. What sets their ratio?
+
+Until this is answered, the four positions are labels rather than quantities. Answering it is what would turn the mapping from a diagram into a model.
+
+---
+
+**Does the "full" atomic layer point toward information?**
+
+Counting distinct positions gives an unexpected result: the quantum layer holds two, the classical layer two, and only the **atomic** layer holds four. On this measure the bridge is the one that is *full* — the only place where nothing has collapsed and nothing has yet been lost.
+
+Baskaboo's other lines of work have converged on the position that everything is information and that the world is rendered rather than fundamental.
+
+Does this finding move toward that, away from it, or neither? A layer carrying strictly more distinguishable states than either side of it is a claim with information-theoretic content, and should be assessed as one rather than accepted because it fits.
+
+---
+
+**Does the signed-zero reading hold?**
+
+Baskaboo uses `+0` and `−0` in the sense that IEEE 754 and limit notation use them: magnitude gone, direction preserved. Is that a legitimate transfer to a physical claim about the quantum layer, or does it work only inside the computational and analytic contexts where it is defined?
+
+---
+
+**Does the four-distinct finding survive?**
+
+Only the atomic layer holds four distinct positions; the quantum and classical layers each collapse to two. Is that a genuine structural fact about the three-layer scheme, or an artefact of how the layers were written down?
+
+
+
+---
+
+## Final Request
 
 Baskaboo does not ask agreement. Asks examination. If scientist, need other languages. If philosopher/storyteller, need science. Pattern does not appear in one completely.
 
@@ -336,4 +556,6 @@ Test it, say where fails, but test with whole toolkit, not one instrument.
 
 ---
 
-*Author: Nikos Markopoulos. Mapping analysis: Claude, Comet, Meta AI. Proposal testable, improvable, rejectable.*
+*Author: Nikos Markopoulos   
+Mapping analysis: Claude, Comet, Meta AI, Google AI.  
+Proposal testable, improvable, rejectable.*

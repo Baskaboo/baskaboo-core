@@ -9,6 +9,47 @@ This is **synchronicity** – not coincidence, but the underlying pattern that c
 
 ---
 
+# What Baskaboo Seeks
+
+## The Universe as a Complex Number
+
+When Baskaboo identifies the universe with a complex number (`a + bi`), it makes a discovery:
+
+> **What we measure (`a`) is only half the story. The other half (`bi`) — the phase — is projected out of the classical world.**
+
+But the phase does not disappear. It scatters. Its fragments survive — not as physical quantities, but as **structural patterns in human mental constructions**: philosophy, mythology, religion, science, art, psychology, politics, economics.
+
+The constructions that endure across centuries and millennia carry these fragments. They are not random. They are the pieces that made it through.
+
+## The Four Projections
+
+When the complex universe projects into our world, the four quadrants become:
+
+-a+0i → +a+0i → +a-0i → -a-0i
+Pits Mits Klop Laram
+
+These are not just labels. They are **the four surviving signatures of the lost phase**.
+
+## What Baskaboo Seeks
+
+**Baskaboo seeks the fragments of the lost quantum phase — scattered across every surviving human mental construction — and maps them onto Pits, Mits, Klop, and Laram.**
+
+The Magic Match Table is the map of this reconstruction.
+
+## Full Derivation
+
+For the complete mathematical framework that grounds this reading of phase, scattering, and reconstruction, see:
+
+👉 [The Universe as a Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Universe-As-A-Complex-Number.md)
+
+---
+
+## In One Sentence
+
+> **Baskaboo does not invent. It recognises what already exists — the fragments of quantum phase scattered across human thought — and gives them a home.**
+
+---
+
 ## 🧠 What You'll Find Here
 
 This repository is a living map of the Baskaboo Universe. Below is the status of our research across different domains. Click the links to explore the active modules:

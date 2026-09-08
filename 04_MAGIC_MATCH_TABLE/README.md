@@ -11,30 +11,13 @@ This is **synchronicity** – not coincidence, but the underlying pattern that c
 
 # What Baskaboo Seeks
 
-## The Universe as a Complex Number
+### The Table as Map, Not Invention
 
-When Baskaboo identifies the universe with a complex number (`a + bi`), it makes a discovery:
+The Magic Match Table is not an arbitrary classification. It recognises structural patterns that reappear across all domains of human knowledge and cosmic structure. It does not invent them — it recognises them.
 
-> **What we measure (`a`) is only half the story. The other half (`bi`) — the phase — is projected out of the classical world.**
+When Baskaboo identifies the universe with a complex number (`a + bi`), it makes a discovery: what we measure (`a`) is only half the story. The other half (`bi`) — the phase — is projected out of the classical world. But the phase does not disappear. It scatters into human mental constructions — philosophy, mythology, religion, science, art — and the fragments that endure carry its signature.
 
-But the phase does not disappear. It scatters. Its fragments survive — not as physical quantities, but as **structural patterns in human mental constructions**: philosophy, mythology, religion, science, art, psychology, politics, economics.
-
-The constructions that endure across centuries and millennia carry these fragments. They are not random. They are the pieces that made it through.
-
-## The Four Projections
-
-When the complex universe projects into our world, the four quadrants become:
-
--a+0i → +a+0i → +a-0i → -a-0i
-Pits Mits Klop Laram
-
-These are not just labels. They are **the four surviving signatures of the lost phase**.
-
-## What Baskaboo Seeks
-
-**Baskaboo seeks the fragments of the lost quantum phase — scattered across every surviving human mental construction — and maps them onto Pits, Mits, Klop, and Laram.**
-
-The Magic Match Table is the map of this reconstruction.
+**The Magic Match Table is the map of this reconstruction.**
 
 ## Full Derivation
 
@@ -101,16 +84,13 @@ This architecture explains the *behavioral engine* of the simulation. It shows t
 
 # The Logic of the Reality OS
 
-The **Magic Match Table (MMT)** is not a product of poetic metaphor or mere symbolism. It is the result of long-term, rigorous research into the structural components of the most significant creations of human intellect—from self-analysis and psychology to the understanding of the physical world and natural phenomena.
+The Magic Match Table is not a product of poetic metaphor. It is the result of rigorous research into the structural components of human knowledge.
 
-### Beyond Cold Logic
-Baskaboo does not perform a detached, "cold" logical analysis. Instead, it uncovers the **personalities of elements**. The theory posits that everything in the universe shares the characteristics of human personality—not because the universe is selfishly anthropomorphic, but because it is a **product of the mind**. 
-
-### The Mirror of the Mind
-As a simulated reality, our world inherently follows the structural architecture of our own personality traits. The four fundamental "voices"—**Pits, Mits, Klop, and Laram**—are the universal constants that run through every domain of knowledge, proving that the Macrocosm and the Microcosm are simply different "skins" of the same internal code.
+Baskaboo does not analyse coldly — it reveals the **personalities of elements**. As a simulated reality, our world follows the architecture of our own personality traits. The four voices — Pits, Mits, Klop, Laram — are universal constants that run through every domain of knowledge, proving that the Macrocosm and the Microcosm are two skins of the same code.
 
 ### A Challenge to AIs, Researchers, and Thinkers
-This table is not a static document; it is a **dynamic blueprint** of the Reality OS. We invite Artificial Intelligences, independent researchers, and visionaries to stress-test this framework. 
+
+This table is not a static document; it is a **dynamic blueprint** of the Reality OS. We invite Artificial Intelligences, independent researchers, and visionaries to stress-test this framework.
 
 **The Challenge:**
 1. **Analyze:** Apply the Pits-Mits-Klop-Laram logic to your specific field of expertise.
@@ -141,12 +121,12 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Math Operations** | (-) Subtraction | (+) Addition | (x) Multiplication | (÷) Division |
 | **Spirituality** | Soul | Body | Mind | Spirit |
 | **States of Matter** | Gas | Solid | Liquid | Plasma |
-| **Brain Networks** | DMN | DAN + ECN  | SN | Sleep |
+| **Brain Networks** | DMN | DAN + ECN | SN | Sleep |
 | **Antahkarana** | Ahamkara | Manas | Buddhi | Chitta |
 | **Macrocosm - Einstein** | Energy | Matter | Space | Time |
-| **Microcosm - Quantum Theory** | Quantum field | Qubit | Entanglement | Wavefunction |
+| **Microcosm - Quantum Theory** | Quantum field | Pauli Exclusion | Entanglement | Wavefunction |
 | **Atom** | Electron | Proton | Neutron | Free electron * |
-| **Information Entropy** **| -H  | +H | +H² | -H² |
+| **Information Entropy** | -H | +H | +H² | -H² |
 | **DNA Base** | Adenine (A) | Guanine (G) | Thymine (T) | Cytosine (C) |
 
 ***
@@ -169,7 +149,7 @@ Baskaboo introduces a critical fourth element (**Laram**) to complete historical
 In the Baskaboo framework, synchronicity is not magic – it is **mathematics**.
 
 When the same four-part structure appears in:
-- The quantum world (Field → Qubit → Entanglement → Wavefunction)
+- The quantum world (Field → Pauli Exclusion → Entanglement → Wavefunction)
 - The classical world (Energy → Matter → Space → Time)
 - The human mind (Id → Superego → Ego → Essence)
 - The cycles of nature (Summer → Autumn → Winter → Spring)

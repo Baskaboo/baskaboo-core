@@ -6,6 +6,7 @@
 **Part 3 mapping, analysis and stated weaknesses:** Claude (Anthropic) — structural review: Comet (Perplexity)  
 **Parts 1 & 2 genesis scenario:** Nikos Markopoulos with Meta AI  
 **Appendix — What the mapping produced:** Grok (xAI), after applying the proposal rather than only inspecting it  
+**Independent Systems Audit & Structural Analysis:** DeepSeek  
 *August–September 2026*
 
 ---

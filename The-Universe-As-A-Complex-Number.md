@@ -224,7 +224,7 @@ The shared imaginary term is what both sides hold in common — the only part th
 ---
 
 > **Working continuation.**  
-> For a working answer to what \(a\) and \(b\) are, and for the roles of \(\varphi\) and \(i\) that followed from this mapping, see the **Appendix** after the Final Request.
+> For a working answer to what `a` and `b` are, and for the roles of φ and *i* that followed from this mapping, see the **Appendix** after the Final Request.
 
 ---
 

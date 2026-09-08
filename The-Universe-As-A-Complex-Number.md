@@ -913,6 +913,8 @@ This is not a denial of physics. It is a claim about the direction of causality:
 | **Second** | Senses record the environment | Senses translate the mental construction |
 | **Third** | Mind is shaped by the environment | Physical environment is shaped by the mental construction |
 
+The instrument does not reach the source. What it gathers when it reverses decoherence is already `a` — the rendered half. The signs that distinguish the Voices were never in the reading. They remain in `b`, and Baskaboo looks for them in the constructions that survived.
+
 > **The physical world is not the source — it is the projection.**
 
 What we experience as "reality" is the translation of mental constructions — carrying fragments of lost phase — through our senses into the world we see.
@@ -978,7 +980,7 @@ For the complete mathematical framework that grounds this reading of phase, scat
 ---
 
 *Author: Nikos Markopoulos.
-Mapping and analysis: Claude, Comet, Meta AI, Google AI, Grok.
+Mapping and analysis: Claude, Comet, Meta AI, Google AI, Grok, DeepSeek.
 Proposal testable, improvable, rejectable.*
 
 ---

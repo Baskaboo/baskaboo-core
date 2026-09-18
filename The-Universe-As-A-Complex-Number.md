@@ -449,7 +449,8 @@ Laram (−a−bi)  →  Pits  (−a+bi)     negate the imaginary part
 
 **A correction on the word "negate."** It means *invert the sign*, not *create* or *destroy*. In the first step the real part does not come into being — it already existed as `−a` and becomes `+a`. Everything below is a reading laid over a sign inversion.
 
-**And one fact from the diagram itself.** Pits and Mits both sit in the upper half; Klop and Laram both sit in the lower. The horizontal axis divides chaos from order. So the first transition happens **entirely inside chaos**, and the third **entirely inside order**. That is not interpretation added to the geometry — it is what the geometry shows.
+**And one fact from the diagram itself.** Pits and Mits both sit in the upper half; Klop and Laram both sit in the lower. The four half-axes are the interaction stations of the cycle: Flip/Chaos, Square/Matter, Flip Back/Order, and Root/Ideas. Therefore the first transition is governed by Flip/Chaos, the second by Square/Matter, the third by Flip Back/Order, and the fourth by Root/Ideas. This is the functional reading Baskaboo gives to the geometry.
+
 
 | Step | Operation | Reading |
 | :--- | :--- | :--- |
@@ -460,12 +461,14 @@ Laram (−a−bi)  →  Pits  (−a+bi)     negate the imaginary part
 
 **Flip and Flip-back are the same operation. Square and Root are the same operation.** The cycle is not four different moves; it is two moves, alternating.
 
-**What Square and Root actually do here.** Both cross the **horizontal axis** — the chaos/order boundary. Same motion, opposite directions, in different worlds:
+**What Square and Root actually do here.** Both act on the imaginary sign and occupy the two real-axis interaction stations: Square at `+a` and Root at `−a`. They are the same type of sign inversion, in opposite directions and with different Baskaboo functions:
 
 ```
-Square:  Mits → Klop      MATTER crosses from chaos into order
-Root:    Laram → Pits     IDEAS cross from order into chaos
+Square:  Mits → Klop      MATTER
+Root:    Laram → Pits     IDEAS
 ```
+Square carries the cycle from Mits toward Klop through Matter.
+Root carries the cycle from Laram toward Pits through Ideas.
 
 **They are not the arithmetic operations.** Squaring a first-quadrant number does not land it in the fourth; that was checked and it does not. In this diagram, both steps are performed by sign inversion of the imaginary part — complex conjugation. *(No contradiction with the central equation: the diagram fixes the four **values**; the squares appear only inside the equation. Two different things carry the same name.)*
 

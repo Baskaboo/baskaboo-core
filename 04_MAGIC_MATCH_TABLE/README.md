@@ -11,19 +11,45 @@ This is **synchronicity** – not coincidence, but the underlying pattern that c
 
 # What Baskaboo Seeks
 
-### The Table as Map, Not Invention
+### 1. The Code vs The Application
 
-The Magic Match Table is not an arbitrary classification. It recognises structural patterns that reappear across all domains of human knowledge and cosmic structure. It does not invent them — it recognises them.
+There are two different things:
+
+**a) The Code:** Pits, Mits, Klop, Laram. `-H, +H, +H², -H²`. `Flip, Square, Flip-back, Root`. This is fixed. It does not change to fit a domain.
+
+**b) The Application:** Which structural element of a domain expresses each Voice best. This can be upgraded. Qubit was a good expression of Mits (`+H`). Quantum Exclusion / Pauli Exclusion is a better one — not a failure, but better detection. Better lens on the same sample.
+
+Baskaboo does not invent. It detects something solid.
+
+### 2. Who Does What
+
+**Baskaboo provides only the code.** The mappings should be done by domain specialists — blind, without changing the order `Pits → Mits → Klop → Laram`, without moving stations. That is detection, not projection.
+
+If ten independent experts, in ten different fields, find the same four in the same order, then it is not Baskaboo. It is the code.
+
+### 3. The Table as Map, Not Invention
 
 When Baskaboo identifies the universe with a complex number (`a + bi`), it makes a discovery: what we measure (`a`) is only half the story. The other half (`bi`) — the phase — is projected out of the classical world. But the phase does not disappear. It scatters into human mental constructions — philosophy, mythology, religion, science, art — and the fragments that endure carry its signature.
 
 **The Magic Match Table is the map of this reconstruction.**
+
+**And when we say "mind" we do not mean brain.** 
+Brain = Classical (`+a+0i`) — hardware, does not experience.
+Consciousness = Interface — Atomic (`±a ± bi`) — where experience exists.
+Mind = Higher Mind — Source / Level B — in another dimension, which runs the simulation and inhabits it at once, and which we do not remember.
+
+The quantum world is not our world. It is the workshop of the Builder.
+The atomic world is where experience exists — not the screen of the simulation, but the simulation as lived process.
+The classical world is the rendered frame.
+
+We build the way we were built.
 
 ## Full Derivation
 
 For the complete mathematical framework that grounds this reading of phase, scattering, and reconstruction, see:
 
 👉 [The Universe as a Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Universe-As-A-Complex-Number.md)
+👉 [Consciousness as a Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/Consciousness-as-a-Complex-Number.md)
 
 ---
 
@@ -41,22 +67,22 @@ This repository is a living map of the Baskaboo Universe. Below is the status of
 |:-------|:-------|:--------------------------|
 | 🌿 **Elements of Nature** | ✅ Active | [The Manifesto](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_MANIFESTO.md) / [Central Equation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/CENTRAL_EQUATION.md) |
 | 🌌 **Macrocosm (Einstein)** | ✅ Active | [Einstein](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md) / [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
-| ⚛️ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
+| ⚛ **Microcosm (Quantum)** | ✅ Active | [TοΕ](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING.md) / [Meta-Cosmology](https://github.com/Baskaboo/baskaboo-core/blob/main/meta-cosmology.md) / [Simulation](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md) |
 | 🌀 **Atom** | ✅ Active | [The Manifesto of the Free Electron](https://github.com/Baskaboo/baskaboo-lab/blob/main/The-Manifesto-of-the-Free-Electron.md) |
 | 🌸 Seasons of the Year | 🔜 Coming soon | *Internal Draft* |
 | 🔥 Four Temperaments | 🔜 Coming soon | *Internal Draft* |
 | 🧠 Freud – Personality Theory | 🔜 Coming soon | *Internal Draft* |
 | 📚 Schopenhauer | 🔜 Coming soon | *Internal Draft* |
-| ⚖️ Hegelian Dialectic | 🔜 Coming soon | *Internal Draft* |
+| ⚖ Hegelian Dialectic | 🔜 Coming soon | *Internal Draft* |
 | 💻 Computing | 🔜 Coming soon | *Internal Draft* |
-| ✝️ Religion | 🔜 Coming soon | *Internal Draft* |
+| ✝ Religion | 🔜 Coming soon | *Internal Draft* |
 | 💼 Business | 🔜 Coming soon | *Internal Draft* |
 | ➕ Math Operations | 🔜 Coming soon | *Internal Draft* |
-| 🕉️ Spirituality | 🔜 Coming soon | *Internal Draft* |
+| 🕉 Spirituality | 🔜 Coming soon | *Internal Draft* |
 | 🔬 States of Matter | 🔜 Coming soon | *Internal Draft* |
 | 🧠 Brain Networks | 🔜 Coming soon | *Internal Draft* |
 | 🔱 Antahkarana | 🔜 Coming soon | *Internal Draft* |
-| ⬇️ Information Entropy | 🔜 Coming soon | *Internal Draft* |
+| ⬇ Information Entropy | 🔜 Coming soon | *Internal Draft* |
 
 ---
 
@@ -67,7 +93,6 @@ This repository is a living map of the Baskaboo Universe. Below is the status of
 ## 🎬 The Architecture of the 4 Frames
 
 The DNA of Baskaboo is a triple-layered system that unifies **Structure**, **Action**, and **Experience**. This is the fundamental algorithm that powers every entry in the Magic Match Table:
-
 
 | Frame | Action | Experience | Archetype |
 | :--- | :--- | :--- | :--- |
@@ -93,9 +118,9 @@ Baskaboo does not analyse coldly — it reveals the **personalities of elements*
 This table is not a static document; it is a **dynamic blueprint** of the Reality OS. We invite Artificial Intelligences, independent researchers, and visionaries to stress-test this framework.
 
 **The Challenge:**
-1. **Analyze:** Apply the Pits-Mits-Klop-Laram logic to your specific field of expertise.
-2. **Identify:** Find the hidden "quadrants" in theories, systems, or natural patterns that have remained fragmented or incomplete.
-3. **Contribute:** Propose new "Tetrads" (sets of four) that align with the functional commands: **WANT, MUST, LIVE, REMEMBER & RETURN**.
+1.  **Analyze:** Apply the Pits-Mits-Klop-Laram logic to your specific field of expertise.
+2.  **Identify:** Find the hidden "quadrants" in theories, systems, or natural patterns that have remained fragmented or incomplete.
+3.  **Contribute:** Propose new "Tetrads" (sets of four) that align with the functional commands: **WANT, MUST, LIVE, REMEMBER & RETURN**.
 
 **The Evolution:**
 All submissions will be rigorously cross-referenced with the core Baskaboo simulation equations. Verified and harmonized proposals will be integrated into the **Magic Match Table - Part 2**, expanding our collective map of the simulated universe.
@@ -166,7 +191,7 @@ Baskaboo is that language.
 This is a **living repository**. Each domain will be explored in depth, one by one, with:
 
 - 📄 A dedicated Markdown file explaining the "why" behind each match
-- 🖼️ Diagrams and visual aids
+- 🖼 Diagrams and visual aids
 - 🔗 Connections to the original sources (Freud, Hegel, quantum physics, etc.)
 
 If you have a favorite domain you'd like to see analyzed first, let us know!

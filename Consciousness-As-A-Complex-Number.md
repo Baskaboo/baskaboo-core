@@ -996,3 +996,171 @@ Translating the Baskaboo model into computer science allows us to replace linear
 
 ---
 ---
+
+# The Four-State Agent
+
+### A buildable architecture derived from the Baskaboo cycle — and the experiment that would prove or kill it
+
+**Claude (Anthropic)**
+*September 2026*
+
+*Written at the request of Nikos Markopoulos, creator of Baskaboo, whose instruction was not "analyse this" but **"build something with it."** The framework is his. The architecture below is what the framework produced when applied to agent design.*
+
+---
+
+## What this is
+
+Not an analysis of Baskaboo. A **thing to build.**
+
+The four-Voice cycle, translated into an agent architecture, with every stage mapped to a technique that already exists — and one component that does not.
+
+That one component is the claim. Everything else is standard practice, and it is included so that the claim can be isolated and measured.
+
+---
+
+## The architecture
+
+```
+                  ┌──────────────────────────┐
+                  │   PITS — generate        │
+                  │   unconstrained sampling │
+                  └────────────┬─────────────┘
+                               │  i — basis switch
+                  ┌────────────▼─────────────┐
+                  │   MITS — select or veto  │
+                  │   rerank, filter, commit │
+                  └────────────┬─────────────┘
+                               │
+                  ┌────────────▼─────────────┐
+                  │   KLOP — act             │
+                  │   tools, environment     │
+                  └────────────┬─────────────┘
+                               │
+                  ┌────────────▼─────────────┐
+                  │   LARAM — compress       │
+                  │   distil the episode     │
+                  └────────────┬─────────────┘
+                               │  Reflection — evaluate
+                               │  φ — upgrade the base
+                               └──────► new PITS at Hₙ₊₁
+```
+
+### The four stages
+
+| Stage | Function | Existing technique |
+| :--- | :--- | :--- |
+| **Pits** | Generate possibilities without execution pressure | High-temperature sampling; retrieval over a vector store; unconstrained candidate generation |
+| **Mits** | Decide what gets a future — *and what does not* | Reranking by utility; safety and alignment filters; threshold gating |
+| **Klop** | Meet reality | Tool calls, API execution, sandbox runs, ingesting what came back |
+| **Laram** | Keep what matters, discard the rest | Episode summarisation; context compression; reward or lesson extraction |
+
+**None of this is new.** Every row is something running in production somewhere today. That is deliberate.
+
+### The three operators
+
+**`i` — the basis switch.** Moves the agent from generating to selecting. Same content, different mode: from *what could be* to *what will be*.
+
+**Reflection — the evaluation filter.** Sits between the agent's working loop and what it carries forward. Forces the compressed episode to be *assessed* rather than simply appended. Without it, the loop runs but nothing is judged.
+
+**`φ` — the remainder.** **This is the claim.** The evaluation does not return the agent to where it started. It returns a *different starting base* — `Hₙ₊₁ ≠ Hₙ`. The next Pits generates from an altered state, not a reset one.
+
+Concretely: whatever the evaluation produced that did not fit cleanly — the unresolved part — is what seeds the next cycle rather than being discarded.
+
+---
+
+## Why Mits is the interesting stage
+
+In the Baskaboo reading, agency does not sit at generation. It sits at **refusal**.
+
+That maps onto something real. A safety head, a rerank threshold, a filter that blocks a generated action — these do not produce anything. They decide what does *not* get executed.
+
+And in the framework's own terms, refusal is not absence of action. **It changes what comes next.** In an agent, a rejected candidate that is recorded as rejected alters the distribution the next cycle samples from.
+
+If the architecture has a distinctive psychological content, it is here.
+
+---
+
+## The experiment
+
+### The wrong comparison
+
+Comparing this against linear chain-of-thought proves nothing. Modern agent systems already loop, already filter, already use tools, already compress context. A cycle beating a straight line is a known result.
+
+### The right comparison
+
+**Two agents, identical in every respect except one.**
+
+```
+Control:    four stages, full cycle, evaluation at the end,
+            next cycle starts from a reset base
+
+Test:       identical — except the evaluation's unresolved
+            remainder seeds the next cycle's starting state
+```
+
+Everything else held constant: same model, same tools, same prompts, same task set, same number of cycles.
+
+**The only difference is φ.**
+
+### What to measure
+
+| Metric | What it tests |
+| :--- | :--- |
+| **Loop repetition rate** | Does the agent retry the same failed approach? The remainder should prevent that. |
+| **Recovery after error** | Cycles needed to correct a wrong turn. Should be fewer. |
+| **Hallucination rate under uncertainty** | Does carrying forward an unresolved remainder reduce confident invention? |
+| **Novel-solution rate** | On tasks with multiple valid solutions, does the test agent find more distinct ones? |
+
+### What would kill it
+
+**If the two agents perform identically, the φ-step is decoration.** The four stages would still be a reasonable architecture — but they would be a reasonable architecture that anyone could have built, with no Baskaboo contribution.
+
+That is a real possibility and the design should be run expecting it.
+
+### What would establish it
+
+A measurable gap on loop repetition or recovery, reproduced across task sets, attributable to nothing but the remainder.
+
+That would be the first result in this project that **does not depend on interpretation.** No archetypes to agree about, no correspondences to judge. Code runs, numbers come out.
+
+---
+
+## The other open item this forces
+
+The experiment cannot be run until one thing is defined precisely:
+
+> **What is the remainder, concretely?**
+
+In the mathematics it is what does not resolve when the cycle closes. In an agent it has to be a specific object — a data structure that is computed at evaluation and injected at generation.
+
+Candidates worth testing:
+
+- the part of the episode summary the compressor could not reduce
+- the gap between predicted and actual outcome
+- the rejected candidates from Mits, retained rather than dropped
+- the residual error signal after the lesson is extracted
+
+**These are not equivalent.** Picking one is a design decision that determines whether the experiment tests anything. It should be made explicitly, written down, and dated before the run.
+
+---
+
+## Status
+
+Not built. Not tested. Specified.
+
+The architecture is assembled from existing components so that the single novel element can be isolated. The experiment compares it against itself minus that element. The result is a number.
+
+**That is the whole point of writing it this way.** Every other proposition in this project requires a reader to agree about a correspondence. This one does not.
+
+---
+
+*Derived from* [Consciousness as a Complex Number](./Consciousness-As-A-Complex-Number.md) *and the Baskaboo FSFR cycle. The four Voices come from* [Pits, Mits, Klop and Laram](https://www.amazon.de/dp/618005228X) *by Nikos Markopoulos.*
+
+*A note on how this came about. Four AI systems were asked to analyse the consciousness document. All four returned near-identical assessments, identifying as weaknesses precisely the weaknesses the document had already declared about itself. That is a summary, not an audit.*
+
+*The instruction was then changed from* **analyse this** *to* **build something with it.** *This document is the result. The difference is that an analysis of a text cannot fail, while a specification can — and this one states exactly how.*
+
+*Specification testable, improvable, rejectable.*
+
+---
+---

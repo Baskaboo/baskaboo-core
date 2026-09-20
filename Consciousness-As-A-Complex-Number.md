@@ -1164,3 +1164,52 @@ The architecture is assembled from existing components so that the single novel 
 
 ---
 ---
+
+
+<img width="1491" height="1219" alt="Baskaboo Reality OS" src="https://github.com/user-attachments/assets/2b8fa3a9-eb8d-4509-9811-d6f6c75a6aab" />
+
+
+# The Four-State Cycle
+
+## What this is
+
+A way of describing how something moves from **a possibility** to **a thing that happened** — and how what happened changes what becomes possible next.
+
+Four stages, in a fixed order, running as a loop:
+
+```
+PITS    generate, without judging
+MITS    decide what gets through, and what does not
+KLOP    act, and let reality answer
+LARAM   keep what matters, discard the rest
+```
+
+Then it starts again — but not from where it started before. Something from each turn carries into the next.
+
+---
+
+## Where it can be used
+
+**Making a decision.** Most people collapse the first two stages into one: they judge each idea as it arrives, and stop generating. Separating them means generating first, filtering second. The filter works better when it has more to work with.
+
+**Managing a team.** The four stages are four different jobs, and most meetings try to do all four at once. Brainstorming and vetoing in the same hour produces neither. Running them as separate passes usually produces both.
+
+**Building something.** Generate options, cut to a few, run a small test, extract the lesson. The value is in the fourth stage, which is the one most often skipped — the project moves on before anyone writes down what was learned.
+
+**Dealing with a difficult state of mind.** The most useful distinction here is that **a thought appearing is not a choice.** You did not select it. What you can select is whether it gets acted on. That separation — between what shows up and what you do with it — is where the usable freedom is.
+
+**Reading your own attention.** Notice what you stop on. Attention is not passive: what you return to repeatedly becomes what comes to mind more easily next time. The feed you scroll works this way, and so does the one in your head.
+
+---
+
+## The one idea underneath
+
+You do not choose which thoughts arrive.
+
+**You choose which ones get a future.**
+
+---
+
+*This is one application of a larger framework. The coordinates on the cards — `-a + bi` and the rest — come from mapping the same four stages onto the complex plane, which is set out in the full documents. They are not needed to use the cycle.*
+
+

@@ -9,7 +9,8 @@ with Google AI, Perplexity, and Claude (Anthropic)
 
 ---
 
-<img width="1712" height="1152" alt="Consciousness-As-A-Complex-Number" src="https://github.com/user-attachments/assets/c8008848-07b2-4a1c-87cf-8c54072eda72" />
+<img width="1264" height="1568" alt="Consciousness-As-A-Complex-Number 2" src="https://github.com/user-attachments/assets/a0601419-6dee-4fd9-928e-487d2233fa9d" />
+
 
 ---
 

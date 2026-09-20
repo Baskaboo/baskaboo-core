@@ -11,6 +11,9 @@ with Google AI, Perplexity, and Claude (Anthropic)
 
 <img width="1264" height="1568" alt="Consciousness-As-A-Complex-Number 2" src="https://github.com/user-attachments/assets/a0601419-6dee-4fd9-928e-487d2233fa9d" />
 
+---
+
+> **From consciousness to self-awareness. See consciousness as a complex number and a strange thing happens: when it multiplies by its own reflection, the imaginary part vanishes — and what remains is self-awareness, a real number in a real world.**
 
 ---
 

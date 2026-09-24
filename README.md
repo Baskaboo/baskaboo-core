@@ -101,8 +101,7 @@ Patenting the mathematical logic, algorithms, or any resulting therapies/technol
 
 This work is published on arXiv: [arXiv:2609.XXXXX]
 
-For academic use: Licensed under CC BY-SA 4.0
-(Attribution required: "Baskaboo Framework — Nikos Markopoulos")
+For academic use, Attribution required: "Baskaboo Framework — Nikos Markopoulos"
 
 For commercial use: Explicit written permission required.
 

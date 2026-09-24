@@ -1,7 +1,5 @@
 # Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future
 
----
-
 > Have you ever wondered why TikTok or Instagram shows you exactly what hooks you, even if it’s something that makes you furious? According to the Baskaboo theory, we didn’t invent anything new with social media. We unconsciously copied the exact mechanism of our own brain. Our mind has its very own News Feed. Every single day, thousands of thoughts pass through our heads like an endless scroll.The trap? Your mind's algorithm doesn’t understand whether you love something or hate it. It only detects where you pause (Engagement).
 When you get stuck on a thought that causes anger, anxiety, or jealousy, your brain registers: “Oh, they are interested in this! Let’s show them more.” Consequently, your personal algorithm serves you even more negativity in the days to come.
 

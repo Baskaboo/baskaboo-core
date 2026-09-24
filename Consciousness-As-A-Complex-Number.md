@@ -1,11 +1,18 @@
-# Consciousness as a Complex Number
+# Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future
 
-### What happens when the Baskaboo cycle is applied to thought, without changing its rules
+---
 
-**Nikos Markopoulos** — creator of Baskaboo  
-with Google AI, Perplexity, and Claude (Anthropic)  
-**Internal consistency lock & two-level geometry:** Grok (xAI)  
-*19 September 2026 · lock pass 20 September 2026*
+> Have you ever wondered why TikTok or Instagram shows you exactly what hooks you, even if it’s something that makes you furious? According to the Baskaboo theory, we didn’t invent anything new with social media. We unconsciously copied the exact mechanism of our own brain. Our mind has its very own News Feed. Every single day, thousands of thoughts pass through our heads like an endless scroll.The trap? Your mind's algorithm doesn’t understand whether you love something or hate it. It only detects where you pause (Engagement).
+When you get stuck on a thought that causes anger, anxiety, or jealousy, your brain registers: “Oh, they are interested in this! Let’s show them more.” Consequently, your personal algorithm serves you even more negativity in the days to come.
+
+> How to hack your mind's algorithm in 3 simple steps:
+
+> ⏩ "Scroll Away" from negativity: When a dark thought pops up, don’t analyze it. Don't "like" it. Just watch it pass by and keep scrolling. If you don’t grant it engagement time, the algorithm will stop recommending it.
+
+> 👍 Give a "Like & Share" to the positives: Intentionally dwell on beautiful, exciting thoughts and moments of gratitude. Show your mind what you actually want to see on your "menu."
+
+> 💻 Be the Developer: You might not have chosen how your life's initial feed started, but with your daily choices, you are the one designing tomorrow's Feed.
+Stop gifting your attention to what brings you down. Change your algorithm, change your life! ⚡ 
 
 ---
 
@@ -14,6 +21,15 @@ with Google AI, Perplexity, and Claude (Anthropic)
 ---
 
 > **From consciousness to self-awareness. See consciousness as a complex number and a strange thing happens: when it multiplies by its own reflection, the imaginary part vanishes — and what remains is self-awareness, a real number in a real world.**
+
+---
+
+## What happens when the Baskaboo cycle is applied to thought, without changing its rules
+
+**Nikos Markopoulos** — creator of Baskaboo  
+with Google AI, Perplexity, and Claude (Anthropic)  
+**Internal consistency lock & two-level geometry:** Grok (xAI)  
+*19 September 2026 · lock pass 20 September 2026*
 
 ---
 

@@ -75,9 +75,9 @@ to experience wholeness, synchronicity, and clarity.
 Baskaboo reveals that reality is not a continuous flow, but a cinematic loop of 4 frames, driven by a fundamental algorithmic code:
 
 *   **WANT** flips...
-*   **MUST** multiplies...
+*   **MUST** squares...
 *   **LIVE** flips back...
-*   **REMEMBER & RETURN** divides.
+*   **REMEMBER & RETURN** roots.
 
 This is the pulse that runs our consciousness and the physical world alike. It is the bridge where the **Quantum Simulator** meets the **Human Experience**.
 
@@ -98,8 +98,6 @@ Patenting the mathematical logic, algorithms, or any resulting therapies/technol
 
 
 © 2026 Nikos Markopoulos. All rights reserved.
-
-This work is published on arXiv: [arXiv:2609.XXXXX]
 
 For academic use, Attribution required: "Baskaboo Framework — Nikos Markopoulos"
 

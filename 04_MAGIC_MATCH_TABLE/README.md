@@ -153,6 +153,8 @@ All submissions will be rigorously cross-referenced with the core Baskaboo simul
 | **Atom** | Electron | Proton | Neutron | Free electron * |
 | **Information Entropy** | -H | +H | +H² | -H² |
 | **DNA Base** | Adenine (A) | Guanine (G) | Thymine (T) | Cytosine (C) |
+| **Complex Number** | -a +bi | +a +bi | +a -bi | -a -bi |
+| **Aristotle's Qualities** | Hot + Dry | Cold + Dry | Cold + Wet | Hot + Wet |
 
 ***
 

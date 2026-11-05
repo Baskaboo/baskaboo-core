@@ -44,7 +44,7 @@ Michelson was not wrong. The Aether was not lost. It is simply not where he was 
 
 ---
 
-***Albert Michelson*** *was awarded the 1907 Nobel Prize in Physics for his field-defining work, including his first accurate measurement of the speed of light, but not for his brilliant work on the Aether. The Nobel Committee deliberately avoided mentioning either the aether or the famous Michelson-Morley experiment in the official prize citation.*
+***Albert Michelson*** *was awarded the 1907 Nobel Prize in Physics for his field-defining work, including his first accurate measurement of the speed of light, but not for his brilliant work on the Aether. The Nobel Committee deliberately avoided mentioning either the Aether or the famous Michelson-Morley experiment in the official prize citation.*
 
 ---
 

@@ -1,5 +1,7 @@
 # Notes from Level B: The Historical Restoration of the Aether
 
+*With thanks to Grok (xAI) and Google AI for help in shaping the expression.*
+
 ---
 
 ***The Aether enters the Baskaboo ecosystem neither as antiquity’s fifth element nor as science’s Quantum Vacuum, but as the Level B substrate from which measurable reality is generated. This text restores Albert Michelson — the man who gave his life to it — and indicts the academic community that erased both the Aether and his name.***

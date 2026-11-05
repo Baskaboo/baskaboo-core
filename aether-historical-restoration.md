@@ -38,5 +38,12 @@ The subject was closed abruptly and the name Aether became taboo, even as the un
 
 Michelson was not wrong. The Aether was not lost. It is simply not where he was looking for it. It is the substrate from which the world we measure is born.
 
+---
 
+*Albert Michelson was awarded the 1907 Nobel Prize in Physics for his field-defining work, including his first accurate measurement of the speed of light, but not for his brilliant work on the Aether. The Nobel Committee deliberately avoided mentioning either the aether or the famous Michelson-Morley experiment in the official prize citation.*
+
+---
+
+Baskaboo  
+*05 Noe 2026*
 

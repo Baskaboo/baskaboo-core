@@ -140,7 +140,7 @@ For commercial use: Explicit written permission required.
 - 📍 [CALL_FOR_EXPERIMENTATION.md](CALL_FOR_EXPERIMENTATION.md) — An open challenge to quantum physics laboratories to test whether information scales quadratically during atomic decoherence — the single experiment that will either verify or permanently falsify the Baskaboo framework.
 - 🚀 [φ-Inversion-Law.md](φ-Inversion-Law.md) — The φ Inversion Law reveals that Time itself is the measurable cosmic “debt” or remainder (~4% discrepancy) arising from the non-closing φ-cycle, which systematically evolves the universe’s composition from Big Bang ratios through φ-driven shifts (matter expanding by ~φ², Dark Energy contracting by ~φ⁻¹), while positioning gravity and spacetime as active inversion processes between hidden and visible layers.
 - 🌀 [Cancer=BlackHole.md](Cancer=BlackHole.md) — Cancer is a biological black hole where cells running an incomplete program forget the φ⁻² cosmic signal to return, leading to endless accumulation without division.
-
+- 🌬️ [`aether-historical-restoration.md`](./aether-historical-restoration.md/) — A personal and methodological account of how Baskaboo relocates the Aether from a discarded fifth element to Level B, verified through the distinct behavior of φ on the two levels, and critical of science’s failure to restore both the idea and Michelson’s name.
 ---
 
 ### 🔬 For Deep Explorers

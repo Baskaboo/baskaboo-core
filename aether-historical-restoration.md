@@ -32,6 +32,11 @@ Baskaboo thus places the Aether in the space of the atomic/quantum world — not
 
 The Platonic solids say something similar. Four of them correspond to the four elements. The fifth, the dodecahedron, does not belong to the same series. Like the Aether, it is not one more element inside the rendering, but the geometric substrate from which the others arise. In the Magic Match it sits beside the Aether, at Level B — not as a fifth voice, but as the space within which the four voices operate.
 
-Modern science has brought the idea of a substrate back through the back door, naming it the Quantum Vacuum. It has not, however, restored either the idea of the Aether, or its name, or Michelson’s work. Baskaboo is critical of the scientific community both for the disappearance of the Aether 120 years ago and for today’s refusal to restore the truth and the name of the man who dedicated his life to it.
+Modern science has brought the idea of a substrate back through the back door, naming it the Quantum Vacuum. As Nobel laureate Robert Laughlin observed: “The irony is that Einstein’s most creative work, the general theory of relativity, should boil down to conceptualizing space as a medium when his entire scientific enterprise was premised on denying the existence of such a medium… The word ‘ether’ has extremely negative connotations in theoretical physics because of its past association with opposition to relativity. This is unfortunate because, stripped of these connotations, it rather nicely captures the way most physicists actually think about the vacuum.”
+
+The subject was closed abruptly and the name Aether became taboo, even as the underlying idea of a substrate returned under another name. Baskaboo is critical of that abrupt closure and of the refusal to restore either the idea or the name of the man who devoted his life to it.
 
 Michelson was not wrong. The Aether was not lost. It is simply not where he was looking for it. It is the substrate from which the world we measure is born.
+
+
+

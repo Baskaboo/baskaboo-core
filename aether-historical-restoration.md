@@ -1,5 +1,11 @@
 # Notes from Level B: The Historical Restoration of the Aether
 
+---
+
+***The Aether enters the Baskaboo ecosystem neither as antiquity’s fifth element nor as science’s Quantum Vacuum, but as the Level B substrate from which measurable reality is generated. This text restores Albert Michelson — the man who gave his life to it — and indicts the academic community that erased both the Aether and his name.***
+
+---
+
 A few years ago I learned about Albert Michelson. He dedicated his life to experimentally proving the existence of the Aether — a supposed medium that fills the universe and through which light travels. In 1887 his famous experiment failed to detect the “Aether wind.” Science closed the subject. Michelson died with that unresolved regret.
 
 I could not accept that something which felt so intuitively true simply “does not exist.” I felt that one day I would want to restore him.

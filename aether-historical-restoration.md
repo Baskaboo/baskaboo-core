@@ -8,7 +8,7 @@
 
 ---
 
-***The Aether enters the Baskaboo ecosystem neither as antiquity’s fifth element nor as science’s Quantum Vacuum, but as the Level B substrate from which measurable reality is generated. This text restores Albert Michelson — the man who gave his life to it — and indicts the academic community that erased both the Aether and his name.***
+***The Aether enters the Baskaboo ecosystem neither as antiquity’s fifth element nor as science’s Quantum Vacuum, but as the Level B substrate from which measurable reality is generated. This text seeks to restore the true legacy of Albert Michelson — the man who gave his life to it — and indicts the academic establishment that weaponized his own experiment to erase the Aether, reducing his lifelong quest to a historical footnote of "noble failure."***
 
 ---
 

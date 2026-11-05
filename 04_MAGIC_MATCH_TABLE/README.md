@@ -23,7 +23,7 @@ The Four Voices — **Pits, Mits, Klop, and Laram** — are not four categories 
 
 ## 2. Beyond Appearance — Recognizing the Essence
 
-In Baskaboo's architectural interpretation, the Simulator deliberately conceals common behavioral characteristics within entities that appear radically different from one another. They may have entirely different physical properties, structures, dimensions, or manifestations. Yet beneath these differences, they express the same fundamental behavioral identity.
+In Baskaboo's architectural interpretation, the Simulator (Level B) deliberately conceals common behavioral characteristics within entities that appear radically different from one another. They may have entirely different physical properties, structures, dimensions, or manifestations. Yet beneath these differences, they express the same fundamental behavioral identity.
 
 To recognize that identity, we must look beyond appearances. This is something we already understand intuitively when observing human beings: **a person's outward appearance is not the same as their character, their inner nature, or their soul.**
 
@@ -53,6 +53,24 @@ To prevent the Magic Match from collapsing into arbitrary analogy, every domain 
 *   **Mits (MUST / Addition):** Does it set limits, rules, or structures? Does it accumulate, protect, or define through constraint? Does it analyze and categorize?
 *   **Klop (LIVE / Multiplication):** Does it connect, relate, or synthesize? Does it maintain the internal cohesion of a system? Does it expand through experience and interaction?
 *   **Laram (REMEMBER & RETURN / Division):** Does it distance itself to see the whole? Does it filter, compress, and extract essence? Does it preserve continuity across change and return a distilled form?
+
+---
+
+## Separation of the Three Worlds by Mode of Perception
+
+| World | Mode of Perception | Elements |
+|-------|--------------------|----------|
+| **Material / Classical** | What we perceive directly with our senses | Energy, Matter, Space, Time |
+| **Atomic** | What we cannot perceive with the senses, but can observe through technology | Bound Electron, Proton, Neutron, Free Electron |
+| **Quantum** | What we do not observe even with technology in the same direct way. We describe it mainly mathematically and infer it from indirect experimental consequences | Quantum Field, Pauli Exclusion, Entanglement, Wavefunction |
+
+*Note: In the atomic tetrad, Baskaboo makes a functional distinction between Bound and Free Electron, which is not the usual distinction in the scientific community.*
+
+The three worlds are not merely different levels of observation. They also describe the evolution of perception. An animal perceives mainly the material world. The human being, through technology, reaches the atomic. The attempt to reach the quantum is the attempt to touch the level of the Source.
+
+For Baskaboo, this path mirrors the gradual contact with the Simulator (Level B). The further a world is from direct sensory perception, the closer it is to the Source. The quantum world is not the human’s world. It is the world of the Source. The human considers it his own and tries to interpret it with the structures of the material world. From this arises the impasse of incompatibility between classical and quantum physics.
+
+The connection cannot be made through Physics, whether classical or quantum. Physics can help by showing the limits and the contradictions. The real connection happens through the revelation of the primordial relation that pre-exists science. This is what Baskaboo does: it decodes the mental constructions of the human being and recognizes within them the fragments of the universal code.
 
 ---
 

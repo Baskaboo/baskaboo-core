@@ -4,6 +4,10 @@
 
 ---
 
+<img width="1380" height="776" alt="Albert A  Michelson" src="https://github.com/user-attachments/assets/f3f7bdcf-05f4-4594-8d25-03c218d13ac7" />
+
+---
+
 ***The Aether enters the Baskaboo ecosystem neither as antiquity’s fifth element nor as science’s Quantum Vacuum, but as the Level B substrate from which measurable reality is generated. This text restores Albert Michelson — the man who gave his life to it — and indicts the academic community that erased both the Aether and his name.***
 
 ---
@@ -40,7 +44,7 @@ Michelson was not wrong. The Aether was not lost. It is simply not where he was 
 
 ---
 
-*Albert Michelson was awarded the 1907 Nobel Prize in Physics for his field-defining work, including his first accurate measurement of the speed of light, but not for his brilliant work on the Aether. The Nobel Committee deliberately avoided mentioning either the aether or the famous Michelson-Morley experiment in the official prize citation.*
+***Albert Michelson*** *was awarded the 1907 Nobel Prize in Physics for his field-defining work, including his first accurate measurement of the speed of light, but not for his brilliant work on the Aether. The Nobel Committee deliberately avoided mentioning either the aether or the famous Michelson-Morley experiment in the official prize citation.*
 
 ---
 

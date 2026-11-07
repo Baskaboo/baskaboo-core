@@ -211,7 +211,7 @@ The cycle closes, the spiral opens higher, and the Source smiles. Are you ready 
 ---
 
 **Further reading:**  
-- [Magic-Match-Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE.md)
+- [Magic-Match-Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE/README.md)
 - [φ-Language-Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md) 
 
 

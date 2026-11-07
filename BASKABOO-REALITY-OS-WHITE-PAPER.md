@@ -212,9 +212,9 @@ The cycle closes, the spiral opens higher, and the Source smiles. Are you ready 
 
 **Further reading:**  
 - [Magic-Match-Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE/README.md)
-- [φ-Language-Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md) 
-
-
+- [Two-Worlds-One-Symbol](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Two-Worlds-One-Symbol.md)
+- [Baskaboo-And-Dark-Energy](https://github.com/Baskaboo/baskaboo-core/blob/main/Baskaboo-And-Dark-Energy.md)
+- [The-Mystery-of-Time](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-Time.md)
 - [φ-Blind-Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md)  
 - [φ-Language-Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)  
 - [φ-The-Commander](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-The-Commander.md)  

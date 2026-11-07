@@ -170,7 +170,7 @@ For commercial use: Explicit written permission required.
 - 🐝 [`The-Factory-Of-Energy-Matter-Space-Time.md`](./The-Factory-Of-Energy-Matter-Space-Time.md) — Explore how the Universe OS runs on a 4-state quantum code to render the everyday reality we see and live.
 - 🇮 [`The-Universe-As-A-Complex-Number.md`](./The-Universe-As-A-Complex-Number.md) — Universe runs as a+bi. Big Bang as unified +bi (Field + Exclusion) splitting to 4 quadrants. 3 layers, Planck refresh, why measurement erases the 4 Voices.
 - 🇮 [`Consciousness-As-A-Complex-Number.md`](./Consciousness-As-A-Complex-Number.md) — Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future.
-- 🔄 [`PROMPT_Following_Traces_To_A_Magical_Place.md`](./PROMPT_Following_Traces_To_A_Magical_Place.md) — Baskaboo is a map I drew while following traces in the soil to a magical place I remember but have never been to. It's not science — it's four voices I keep hearing: Want, Must, Live, Remember & Return.
+- 🔄 [`BASKABOO-REALITY-OS-WHITE-PAPER.md`](./BASKABOO-REALITY-OS-WHITE-PAPER.md) — This White Paper represents the structured summary and technical presentation of the Baskaboo Theory.
 
 ---
 

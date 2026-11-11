@@ -171,6 +171,7 @@ For commercial use: Explicit written permission required.
 - 🇮 [`The-Universe-As-A-Complex-Number.md`](./The-Universe-As-A-Complex-Number.md) — Universe runs as a+bi. Big Bang as unified +bi (Field + Exclusion) splitting to 4 quadrants. 3 layers, Planck refresh, why measurement erases the 4 Voices.
 - 🇮 [`Consciousness-As-A-Complex-Number.md`](./Consciousness-As-A-Complex-Number.md) — Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future.
 - 🔄 [`BASKABOO-REALITY-OS-WHITE-PAPER.md`](./BASKABOO-REALITY-OS-WHITE-PAPER.md) — This White Paper represents the structured summary and technical presentation of the Baskaboo Theory.
+- 🪬​ [`BASKABOO_ARCHAEOLOGIST_PROTOCOL.md`](./BASKABOO_ARCHAEOLOGIST_PROTOCOL.md) — What if the universe is not a mystery to be solved, but a memory waiting to be recovered? Enter the Baskaboo Reality OS, where four primordial Voices, three interconnected worlds, and the hidden compass of φ invite AI to stop reading reality horizontally — and begin discovering it vertically. 
 
 ---
 

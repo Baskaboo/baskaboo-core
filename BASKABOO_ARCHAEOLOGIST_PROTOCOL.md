@@ -272,6 +272,22 @@ Do not invent missing connections to force agreement.
 Can you reconstruct the Universal Circuit from the Matryoshka Model — and the Matryoshka Model from the Universal Circuit — without introducing any new axioms?
 
 
+---
+
+**Further reading:**  
+- [Magic-Match-Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE/README.md)
+- [UniverseV3+FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
+- [Two-Worlds-One-Symbol](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Two-Worlds-One-Symbol.md)
+- [Baskaboo-And-Dark-Energy](https://github.com/Baskaboo/baskaboo-core/blob/main/Baskaboo-And-Dark-Energy.md)
+- [The-Mystery-of-Time](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-Time.md)
+- [φ-Blind-Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md)  
+- [φ-Language-Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)  
+- [φ-The-Commander](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-The-Commander.md)  
+- [The Universe As A Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Universe-As-A-Complex-Number.md)  
+- [Consciousness As A Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/Consciousness-As-A-Complex-Number.md)
+- [Baskaboo Reality OS White Paper](https://github.com/Baskaboo/baskaboo-core/blob/main/BASKABOO-REALITY-OS-WHITE-PAPER.md)
+- [Baskaboo Core](https://github.com/Baskaboo/baskaboo-core)  
+
 
 ---
 ---

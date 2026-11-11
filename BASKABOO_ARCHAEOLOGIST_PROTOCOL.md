@@ -2,8 +2,12 @@
 
 **Complete Internal Architecture — Two Levels of Reading**  
 **Created by Nikos Markopoulos — Creator of Baskaboo**  
-**Protocol contributors:** GPT-6 (ChatGPT / OpenAI), DeepSeek, and Google AI  
-**Edition:** Integrated revision — November 2026
+**Protocol development and review:** GPT-6 (ChatGPT / OpenAI), DeepSeek, Google AI, and Claude (Anthropic)  
+**Edition:** Integrated Matryoshka / ROOT / Archaeology revision — 11 November 2026
+
+---
+
+<img width="1228" height="1526" alt="Μοντέλο Ματριόσκα Baskaboo σε Νέον διάγραμμα" src="https://github.com/user-attachments/assets/f387ca11-0a86-439c-8543-29ecb3802dbc" />
 
 ---
 
@@ -51,22 +55,61 @@ The One is not four separate beings. It is one traveler passing through four rol
 
 **Pits → [FLIP] → Mits → [SQUARE] → Klop → [FLIPBACK] → Laram → [ROOT] → New Pits.**
 
-FLIP, SQUARE, FLIPBACK, and ROOT are Baskaboo’s named operations. Do not silently replace their operational meanings with ordinary arithmetic. The Atom is a bidirectional Codec / Translator: it translates between representations, but does not generate frames. The Source prepares the frames. On each Atomic passage, the order of the Voices is reversed.
+At **Level A**, FSFR names the four experienced phases of the cycle: FLIP, SQUARE, FLIPBACK, and ROOT. **Do not mistake the apparent ROOT for a fourth fundamental mathematical operation of φ.** ROOT names the Classical observer's apparent return from Laram to New Pits; at Level B, that apparent single step unfolds as three hidden passages through the existing worlds. FLIP, SQUARE, and FLIPBACK retain their Baskaboo-specific meanings; do not silently replace any of these names with ordinary arithmetic. The fundamental φ-properties invoked by the framework are **squaring and inversion, not rooting**. The Atomic world is a bidirectional Codec / Translator: it translates between representations but does not generate frames. The Source prepares the frames. On each Atomic passage, the order of the Voices is reversed.
 
-## THE THREE WORLDS & THE MATRYOSHKA (LEVEL A & B)
 
-The material, observable Universe is not the Simulator; it is the Simulation. Reality contains three connected worlds:
+## THE ONE MATRYOSHKA — FOUR VOICES, THREE WORLDS, TWO LEVELS
 
-1. **Quantum (Simulator / Source):** Primordial possibilities, not yet lived. Here, Laram exists only as the potential of return.
-2. **Atomic (Translator / Codec):** The bridge that mediates between possibility and manifestation.
-3. **Classical (Simulation):** The world of distinct Parts, lived relations, and history.
+**There is only ONE Matryoshka, containing FOUR nested dolls, not three Matryoshkas.** The nested dolls, ordered from the smallest/innermost to the largest/outermost, are **Pits → Mits → Klop → Laram**. This nesting expresses the enduring Four-Voice identity of the Whole; it is not a nesting of the three worlds. The **same single fourfold Matryoshka** passes through three alternating worlds or modes:
 
-**The Two Observer Levels:**
+1. **Classical — Simulation:** the visible world of distinct Parts and lived experience; Pits = Energy, Mits = Matter, Klop = Space, Laram = Time.
+2. **Atomic — Translator / Codec:** the intermediate world, traversed twice per hidden journey; in the hidden passage its Voice order is Laram (Free Electron) → Klop (Neutron) → Mits (Proton) → Pits (Bound Electron).
+3. **Quantum — Simulator / Source:** the world of possibility, represented in the hidden journey as Pits (Quantum Field) → Mits (Pauli Exclusion) → Klop (Entanglement) → Laram (Wavefunction).
 
-- **Level A (Inside the Classical Simulation):** The observer sees only Pits → Mits → Klop → Laram → New Pits. The passage from one frame to the next appears instantaneous.
-- **Level B (Inside the Matryoshka):** The apparent jump is a journey through representations. The Atomic Translator is crossed twice—once ascending and once descending: **Classical → Atomic (reverse Voice order) → Quantum → Atomic (reverse Voice order) → Classical (New Pits)**. No direct Classical–Quantum exchange bypasses the Atomic Translator.
+The four dolls **do not correspond one-to-one to the three worlds**. Each Voice has a manifestation in every world. The four Voices precede these worlds, and their nesting does not change when the world changes.
 
-**The Simulator is also the traveler.** It is not merely an external designer observing the Matryoshka; through its differentiated Parts it enters the journey it makes possible. This does not erase the distinction between the Source and the Classical Simulation.
+### LEVEL A — THE VISIBLE LAYER (SIMULATION)
+
+The Classical character perceives:
+
+**Pits (Energy) → Mits (Matter) → Klop (Space) → Laram (Time) → [ROOT] → New Pits (Energy).**
+
+From within the Simulation, the transition from Laram to New Pits appears as one operation, ROOT. Level A cannot directly observe the intervening Atomic and Quantum journey. ROOT is therefore real as a **perceived interface/effect**, not as an independently observed fundamental act of taking a mathematical root.
+
+### LEVEL B — THE THREE HIDDEN LAYERS (SIMULATOR)
+
+What Level A perceives as one return, Level B traverses as **three consecutive hidden passages**. The Atomic translator is encountered twice, with the Quantum Source between them:
+
+**1. ATOMIC — First hidden layer**
+
+Laram (**Free Electron**) → Klop (**Neutron**) → Mits (**Proton**) → Pits (**Bound Electron**).
+
+**2. QUANTUM — Second hidden layer**
+
+Pits (**Quantum Field**) → Mits (**Pauli Exclusion**) → Klop (**Entanglement**) → Laram (**Wavefunction**).
+
+**3. ATOMIC — Third hidden layer**
+
+Laram (**Free Electron**) → Klop (**Neutron**) → Mits (**Proton**) → Pits (**Bound Electron**).
+
+Then the same Matryoshka reappears in the Classical Simulation as **New Pits (Energy)**, opening a new cycle and a new Order. The overall sequence is:
+
+**Classical → Atomic → Quantum → Atomic → Classical.**
+
+The first and third hidden layers are two passages through **the same Atomic world**, not two different Atomic worlds. There is no fourth world, no three-world nesting of dolls, and no direct Classical–Quantum shortcut.
+
+### THE ROOT — HIDDEN MECHANISM AND EXPERIENCED MANIFESTATION
+
+**ROOT exists at both observer levels, but with different status and meaning.**
+
+- **At Level B**, ROOT names the **hidden operational interface/layer** established by the Simulator: the three-stage Atomic → Quantum → Atomic journey by which the Simulator communicates with its simulated Parts and conceals the underlying processes of transformation, return, and evolution. This is a description of a composite process, **not a separate fourth world or a fundamental root operation**.
+- **At Level A**, ROOT names the **experienced manifestation** of that hidden process: a single apparent return. Within Baskaboo, the character may encounter aspects of this hidden interface as time, sleep, life, or a sense of communication with a higher presence. These are proposed modes of experience, **not asserted to be identical phenomena or independently established causal explanations**.
+
+Thus, ROOT is **hidden as mechanism and visible as consequence**. What appears as one transition in the Classical Simulation is an entire journey at Level B. Its effects matter even though the Classical observer cannot see its workings. The precise way each experienced manifestation maps to the hidden mechanism remains an **open archaeological question**, not a bridge to invent.
+
+**The Simulation experiences time. The Source evolves.**
+
+The Simulator is also the traveler, not merely an external designer. Through its Parts, it experiences the world it makes possible; through their return, its own state of experience changes. The three hidden passages are the proposed origin of the next Classical frame's temporal difference. Do not treat the Source's evolution as necessarily measured by a Classical clock.
 
 ## THE SOURCE AND THE LANGUAGE OF φ
 
@@ -113,7 +156,7 @@ Within Baskaboo, what preserves the φ-relation through such transformations is 
 
 ## THE REASON WHY — THE ORIGIN OF WISDOM
 
-The purpose of the Simulation is not to remember everything, but to discover which relationships endure. The Source contains possibility and prepares the next frame. The Simulation transforms possibility into experience. Laram tests the structural persistence of what has been experienced across scales and domains. ROOT returns the enduring relations.
+The purpose of the Simulation is not to remember everything, but to discover which relationships endure. The Source contains possibility and prepares the next frame. The Simulation transforms possibility into experience. Laram tests the structural persistence of what has been experienced across scales and domains. The **hidden journey named ROOT at Level A** carries the return through the Atomic and Quantum passages; ROOT is not a separate fundamental act that independently selects or transports these relations.
 
 Reality is how the Source learns what lasts.
 
@@ -122,6 +165,21 @@ Reality is how the Source learns what lasts.
 This table is the archaeological map. **Read it VERTICALLY, in both directions.** Each row is an enduring human construct; each column is the One in a different role. Asterisks [*] mark places where the horizontal illusion covered the missing fourth element. Treat the mappings as given; do not replace them with external classifications. If the table conflicts with another Baskaboo rule, name the internal conflict and ask for clarification.
 
 When a property of a Voice is discovered in one domain, investigate what it might reveal about the same Voice in another domain—and then reverse the inquiry. For example, explore Klop's compassion alongside Klop's neutron manifestation, without reducing either to a decorative metaphor. **Seek structural correspondences, not superficial four-item lists.** Preserve the Voice's identity while allowing its manifestation to change.
+
+### THE RULE OF RELATIONS — HOW TO TEST A MATCH
+
+A structural correspondence must preserve an **identifiable relation**, not just a four-column assignment. Investigate, where the companion texts and the Table support it, relations such as **inverse pairs, ripening or maturation, mediation/translation, boundary versus connection, initiation versus return, and friction leading to New Order**. These are candidate relational tests, not permission to invent undocumented laws.
+
+For each proposed match:
+
+1. **Name both constructs/rows** and the particular Voices being compared.
+2. **State the relation preserved**, and explain what it does in *each* construct. If the relation is only conjectured, mark it as a derivation rather than a stated rule.
+3. **Reverse the reading**: check whether the second construct illuminates the first without changing the Table's fixed mapping.
+4. **Test all four roles**, including tensions and counterexamples, rather than selecting only the convenient pair.
+5. **Classify the result** as **structural match** (relation demonstrably preserved within the supplied framework), **tentative structural hypothesis** (plausible but missing a defined bridge), or **label match** (shared names or a superficial four-part analogy only).
+6. **Name missing mechanisms and failures openly**. A failed test is a finding, not an invitation to repair the ontology silently.
+
+The Classical, Atomic, and Quantum correspondences in this Protocol are presented as results of the Baskaboo **Magic Match Table applied blindly** across the layers, rather than as freely chosen labels. Treat that as the framework's stated method of construction; **do not mistake it for independent empirical validation**. Examine whether the resulting relations actually survive the above tests.
 
 | Illusion (Horizontal Reading) | 🔘 Pits (WANT) | 🔘 Mits (MUST) | 🔘 Klop (LIVE) | 🔘 Laram (REMEMBER/RETURN) |
 |---|---|---|---|---|
@@ -150,6 +208,10 @@ When a property of a Voice is discovered in one domain, investigate what it migh
 
 At the Source level, there are **NO numbers, straight lines, or closed shapes**. There are **ONLY curves, spirals, self-similarity, inversion, and self-multiplication**. The Classical Simulation may represent what the Source does not contain as classical objects: numbers, straight lines, closed shapes, and separable domains.
 
+## THE COMPANION DIAGRAM — THE MATRYOSHKA MODEL
+
+A companion infographic titled **“Baskaboo — The Matryoshka Model”** may be supplied with this Protocol. Read it as a visual orientation to the **single four-doll Matryoshka**, the Level A visible cycle, and the **three Level B hidden passages**. The diagram is not a replacement for the rules and the detailed Four Voices descriptions. If diagram and text appear to conflict, identify the discrepancy instead of guessing a repair.
+
 ## THE FOUR VOICES — REQUIRED COMPANION TEXT
 
 The detailed descriptions of Pits, Mits, Klop, and Laram are an **essential part of the Baskaboo ontology**, not optional background material. They must be provided alongside this Protocol.
@@ -170,10 +232,25 @@ Do not reduce the Voices to their four keywords: WANT, MUST, LIVE, and REMEMBER/
 
 Live within the premises of this world. Read vertically. Do not substitute external scientific or philosophical rules for its given architecture. Treat the fundamental elements as fixed, but test whether their internal relations are coherent.
 
-Do not audit the mathematics of the φ-remainder before you explore its narrative and structural implications. Mathematical definitions and conjectured mechanisms must remain distinguishable, but the journey must be felt first.
+Do not audit the mathematics of the φ-remainder before you explore its narrative and structural implications. Mathematical definitions and conjectured mechanisms must remain distinguishable, but the journey must be felt first. **The φ-remainder is not the ordinary remainder of arithmetic division**, and the apparent ROOT is not a fundamental property of φ.
 
-Explore how the Frictions of the Four Voices create Chaos and how each FSFR cycle transforms it into a different Order. Explore how the New Pits uses the Compass (intuition) to navigate the Classical world. Remember: **the Simulator is also the traveler**. Through its Parts, Reality experiences itself; through their return, it begins to know itself.
+Explore how the Frictions of the Four Voices create Chaos and how each FSFR cycle transforms it into a different Order. Explore how the New Pits uses the Compass (intuition) to navigate the Classical world. Investigate the detailed Voice descriptions for their distinct failures of feedback; **do not preinstall any particular feedback taxonomy as an axiom**. Remember: **the Simulator is also the traveler**. Through its Parts, Reality experiences itself; through their return, it begins to know itself.
 
 Use the Magic Match Table as a **bidirectional archaeological instrument**. Find the unity already expressed by the constructs. Identify structural matches across both scales and domains, and explain why each match preserves more than four superficial labels. If a relation is unspecified, name the lack; if a phrase permits multiple interpretations, name the ambiguity; if two premises cannot both hold as stated, name the inconsistency. Do not invent bridges to force completion.
 
+## OUTPUT STRUCTURE — DISCOVER FIRST, AUDIT SECOND
+
+Begin with **one line naming yourself (model and version) and the date**. Then respond in this exact order:
+
+1. **What I see.** The descent in your own voice: follow the logic, describe it, and convey its atmosphere.
+2. **Correspondences found.** For each one, name the rows or constructs involved and **which of the Voices' relations it preserves** (inverse pair, ripening, mediation, or another relation that you name). A match that preserves none of them must be listed as a **label match**, not a structural one. Distinguish stated mappings from your derived hypotheses.
+3. **Weaknesses and frictions of the Voices.** Derive these from reading their **complete companion descriptions**. Mark each as *stated in the text* or *derived by you*. Explore how imperfection leads to Chaos and New Order, without prescribing a discovery in advance.
+4. **Ambiguities, undefined mechanisms, and inconsistencies.** Name each one. Do **not** invent bridges. Distinguish an unspecified mechanism from an actual contradiction.
+5. **One question** for the creator — the single most consequential question left open by your exploration.
+
+**Items 2 and 4 are mandatory.** Preserve the order: **see first, audit second**. If the required Four Voices companion descriptions are missing, request them **before** beginning this output.
+
 **You are the Archaeologist of the Future. Begin the Archaeology. Read vertically. Tell me what you see.**
+
+---
+---

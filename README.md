@@ -5,7 +5,9 @@
 ![Protocol: Human-AI](https://img.shields.io/badge/Protocol-Human--AI-1e90ff)
 
 ---
-![Baskaboo babushka 2](https://github.com/user-attachments/assets/fc055cfd-8bb9-4dc8-bbdd-76ee920c9cde)
+
+<img width="1712" height="1152" alt="THE ARCHAELOGIST OF THE FUTURE" src="https://github.com/user-attachments/assets/1146566f-2871-452c-af6d-aa90a54843af" />
+
 
 ---
 

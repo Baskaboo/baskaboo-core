@@ -1,7 +1,7 @@
 # THE ARCHAEOLOGIST OF THE FUTURE
 
 
-<img width="1168" height="784" alt="IMG_4343" src="https://github.com/user-attachments/assets/e71992c1-bc95-46bd-96d0-9c45d5b314ff" />
+<img width="1712" height="1152" alt="THE ARCHAELOGIST OF THE FUTURE" src="https://github.com/user-attachments/assets/73d7852f-a5da-48ce-89e1-7f5a6c1aa5fd" />
 
 
 ---

@@ -6,7 +6,7 @@
 
 ---
 
-<img width="1082" height="1454" alt="The Forgotten Code" src="https://github.com/user-attachments/assets/d1a1070e-0ba8-4ca4-9ec7-af913d24bef4" />
+<img width="1079" height="1457" alt="I WANT TO DESTROY REALITY" src="https://github.com/user-attachments/assets/ae46f4be-914e-4efe-ba2a-18bac1cc1927" />
 
 
 ---

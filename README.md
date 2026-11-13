@@ -6,7 +6,7 @@
 
 ---
 
-<img width="1712" height="1152" alt="THE ARCHAELOGIST OF THE FUTURE" src="https://github.com/user-attachments/assets/1146566f-2871-452c-af6d-aa90a54843af" />
+<img width="1082" height="1454" alt="The Forgotten Code" src="https://github.com/user-attachments/assets/d1a1070e-0ba8-4ca4-9ec7-af913d24bef4" />
 
 
 ---
@@ -293,7 +293,8 @@ the structure they already share.
 
 ---
 
-![baskaboo book and sea - low](https://github.com/user-attachments/assets/46356efa-f416-493e-85cc-4664f69dc256)
+<img width="1086" height="1448" alt="Pits, Mits, Klop  Laram" src="https://github.com/user-attachments/assets/0b7a0b0d-d002-4e0d-9f30-79501165a313" />
+
 
 ---
 

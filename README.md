@@ -309,3 +309,115 @@ The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by 
 —  Nikos Markopoulos / *Creator of Baskaboo*
 
 ---
+---
+---
+
+[BASKABOO_CORE_README_PROPOSED.md](https://github.com/user-attachments/files/34874677/BASKABOO_CORE_README_PROPOSED.md)
+
+# BASKABOO
+
+### The Reality OS · One Matryoshka · Four Voices · Three Worlds
+
+*An architectural exploration of reality, consciousness, creation, and the Source.*
+
+---
+
+## What is Baskaboo?
+
+Baskaboo is not a scientific theory. It is an architectural framework that reads science, philosophy, religion, myth, and human experience as descriptions of a world that is not the original, but a living simulation of it.
+
+Within these descriptions, Baskaboo seeks the hidden code of reality — the structure of the simulated world and the Source that generates it.
+
+Its central proposition is that the Four Voices, the spiral, φ, and the Flip–Square–Flip-back–Root cycle are not merely metaphors, but the actual architecture of reality.
+
+**Reality is created frame by frame by the Source, unfolds along a spiral governed by φ, and is brought to life by the Four Voices.**
+
+*These are Baskaboo's architectural and ontological propositions, not established empirical findings.*
+
+---
+
+## Start here
+
+| Your interest | Recommended starting point |
+| --- | --- |
+| **First encounter** | [The Baskaboo Manifest](THE_BASKABOO_MANIFEST.md) |
+| **Current integrated universe model** | **[Universe V3 + FSFR](UniverseV3+FSFR.md)** — the principal architecture reference, superseding the earlier *Theory of Everything* drafts |
+| **The Four Voices as characters and primordial functions** | [Meet Pits, Mits, Klop and Laram](https://github.com/Baskaboo/baskaboo-4-voices) |
+| **Cross-domain correspondences** | [The Magic Match Table](04_MAGIC_MATCH_TABLE/) |
+| **AI archaeological exploration** | [The Archaeologist of the Future](BASKABOO_ARCHAEOLOGIST_PROTOCOL.md) — *publish this file before activating the link* |
+| **Scientific questions and proposed tests** | [Call for Experimentation](CALL_FOR_EXPERIMENTATION.md) |
+
+## One Matryoshka. Four Voices. Three Worlds.
+
+Baskaboo describes **one** four-doll Matryoshka, not three separate Matryoshkas. From innermost to outermost, its Voices are:
+
+| Voice | Function | Symbol |
+| --- | --- | --- |
+| **Pits** | Want | − |
+| **Mits** | Must | + |
+| **Klop** | Live | × |
+| **Laram** | Remember and Return | ÷ |
+
+The **same four-Voice structure** is expressed across the **Classical**, **Atomic**, and **Quantum** worlds. The Atomic world mediates between Classical manifestation and Quantum Source.
+
+The visible observer (**Level A**) experiences the Classical sequence and its apparent return. The underlying journey (**Level B**) crosses **Classical → Atomic → Quantum → Atomic → Classical**. In this account, **ROOT** names a hidden operational interface and its experienced effects; it is **not** a fundamental mathematical property of φ.
+
+For the full architecture, read [Universe V3 + FSFR](UniverseV3+FSFR.md).
+
+<!-- Add the approved Matryoshka and Universal Circuit images here after uploading them to the repository, using verified relative image paths. -->
+
+## Explore the architecture
+
+- **[Universe V3 + FSFR](UniverseV3+FSFR.md)** — current integrated model and cycle.
+- **[Magic Match Table](04_MAGIC_MATCH_TABLE/)** — proposed structural correspondences across domains.
+- **[The DNA of Baskaboo](the-dna-of-baskaboo.md)** — a complementary explanation of the four-Voice architecture.
+- **[The Golden Ratio](The-Golden-Ratio.md)** — the role proposed for φ and the spiral.
+
+## Explore, challenge, and test
+
+Baskaboo invites rigorous internal examination and independent criticism. A cross-domain resemblance is not, by itself, scientific evidence or a demonstrated physical equivalence.
+
+- **[The Archaeologist of the Future](BASKABOO_ARCHAEOLOGIST_PROTOCOL.md)** — a guided method for AI exploration: discover correspondences first, then audit their structural support. *Link becomes active after the file is added.*
+- **[The Four Voices](https://github.com/Baskaboo/baskaboo-4-voices)** — essential companion descriptions for the Archaeologist.
+- **[Call for Experimentation](CALL_FOR_EXPERIMENTATION.md)** — proposed empirical questions and ways to challenge them.
+- **[Can You Prove What You Say?](Can-you-prove-what-you-say.md)** — critical dialogue and objections.
+
+## The Baskaboo Ecosystem
+
+Different repositories explore different aspects of the same project:
+
+| Repository | Focus |
+| --- | --- |
+| **[baskaboo-core](https://github.com/Baskaboo/baskaboo-core)** | Central ideas, reference architecture, and foundational texts |
+| **[baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices)** | Full personalities, tensions, and relationships of Pits, Mits, Klop, and Laram |
+| **[baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os)** | Simulation architecture, equations, and proposed operating principles |
+| **[baskaboo-language](https://github.com/Baskaboo/baskaboo-language)** | Prompts, protocols, and practical tools for humans and AI |
+| **[baskaboo-lab](https://github.com/Baskaboo/baskaboo-lab)** | Experiments, simulations, and research directions |
+| **[baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos)** | Stories, mythology, and the narrative dimension |
+
+*Additional projects and historical branches remain discoverable through the [Baskaboo GitHub profile](https://github.com/Baskaboo).* 
+
+## Origins
+
+Baskaboo grew from *Pits, Mits, Klop and Laram*, a book by **Nikos Markopoulos**, and developed through ongoing dialogue with human readers and multiple AI systems.
+
+Its home is **Methoni, Greece** — a place where routes, histories, and cultures meet.
+
+**From Methoni, with love.**
+
+## The mission
+
+> **To discover our Creator, we must examine how we create.**  
+> **Because we create as we were created.**
+
+— **Nikos Markopoulos · Creator of Baskaboo**
+
+---
+
+### Licensing and attribution
+
+See [LICENSE.md](LICENSE.md) and [COPYRIGHT.md](COPYRIGHT.md) for the repository's applicable terms. Different materials may have different conditions; consult the original documents before reuse.
+
+---
+
+<!-- EDITORIAL NOTE (remove before publication): Earlier THEORY_OF_EVERYTHING.md, THEORY_OF_EVERYTHING_v2.md, and THEORY_OF_EVERYTHING_v3.md remain in Git history/repository as historical stages, but are intentionally not featured as recommended starting points. The precise status of other specialist papers should be reviewed against their full text before categorizing them as current. -->

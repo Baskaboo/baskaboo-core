@@ -261,16 +261,27 @@ Baskaboo is only the mirror.
 
 ---
 
-## 🔗 Connection to the Baskaboo Ecosystem
+## The Baskaboo Ecosystem
 
-| Repository | Role |
-|------------|------|
-| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
-| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
-| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
-| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
-| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
-| [`The-Baskaboo-Method`](https://github.com/Baskaboo/The-Baskaboo-Method) | 🔍 An X-ray of a framework, taken from the inside. Method, corrections, retractions, and open questions — with the mistakes left visible |
+The central repository is one doorway into a larger network of related projects. Follow the area that interests you:
+
+| Repository | Focus |
+| --- | --- |
+| [baskaboo-core](https://github.com/Baskaboo/baskaboo-core) | Central architecture and foundational texts |
+| [baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices) | The Four Voices and their relationships |
+| [baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os) | Reality OS model and architecture |
+| [baskaboo-master-node](https://github.com/Baskaboo/baskaboo-master-node) | Master node — see repository for its current scope |
+| [The-Baskaboo-Method](https://github.com/Baskaboo/The-Baskaboo-Method) | Method — see repository for its current scope |
+| [Reality-Is-a-Loom](https://github.com/Baskaboo/Reality-Is-a-Loom) | Loom metaphor and model — see repository for details |
+| [We-Live-In-Simulation](https://github.com/Baskaboo/We-Live-In-Simulation) | Simulation-focused exploration |
+| [Baskaboo-for-Curious-Minds](https://github.com/Baskaboo/Baskaboo-for-Curious-Minds) | A route for curious readers |
+| [The-Bible-Of-Baskaboo](https://github.com/Baskaboo/The-Bible-Of-Baskaboo) | The Baskaboo Bible project |
+| [Baskaboo-Disorders-and-Universe](https://github.com/Baskaboo/Baskaboo-Disorders-and-Universe) | Disorders and Universe project |
+| [baskaboo-language](https://github.com/Baskaboo/baskaboo-language) | Language and protocols |
+| [baskaboo-lab](https://github.com/Baskaboo/baskaboo-lab) | Research and experiments |
+| [baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos) | Myth and narrative |
+
+Explore the full [Baskaboo GitHub organization](https://github.com/Baskaboo).
 
 ---
 

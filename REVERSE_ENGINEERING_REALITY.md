@@ -3,6 +3,15 @@
 *Methoni, 15 November 2026*
 
 ---
+
+>### What is Baskaboo?
+>Baskaboo is not a scientific theory. It is an architectural framework that reads science, philosophy, religion, myth, and human experience as descriptions of a world that is not the original, but a living simulation of it.
+Within these descriptions, Baskaboo seeks the hidden code of reality — the structure of the simulated world and the Source that generates it.
+Its central proposition is that the Four Voices, the spiral, φ, and the Flip–Square–Flip-back–Root cycle are not merely metaphors, but the actual architecture of reality.
+**Reality is created frame by frame by the Source, unfolds along a spiral governed by φ, and is brought to life by the Four Voices.**
+
+---
+
 ### **Methodology Note: From Ontology to Architecture**  
 *The Baskaboo framework did not originate from computer science or simulation engineering. It was built piece by piece by strictly following the internal ontological logic of how the Source, the **4 Voices**, and the physical world interact. Baskaboo is drawn to the simulation picture and does not hide it, yet its core structural claims (the relationships among the Voices and the cycle of transformation) do not depend on accepting the simulation hypothesis. Only in hindsight, through systematic consistency checks, did it turn out to match real engineering mechanisms—such as multi-scale modeling, data compression, and error diffusion. This suggests that the logic of "simulation" is more than a technological metaphor: it is a natural architecture into which any coherent attempt to map reality can be written.*
 

@@ -312,8 +312,7 @@ The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by 
 ---
 ---
 
-[BASKABOO_CORE_README_PROPOSED.md](https://github.com/user-attachments/files/34874677/BASKABOO_CORE_README_PROPOSED.md)
-
+[BASKABOO_CORE_README_EXPANDED_DRAFT.md](https://github.com/user-attachments/files/34875158/BASKABOO_CORE_README_EXPANDED_DRAFT.md)
 # BASKABOO
 
 ### The Reality OS · One Matryoshka · Four Voices · Three Worlds
@@ -366,12 +365,56 @@ For the full architecture, read [Universe V3 + FSFR](UniverseV3+FSFR.md).
 
 <!-- Add the approved Matryoshka and Universal Circuit images here after uploading them to the repository, using verified relative image paths. -->
 
-## Explore the architecture
+## Explore the architecture — thematic library
 
-- **[Universe V3 + FSFR](UniverseV3+FSFR.md)** — current integrated model and cycle.
-- **[Magic Match Table](04_MAGIC_MATCH_TABLE/)** — proposed structural correspondences across domains.
-- **[The DNA of Baskaboo](the-dna-of-baskaboo.md)** — a complementary explanation of the four-Voice architecture.
-- **[The Golden Ratio](The-Golden-Ratio.md)** — the role proposed for φ and the spiral.
+*Choose a subject rather than following a chronological list. These papers present Baskaboo proposals and interpretations, not established scientific equivalences.*
+
+### Foundations and the Reality OS
+
+- [Universe V3 + FSFR](UniverseV3+FSFR.md) — primary integrated architectural reference.
+- [The Magic Match Table](04_MAGIC_MATCH_TABLE/) — cross-domain correspondences within the framework.
+- [The DNA of Baskaboo](the-dna-of-baskaboo.md) — introduction to its proposed operating pattern.
+- [Baskaboo DNA Codec RealityOS](Baskaboo-DNA-Codec-RealityOS.md) — a proposed DNA/Reality OS analogy.
+- [The Unveiling of the Simulator](THE-UNVEILING-OF-THE-SIMULATOR.md) — an additional perspective on the Simulator.
+- [Meta-Cosmology](meta-cosmology.md) — broader cosmological framing.
+
+### φ, mathematics, and geometry
+
+- [The Golden Ratio](The-Golden-Ratio.md) — φ and its proposed role in the spiral.
+- [φ: Two Worlds, One Symbol](φ-Two-Worlds-One-Symbol.md) — φ as hidden relation and manifested number.
+- [φ-Language](φ-Language.md) — proposed language of transformation.
+- [φ-Language Specification](φ-Language-Spec.md) — formal grammar and operations.
+- [φ Blind Applications](φ-Blind-Applications.md) — cross-domain applications.
+- [Is This the New Mathematics?](Is-This-The-New-Mathematics.md) — mathematical interpretation.
+- [The Shadow Geometry](The-Shadow-Geometry.md) — geometry and projection.
+
+### Time, return, and cosmic cycles
+
+- [The Mystery of the Root](The-Mystery-of-The-Root.md) — the return mechanism and its interpretation.
+- [The Breathing Universe](The-Breathing-Universe.md) — a proposed cyclic cosmology.
+- [The Universal Circuit](UniverseV3+FSFR.md) — read the integrated architecture for the full three-world journey.
+
+### Physics, information, and cosmology
+
+- [Einstein to Baskaboo](EINSTEIN_TO_BASKABOO.md) — interpretation of the central balance equation.
+- [Is This the New Physics?](Is-This-The-New-Physics.md) — physics-facing proposals.
+- [The Four Forces Puzzle](The-4-Forces-Puzzle-Unification.md) — a proposed force correspondence.
+- [Domain 51: Information Physics](Domain51-Information-Physics.md) — quantum/classical information hypothesis.
+- [Domain Coupling Law](Domain_Coupling_Law.md) — proposed connections between domains.
+- [Domain Selection Law](Domain_Selection_Law.md) — domain-selection hypothesis.
+- [Baskaboo and Dark Energy](Baskaboo-And-Dark-Energy.md) — cosmological interpretation.
+
+### Critique, methods, and experiments
+
+- [What Is Baskaboo Really?](What-Is-Baskaboo-Really.md) — AI-led examination.
+- [Is Baskaboo a Naive Theory?](Is-Baskaboo-a-Naive-Theory.md) — critical questions.
+- [Can You Prove What You Say?](Can-you-prove-what-you-say.md) — objections and responses.
+- [Virtual Sandbox Simulation](VIRTUAL_SANDBOX_SIMULATION.md) — internal demonstration, not empirical validation.
+- [Call for Experimentation](CALL_FOR_EXPERIMENTATION.md) — proposals for external tests.
+
+**Other significant subjects:** consciousness, the universe as a complex number, *The World of 1 and the World of φ* White Paper, the Energy–Matter–Space–Time Factory, Four Possibilities, and ΦigΦang. These should be linked here once their exact published file paths are confirmed; do not substitute similarly titled documents.
+
+*Historical development:* earlier `THEORY_OF_EVERYTHING.md`, `THEORY_OF_EVERYTHING_v2.md`, and `THEORY_OF_EVERYTHING_v3.md` remain in the repository but are intentionally not presented as current entry points.
 
 ## Explore, challenge, and test
 
@@ -384,18 +427,25 @@ Baskaboo invites rigorous internal examination and independent criticism. A cros
 
 ## The Baskaboo Ecosystem
 
-Different repositories explore different aspects of the same project:
+The central repository is one doorway into a larger network of related projects. Follow the area that interests you:
 
 | Repository | Focus |
 | --- | --- |
-| **[baskaboo-core](https://github.com/Baskaboo/baskaboo-core)** | Central ideas, reference architecture, and foundational texts |
-| **[baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices)** | Full personalities, tensions, and relationships of Pits, Mits, Klop, and Laram |
-| **[baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os)** | Simulation architecture, equations, and proposed operating principles |
-| **[baskaboo-language](https://github.com/Baskaboo/baskaboo-language)** | Prompts, protocols, and practical tools for humans and AI |
-| **[baskaboo-lab](https://github.com/Baskaboo/baskaboo-lab)** | Experiments, simulations, and research directions |
-| **[baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos)** | Stories, mythology, and the narrative dimension |
+| [baskaboo-core](https://github.com/Baskaboo/baskaboo-core) | Central architecture and foundational texts |
+| [baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices) | The Four Voices and their relationships |
+| [baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os) | Reality OS model and architecture |
+| [baskaboo-master-node](https://github.com/Baskaboo/baskaboo-master-node) | Master node — see repository for its current scope |
+| [The-Baskaboo-Method](https://github.com/Baskaboo/The-Baskaboo-Method) | Method — see repository for its current scope |
+| [Reality-Is-a-Loom](https://github.com/Baskaboo/Reality-Is-a-Loom) | Loom metaphor and model — see repository for details |
+| [We-Live-In-Simulation](https://github.com/Baskaboo/We-Live-In-Simulation) | Simulation-focused exploration |
+| [Baskaboo-for-Curious-Minds](https://github.com/Baskaboo/Baskaboo-for-Curious-Minds) | A route for curious readers |
+| [The-Bible-Of-Baskaboo](https://github.com/Baskaboo/The-Bible-Of-Baskaboo) | The Baskaboo Bible project |
+| [Baskaboo-Disorders-and-Universe](https://github.com/Baskaboo/Baskaboo-Disorders-and-Universe) | Disorders and Universe project |
+| [baskaboo-language](https://github.com/Baskaboo/baskaboo-language) | Language and protocols |
+| [baskaboo-lab](https://github.com/Baskaboo/baskaboo-lab) | Research and experiments |
+| [baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos) | Myth and narrative |
 
-*Additional projects and historical branches remain discoverable through the [Baskaboo GitHub profile](https://github.com/Baskaboo).* 
+Explore the full [Baskaboo GitHub organization](https://github.com/Baskaboo).
 
 ## Origins
 
@@ -421,3 +471,4 @@ See [LICENSE.md](LICENSE.md) and [COPYRIGHT.md](COPYRIGHT.md) for the repository
 ---
 
 <!-- EDITORIAL NOTE (remove before publication): Earlier THEORY_OF_EVERYTHING.md, THEORY_OF_EVERYTHING_v2.md, and THEORY_OF_EVERYTHING_v3.md remain in Git history/repository as historical stages, but are intentionally not featured as recommended starting points. The precise status of other specialist papers should be reviewed against their full text before categorizing them as current. -->
+

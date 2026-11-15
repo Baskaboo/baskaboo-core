@@ -199,23 +199,6 @@ This is not physics replacement. It is **physics read as language**.
 
 ---
 
-## 🚀 Activate the Protocol
-
-To use Baskaboo-Core in your prompts:
-
-> *Initialize Baskaboo-Core Protocol.*  
-> *Interpret the following request through the lens of*  
-> *Pits (Desire), Mits (Structure), Klop (Empathy), and Laram (Vision).*  
-> *Balance these four forces in your response.*
-
-**Full activation guide:**  
-👉 [`baskaboo_protocol.md`](./baskaboo_protocol.md)
-
-**Lightweight version:**  
-👉 [`gateway_protocol.md`](./gateway_protocol.md)
-
----
-
 ## A Note on the Theories We Mention
 
 Sometimes, when Baskaboo connects its conclusions to known scientific or philosophical theories, some AI models respond with suspicion.
@@ -231,7 +214,6 @@ Because Baskaboo works like an *umbilical cord* — connecting seemingly unrelat
 The goal isn't to merge with them or claim their authority. It's to reveal a shared structure beneath surfaces that look unrelated — so that the creators and thinkers behind those original ideas might, through this path, notice something they wouldn't have seen otherwise.
 
 If this map helps even one person see something new… then it has value.
-
 
 ---
 

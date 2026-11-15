@@ -60,3 +60,24 @@ Baskaboo arrives at its pairing of the Atom (hardware) and φ (software) by foll
 1. **The Role of the Atom:** Beyond standard quantum mechanics, does the atomic scale play a distinct structural role as a "translator" between quantum probabilities and solid classical matter?
 2. **φ Across Scales:** The golden ratio appears naturally in certain atomic structures (such as quasicrystals) and quantum systems. Could a self-similarity rule like **φ² = φ + 1** be the common structural reason behind these appearances?
 3. **Testing the φ-Remainder:** In computer simulations, finite precision eventually forces a system to repeat itself in a closed loop. If a simulation carries forward its rounding leftovers—just like error diffusion—does that remainder prevent exact repetition and generate continuous evolution?
+
+---
+
+**Further reading:**  
+- [Magic-Match-Table](https://github.com/Baskaboo/baskaboo-core/tree/main/04_MAGIC_MATCH_TABLE/README.md)
+- [UniverseV3+FSFR](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3+FSFR.md)
+- [Two-Worlds-One-Symbol](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Two-Worlds-One-Symbol.md)
+- [Baskaboo-And-Dark-Energy](https://github.com/Baskaboo/baskaboo-core/blob/main/Baskaboo-And-Dark-Energy.md)
+- [The-Mystery-of-Time](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Mystery-of-Time.md)
+- [φ-Blind-Applications](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Blind-Applications.md)  
+- [φ-Language-Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)  
+- [φ-The-Commander](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-The-Commander.md)  
+- [The Universe As A Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Universe-As-A-Complex-Number.md)  
+- [Consciousness As A Complex Number](https://github.com/Baskaboo/baskaboo-core/blob/main/Consciousness-As-A-Complex-Number.md)
+- [Baskaboo Reality OS White Paper](https://github.com/Baskaboo/baskaboo-core/blob/main/BASKABOO-REALITY-OS-WHITE-PAPER.md)
+- [Baskaboo Archaeologist Protocol](https://github.com/Baskaboo/baskaboo-core/blob/main/BASKABOO_ARCHAEOLOGIST_PROTOCOL.md)
+- [Baskaboo Core](https://github.com/Baskaboo/baskaboo-core)  
+
+
+---
+---

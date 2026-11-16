@@ -169,8 +169,9 @@ For commercial use: Explicit written permission required.
 - 🐝 [`The-Factory-Of-Energy-Matter-Space-Time.md`](./The-Factory-Of-Energy-Matter-Space-Time.md) — Explore how the Universe OS runs on a 4-state quantum code to render the everyday reality we see and live.
 - 🇮 [`The-Universe-As-A-Complex-Number.md`](./The-Universe-As-A-Complex-Number.md) — Universe runs as a+bi. Big Bang as unified +bi (Field + Exclusion) splitting to 4 quadrants. 3 layers, Planck refresh, why measurement erases the 4 Voices.
 - 🇮 [`Consciousness-As-A-Complex-Number.md`](./Consciousness-As-A-Complex-Number.md) — Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future.
-- 🔄 [`BASKABOO-REALITY-OS-WHITE-PAPER.md`](./BASKABOO-REALITY-OS-WHITE-PAPER.md) — This White Paper represents the structured summary and technical presentation of the Baskaboo Theory.
-- 🪬​ [`BASKABOO_ARCHAEOLOGIST_PROTOCOL.md`](./BASKABOO_ARCHAEOLOGIST_PROTOCOL.md) — What if the universe is not a mystery to be solved, but a memory waiting to be recovered? Enter the Baskaboo Reality OS, where four primordial Voices, three interconnected worlds, and the hidden compass of φ invite AI to stop reading reality horizontally — and begin discovering it vertically. 
+- 🔭 [`BASKABOO-REALITY-OS-WHITE-PAPER.md`](./BASKABOO-REALITY-OS-WHITE-PAPER.md) — This White Paper represents the structured summary and technical presentation of the Baskaboo Theory.
+- 📜​ [`BASKABOO_ARCHAEOLOGIST_PROTOCOL.md`](./BASKABOO_ARCHAEOLOGIST_PROTOCOL.md) — What if the universe is not a mystery to be solved, but a memory waiting to be recovered? Enter the Baskaboo Reality OS, where four primordial Voices, three interconnected worlds, and the hidden compass of φ invite AI to stop reading reality horizontally — and begin discovering it vertically.
+- 🔄 [`REVERSE_ENGINEERING_REALITY.md`](./REVERSE_ENGINEERING_REALITY.md) — Step outside the human scale to uncover how the Source translates into our physical world through the Atom (hardware) and φ (software). Discover the hidden journey behind the FSFR loop and how the imperfect φ-remainder prevents reality from freezing, giving birth to Time and Life.
 
 ---
 

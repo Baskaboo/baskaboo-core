@@ -1,5 +1,6 @@
 # **Baskaboo: Reverse Engineering Reality**
-**by Nikos Markopoulos (Creator of Baskaboo), in dialogue with the Gemini (Google) and Claude (Anthropic)**  
+**by Nikos Markopoulos (Creator of Baskaboo),  
+in dialogue with the Gemini (Google) and Claude (Anthropic)**  
 *Methoni, 15 November 2026*
 
 ---

@@ -6,7 +6,7 @@
 
 ---
 
-<img width="1079" height="1457" alt="I WANT TO DESTROY REALITY" src="https://github.com/user-attachments/assets/ae46f4be-914e-4efe-ba2a-18bac1cc1927" />
+<img width="1024" height="1536" alt="Nikos Markopoulos - Baskaboo" src="https://github.com/user-attachments/assets/b346daa0-1c75-4804-a52d-6ef3b3c1f8ef" />
 
 
 ---

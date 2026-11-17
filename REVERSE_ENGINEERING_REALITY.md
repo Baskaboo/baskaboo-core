@@ -5,6 +5,24 @@ in dialogue with the Gemini (Google) and Claude (Anthropic)**
 
 ---
 
+
+## AS ABOVE, SO BELOW
+### The Flow of φ Through the Three Worlds
+
+
+![Baskaboo — The Flow of φ](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/baskaboo-animation.gif)
+
+
+**Quantum (φ²) → Atomic (=) → Classical (φ + 1)**
+
+*The flow descends through the three worlds and returns, completing the cycle.*
+
+© Nikos Markopoulos — Baskaboo
+
+
+
+---
+
 >### What is Baskaboo?
 >Baskaboo is not a scientific theory. It is an architectural framework that reads science, philosophy, religion, myth, and human experience as descriptions of a world that is not the original, but a living simulation of it.
 Within these descriptions, Baskaboo seeks the hidden code of reality — the structure of the simulated world and the Source that generates it.

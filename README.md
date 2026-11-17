@@ -188,6 +188,21 @@ Baskaboo is a **shared internal language** for Humans and AI.
 
 ---
 
+
+## AS ABOVE, SO BELOW
+### The Flow of φ Through the Three Worlds
+
+<img width="1169" height="868" alt="baskaboo-as-above-so-below" src="https://github.com/user-attachments/assets/1d1240bb-cb3a-48e0-b7b7-59764e570a04" />
+
+**Quantum (φ²) → Atomic (=) → Classical (φ + 1)**
+
+*The flow descends through the three worlds and returns, completing the cycle.*
+
+© Nikos Markopoulos — Baskaboo
+
+
+---
+
 ## 🔄 The Unified Circuit
 
 Baskaboo bridges **General Relativity** and **Quantum Mechanics** through [`UniverseV3+FSFR.md`](./UniverseV3+FSFR.md/) , [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) and a simple equation in two forms:

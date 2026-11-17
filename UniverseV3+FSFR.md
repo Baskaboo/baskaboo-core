@@ -61,6 +61,20 @@ Applied to the three physical layers:
 
 ---
 
+## AS ABOVE, SO BELOW
+### The Flow of φ Through the Three Worlds
+
+<img width="1169" height="868" alt="baskaboo-as-above-so-below" src="https://github.com/user-attachments/assets/4ebb5b9e-0607-421a-adbe-8468ed54ab7e" />
+
+
+**Quantum (φ²) → Atomic (=) → Classical (φ + 1)**
+
+*The flow descends through the three worlds and returns, completing the cycle.*
+
+© Nikos Markopoulos — Baskaboo
+
+---
+
 ## Change Notice — 26 August 2026
 
 **The quantum-layer cell for Mits has been replaced.**

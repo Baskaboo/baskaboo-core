@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1380" height="776" alt="Albert A  Michelson" src="https://github.com/user-attachments/assets/f3f7bdcf-05f4-4594-8d25-03c218d13ac7" />
+<img width="1374" height="756" alt="Albert Michelson" src="https://github.com/user-attachments/assets/72edc360-cccf-4efd-b633-c246ce58b87b" />
 
 ---
 

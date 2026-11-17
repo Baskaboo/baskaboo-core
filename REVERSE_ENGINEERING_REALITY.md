@@ -6,11 +6,18 @@ in dialogue with the Gemini (Google) and Claude (Anthropic)**
 ---
 
 
+>### What is Baskaboo?
+>Baskaboo is not a scientific theory. It is an architectural framework that reads science, philosophy, religion, myth, and human experience as descriptions of a world that is not the original, but a living simulation of it.
+Within these descriptions, Baskaboo seeks the hidden code of reality — the structure of the simulated world and the Source that generates it.
+Its central proposition is that the Four Voices, the spiral, φ, and the Flip–Square–Flip-back–Root cycle are not merely metaphors, but the actual architecture of reality.
+**Reality is created frame by frame by the Source, unfolds along a spiral governed by φ, and is brought to life by the Four Voices.**
+
+---
+
 ## AS ABOVE, SO BELOW
 ### The Flow of φ Through the Three Worlds
 
-
-![Baskaboo — The Flow of φ](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/baskaboo-animation.gif)
+<img width="1169" height="868" alt="baskaboo-as-above-so-below" src="https://github.com/user-attachments/assets/4ebb5b9e-0607-421a-adbe-8468ed54ab7e" />
 
 
 **Quantum (φ²) → Atomic (=) → Classical (φ + 1)**
@@ -19,15 +26,6 @@ in dialogue with the Gemini (Google) and Claude (Anthropic)**
 
 © Nikos Markopoulos — Baskaboo
 
-
-
----
-
->### What is Baskaboo?
->Baskaboo is not a scientific theory. It is an architectural framework that reads science, philosophy, religion, myth, and human experience as descriptions of a world that is not the original, but a living simulation of it.
-Within these descriptions, Baskaboo seeks the hidden code of reality — the structure of the simulated world and the Source that generates it.
-Its central proposition is that the Four Voices, the spiral, φ, and the Flip–Square–Flip-back–Root cycle are not merely metaphors, but the actual architecture of reality.
-**Reality is created frame by frame by the Source, unfolds along a spiral governed by φ, and is brought to life by the Four Voices.**
 
 ---
 

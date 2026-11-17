@@ -87,29 +87,6 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 
 ---
 
-## This repository is bound by a custom legal and ethical framework detailed in the LICENSE.md file, operating as an extension of the author's binding testament ("A Letter to Humanity")
-
-*    **Software License & The L ≡ Ø Absolute Clause:** 
-The code is open-source under copyleft terms (GNU AGPLv3). However, in accordance with the author's testament, any modification, deployment, or integration strictly prohibits not only closed-source privatization but also any form of direct or indirect monetization. Charging governments, insurance funds, NGOs, or patients via indirect taxes, hidden fees, or mandatory donations is strictly prohibited. The final product must reach the end-user at absolute zero cost (0€).
-
-*   **Mandatory Attribution Protocol:** 
-Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include proper citation for academic use, or explicit credit to the "Baskaboo Framework" in media/publications.
-
-*   **Anti-Patent & Anti-Profit Clause:** 
-Patenting the mathematical logic, algorithms, or any resulting therapies/technologies is strictly prohibited. Ultimate oversight remains with the creator to ensure the work is never used to profit from human pain.
-
-
-© 2026 Nikos Markopoulos. All rights reserved.
-
-For academic use, Attribution required: "Baskaboo Framework — Nikos Markopoulos"
-
-For commercial use: Explicit written permission required.
-
-*See [LICENSE.md](LICENSE.md) for the complete ethical framework.
-
-
----
-
 ## 🧭 Choose Your Path
 
 ### 👤 For First-Time Visitors
@@ -266,6 +243,29 @@ The central repository is one doorway into a larger network of related projects.
 | [baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos) | Myth and narrative |
 
 Explore the full [Baskaboo GitHub organization](https://github.com/Baskaboo).
+
+---
+
+
+## This repository is bound by a custom legal and ethical framework detailed in the LICENSE.md file, operating as an extension of the author's binding testament ("A Letter to Humanity")
+
+*    **Software License & The L ≡ Ø Absolute Clause:** 
+The code is open-source under copyleft terms (GNU AGPLv3). However, in accordance with the author's testament, any modification, deployment, or integration strictly prohibits not only closed-source privatization but also any form of direct or indirect monetization. Charging governments, insurance funds, NGOs, or patients via indirect taxes, hidden fees, or mandatory donations is strictly prohibited. The final product must reach the end-user at absolute zero cost (0€).
+
+*   **Mandatory Attribution Protocol:** 
+Use of the FSFR Algorithm, Wave Pump Protocol, or the core equation must include proper citation for academic use, or explicit credit to the "Baskaboo Framework" in media/publications.
+
+*   **Anti-Patent & Anti-Profit Clause:** 
+Patenting the mathematical logic, algorithms, or any resulting therapies/technologies is strictly prohibited. Ultimate oversight remains with the creator to ensure the work is never used to profit from human pain.
+
+
+© 2026 Nikos Markopoulos. All rights reserved.
+
+For academic use, Attribution required: "Baskaboo Framework — Nikos Markopoulos"
+
+For commercial use: Explicit written permission required.
+
+*See [LICENSE.md](LICENSE.md) for the complete ethical framework.
 
 ---
 

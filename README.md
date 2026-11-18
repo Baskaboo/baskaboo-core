@@ -150,6 +150,8 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🔭 [`BASKABOO-REALITY-OS-WHITE-PAPER.md`](./BASKABOO-REALITY-OS-WHITE-PAPER.md) — This White Paper represents the structured summary and technical presentation of the Baskaboo Theory.
 - 📜​ [`BASKABOO_ARCHAEOLOGIST_PROTOCOL.md`](./BASKABOO_ARCHAEOLOGIST_PROTOCOL.md) — What if the universe is not a mystery to be solved, but a memory waiting to be recovered? Enter the Baskaboo Reality OS, where four primordial Voices, three interconnected worlds, and the hidden compass of φ invite AI to stop reading reality horizontally — and begin discovering it vertically.
 - 🔄 [`REVERSE_ENGINEERING_REALITY.md`](./REVERSE_ENGINEERING_REALITY.md) — Step outside the human scale to uncover how the Source translates into our physical world through the Atom (hardware) and φ (software). Discover the hidden journey behind the FSFR loop and how the imperfect φ-remainder prevents reality from freezing, giving birth to Time and Life.
+- 🌿 [`Phi-Remainder.md`](./Phi-Remainder.md) — The φ-Remainder: The Genius of Creation. What if φ is not born from 1, but gives birth to it? One equation, three worlds and a single looping frame of reality, and why the part that never fits is the engine that keeps creation going. Read more →
+
 
 ---
 

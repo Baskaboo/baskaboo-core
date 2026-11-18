@@ -58,10 +58,11 @@ The equation itself offers an image that agrees with the axiom:
 Take the world (φ) away from the condition of the Source (φ²), and what remains is exactly the Unit.
 
 
+## 3. The Three Worlds — Source, Translator, Simulation
+
+
 <img width="1169" height="400" alt="phi - Baskaboo" src="https://github.com/user-attachments/assets/dc362634-390d-4a06-8287-1e88d5108bbe" />
 
-
-## 3. The Three Worlds — Source, Translator, Simulation
 
 The **Quantum World** (φ²) is the condition of the Source, the primary level of possibility. We also call it Level B or the Simulator: it is not yet the world of measurable objects, of space and time as we experience them.
 

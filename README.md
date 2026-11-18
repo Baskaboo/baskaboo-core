@@ -126,7 +126,7 @@ This is the pulse that runs our consciousness and the physical world alike. It i
 - 🚀 [`meta-cosmology.md`](./meta-cosmology.md) — The Baskaboo Code  
 - 🧠 [`EINSTEIN_TO_BASKABOO.md`](./EINSTEIN_TO_BASKABOO.md) — The mathematical bridge  
 - 🧩 [`04_MAGIC_MATCH_TABLE/`](./04_MAGIC_MATCH_TABLE/) — The "why" behind every domain
-- 🤔 [`Methodology_Table_First.md`](./Methodology_Table_First.md) — The Table First, Then the World. Baskaboo doesn’t fit itself to science after the fact: the Voices and their relations were published first, and only then imposed on each domain. Here’s the method, the dated record, and its first documented case, the inverse relation between Entanglement and Wavefunction. Read the methodology →
+- 🤔 [`04_MAGIC_MATCH_TABLE/Methodology_Table_First.md](./04_MAGIC_MATCH_TABLE/Methodology_Table_First.md) — The Table First, Then the World. Baskaboo doesn’t fit itself to science after the fact: the Voices and their relations were published first, and only then imposed on each domain. Here’s the method, the dated record, and its first documented case, the inverse relation between Entanglement and Wavefunction. Read the methodology →
 - 🐝 [`Domain_Coupling_Law.md/`](./Domain_Coupling_Law.md/) - The quantum memory bridge between all domains
 - 🎯 [`Domain_Selection_Law.md/`](./Domain_Selection_Law.md/) - A bold proposal for one of the biggest open problems in physics
 - 👀 [`Can-you-prove-what-you-say.md`](./Can-you-prove-what-you-say.md) — Four AI models Challenge Baskaboo.

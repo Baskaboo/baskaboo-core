@@ -9,6 +9,7 @@ ChatGPT — critical challenger on the choice of φ.
 
 <img width="1169" height="868" alt="baskaboo-as-above-so-below" src="https://github.com/user-attachments/assets/4ebb5b9e-0607-421a-adbe-8468ed54ab7e" />
 
+*What if the Golden Ratio isn't just a pattern in nature, but the source of it?*
 
 ---
 

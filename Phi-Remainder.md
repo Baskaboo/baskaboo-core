@@ -173,4 +173,10 @@ This is the genius of creation: the Whole gives birth to the Unit, the Unit give
 *We build as we were built.*
 *The truth hides in the remainder.*
 
+---
+
+*This idea grows from the four archetypes of Pits, Mits, Klop and Laram, and the correspondences they reveal across our world. Explore the source: [Pits, Mits, Klop, Laram](https://www.amazon.de/dp/618005228X)*
+
+---
+
 Nikos Markopoulos — Baskaboo

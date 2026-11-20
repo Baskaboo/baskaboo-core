@@ -10,10 +10,14 @@ Nikos Markopoulos · Baskaboo · November 2026
 
 ---
 
+> **About Baskaboo**  
+> Baskaboo is a **pro-architecture**: a framework that reads physics, psychology, philosophy, theology, art and technology as different languages rendering the same deeper code. Where knowledge has been divided into specialised fragments, Baskaboo works on the big picture: the pattern that existed before the division.
+>
+> Science measures the parts. Baskaboo reconnects them. It does not add new data; it **recombines** what is already known, so that information becomes understanding, and learning becomes a creative, joyful and rapidly evolving story.
+>
+> It asks for neither belief nor institutional approval. It invites **inspection**: trace the correspondences, test their coherence, and see whether they click.
 
-> **A note on method.** Baskaboo is not a scientific theory and does not seek academic approval. It begins from axioms and works through correspondences. It recombines existing knowledge, from philosophy, mathematics and physics, into one coherent picture. Where it touches science, it says so; where it interprets, it says that too.
-
----
+----
 
 ## 1. Beyond the Number
 

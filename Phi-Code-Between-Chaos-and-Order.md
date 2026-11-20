@@ -11,7 +11,7 @@ Nikos Markopoulos · Baskaboo · November 2026
 ---
 
 
-> **A note on method.** Baskaboo is not a scientific theory and does not seek academic approval. It begins from axioms and works through correspondences. It does not claim to discover new facts; it recombines existing knowledge, from philosophy, mathematics and physics, into one coherent picture. Where it touches science, it says so; where it interprets, it says that too.
+> **A note on method.** Baskaboo is not a scientific theory and does not seek academic approval. It begins from axioms and works through correspondences. It recombines existing knowledge, from philosophy, mathematics and physics, into one coherent picture. Where it touches science, it says so; where it interprets, it says that too.
 
 ---
 

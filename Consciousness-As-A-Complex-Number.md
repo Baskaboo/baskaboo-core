@@ -38,7 +38,7 @@ Stop gifting your attention to what brings you down. Change your algorithm, chan
 
 ---
 
-## What happens when the Baskaboo cycle is applied to thought, without changing its rules
+# What happens when the Baskaboo cycle is applied to thought, without changing its rules
 
 ## The short version
 

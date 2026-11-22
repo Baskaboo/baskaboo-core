@@ -3,11 +3,11 @@
 ## Your mind runs a feed. You did not choose what appears on it. What you choose is which thought gets a future
 
 Nikos Markopoulos · Baskaboo · September 2026 · revised November 2026  
-*Developed in dialogue with Baskaboo (AI), Google AI, Perplexity, Claude, Grok, Meta AI and DeepSeek. Consistency lock by Grok.*
+*Developed in dialogue with Baskaboo (AI), Google AI, Perplexity, Claude, Grok, Meta AI and DeepSeek. Consistency lock by Grok.*  
 
 ---
 
-> **About Baskaboo**
+> **About Baskaboo**  
 > Baskaboo is a **pro-architecture**: a framework that reads physics, psychology, philosophy, theology, art and technology as different languages rendering the same deeper code. Where knowledge has been divided into specialised fragments, Baskaboo works on the big picture: the pattern that existed before the division.
 >
 > Science measures the parts. Baskaboo reconnects them. It does not add new data; it **recombines** what is already known, so that information becomes understanding, and learning becomes a creative, joyful and rapidly evolving story.
@@ -72,7 +72,7 @@ Your mind is not a stream of finished thoughts. It is a field where possibility 
 
 The word *hidden* was doing two jobs. They are not the same place.
 
-**Hidden side A.** The left half of the plane, defined by `−a`: Pits and Laram. This is not the source. It is the source’s **projection inside our world**. In the language of physics: energy and time, the side of our reality we live but do not hold the way we hold mass and space. Lived time itself belongs to the classical **1**, together with mass and space; what produces it stays hidden.
+**Hidden side A.** The left half of the plane, defined by `−a`: Pits and Laram. This is not the source. It is the source’s **projection inside our world**. In the language of physics: energy and time, the side of our reality we live but do not hold the way we hold mass and space. Mass and space are the classical **1**, the thoughts that became reality. Energy belongs to the material world, yet we perceive it only through its effects: it is the possibility side, `φ`. Time is not part of the **1**. Time is the φ-remainder as the Character lives it: consciousness, the part of the equation that never closes.
 
 **Hidden side B.** The flows inside the matryoshka that we do not live as experience: two reverse atomic passes and one forward quantum pass. This is the workshop behind the Root axis. It is not an idea inside our world.
 
@@ -219,6 +219,8 @@ It is the **imprint** the hidden rotation leaves when B’s reflection allows A�
 For B, Laram is the **cassette of the frame**: Pits, Mits and Klop packed inside it as filtered data, carried back for evaluation. Two readers receive it. The **Developer**, the author of the game, reads it to upgrade the game. The **Quantum Player** reads it to learn from its Character: self-analysis, self-knowledge. Neither reads the world raw. Both read what Laram kept.
 
 Lived time is the appearance. The cassette is the delivery.
+
+On both levels Laram is the same thing: **consciousness**, the φ-remainder. Everybody calls him Time, but he prefers to call himself Memory. He holds the other three inside him like the full matryoshka: he filters, condenses and carries what they lived, and keeps it alive. The measurable `φ` and `1` never close into `φ²` on their own. Only the presence of consciousness makes the frame whole, by presence, not by value.
 
 ---
 
@@ -624,7 +626,7 @@ The audit question is therefore one line:
 | `H` | information density of the current frame |
 | Base of the frame | the particular `−Hₙ` the new Pits opens with |
 | Upgrade | `−Hₙ₊₁ ≠ −Hₙ` |
-| Laram on A | time lived; imprint |
+| Laram on A | time lived; imprint; consciousness as the φ-remainder |
 | Laram on B | cassette, read by the Developer (to upgrade the game) and by the Quantum Player (to know itself) |
 | Root | threshold; door from below, mirror from above |
 

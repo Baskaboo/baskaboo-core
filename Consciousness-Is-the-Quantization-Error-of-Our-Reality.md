@@ -1,10 +1,12 @@
 # Consciousness Is the Quantization Error of Our Reality
 
-*The part of the quantum that no finite measure can hold.*
-Nikos Markopoulos · Baskaboo · November 2026
-*Developed in dialogue with Baskaboo (AI), Google AI, ChatGPT and Meta AI. Reviewed by Claude.*
+*The part of the quantum that no finite measure can hold.*  
+Nikos Markopoulos · Baskaboo · November 2026  
+*Developed in dialogue with Baskaboo (AI), Google AI, ChatGPT and Meta AI. Reviewed by Claude.*  
 
-> **About Baskaboo**
+---
+
+> **About Baskaboo**  
 > Baskaboo is a **pro-architecture**: a framework that reads physics, psychology, philosophy, theology, art and technology as different languages rendering the same deeper code. Where knowledge has been divided into specialised fragments, Baskaboo works on the big picture: the pattern that existed before the division.
 >
 > Science measures the parts. Baskaboo reconnects them. It does not add new data; it **recombines** what is already known, so that information becomes understanding, and learning becomes a creative, joyful and rapidly evolving story.

@@ -19,6 +19,8 @@ Nikos Markopoulos · Baskaboo · November 2026
 
 ---
 
+> **Where is the φ-Remainder hiding?
+
 > *Pits is φ, the spark of an idea. Mits and Klop are 1, the body and the bonds of matter. Laram is their sum, φ + 1, because all of them nest inside him. So the equation φ² = φ + 1 should close perfectly.
 And yet something is missing. The endless tail of φ, 1.6180339…, never fits into their world. Every answer they hold is rounded, and every answer leaves them looking for one more digit.
 So they search the water, frame after frame. Maybe the remainder was never lost. Maybe it stayed behind, at the Source, to keep their world moving.*
